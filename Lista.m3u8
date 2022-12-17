@@ -216,7 +216,7 @@ https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV Abierta", Canal Catorce (MX)
 https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TV Abierta", Canal 22.1
+#EXTINF:-1 group-title="TV Abierta", Canal 22.1
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyMiA4OjIxOjI3IEFNJmhhc2hfdmFsdWU9bjlOTzErWVRQdEswZnRMNG1kSisrZz09JnZhbGlkbWludXRlcz01JmlkPQ==
 
 #EXTINF:-1 tvg-logo="" group-title="TV Abierta", Canal 22.2
@@ -228,7 +228,7 @@ https://veranda-butacatv-2-mx.samsung.wurl.tv/2000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV Abierta", Cine Sony
 https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TV Abierta", CIne Life (US)
+#EXTINF:-1 tvg-logo="" group-title="TV Abierta", Cine Life (US)
 https://magselect-stirr.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TV Abierta", Toon Goggles en Español
