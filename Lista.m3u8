@@ -143,9 +143,6 @@ https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8?hdn
 #EXTINF:-1 tvg-logo="https://www.rtq.mx/wp-content/uploads/2022/03/Logo-RTQ-BLanco-1.png" group-title="TV Abierta", Canal 10 - RTQ
 https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="TV Abierta", Imagen Televisión
-https://www.dailymotion.com/cdn/live/video/x82z4if.m3u8?sec=PABVrdRuhB99y_VYT7kr-2hP9psmeUYftg5Fh3SrbXusIv7cHcmDq5FHFEjzFbWsCxe_nhaon4MfrUYwIQZ9cA&dmTs=150821&dmV1st=C4CF1FD4945A23446221ACBF77F96D48
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/768px-The_Weather_Channel_logo_2005-present.svg.png" group-title="Televisión por internet", The Weather Channel en Español
 https://linear-431.frequency.stream/431/hls/master/playlist.m3u8
 
@@ -238,7 +235,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 #EXTINF:-1 tvg-logo="http://www.tvmas.mx/wp-content/themes/TVMASv2/images/logoTVMASblanco.png" group-title="TV Abierta",TVMÁS - Veracruz
 https://5ca9af4645e15.streamlock.net/rtv/videortv/.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="TV Abierta",Imagen Televisión en Vivo
+#EXTINF:-1 tvg-logo="https://www.imagen.com.mx/imagen/logos/L_iTv_Horizontal_Blanco.svg" group-title="TV Abierta",Imagen Televisión
 https://dailymotionlive.akamaized.net/sec(YDiRVmci6dFcTAVfdXnSLsYDoEsthq_F6S344hDfb3erPNEQkcffuMbkK6InIbKY)/dm/3/x82z4if/d/live-2.m3u8
 
 
