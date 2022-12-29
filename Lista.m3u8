@@ -264,6 +264,10 @@ https://60ed5b6d0df78.streamlock.net:1936/enlinea/enlinea/chunklist_w1056120456.
 #EXTINF:-1 tvg-id="TelevisaSanLuisPotosi.mx" tvg-logo="https://i.imgur.com/oxt91dr.jpg" group-title="Undefined",Televisa San Luis Potosí (720p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCaRuyaHshLdq462E9_pLzdA/live
 
+#EXTINF:-1 tvg-logo="http://www.tvmas.mx/wp-content/themes/TVMASv2/images/logoTVMASblanco.png" group-title="TV Abierta (México)",TVMÁS - Veracruz
+https://5ca9af4645e15.streamlock.net/rtv/videortv/.m3u8
+
+
 ---------
 
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9995104/500x500.png?type=color_onBlack" group-title="Xumo.TV", iHeartRadio Latino
