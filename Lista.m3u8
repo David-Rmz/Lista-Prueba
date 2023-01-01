@@ -81,6 +81,8 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/640px-Azteca_Uno_%282020%29.svg.png" group-title="TV Abierta", Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/428px-Multimedios_Canal_Seis_Logo.svg.png" group-title="TV Abierta", Bajío TV
+https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8?uid=45MYCp5K2CGOq5jC2f1ipUphtqkkTnUR&sid=YV8RhDqbfmKqBj66mcyeIOuM5BeG2FBS&pid=YCkfU6Vkyrr8TvUhMCoxHGpcvAGvwCAM&an=screen&at=web-app&av=v5.2.295&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=312x156&without_cookies=false&listenerid=&dnt=true
 
 
 
@@ -97,8 +99,6 @@ https://5ca3e84a76d30.streamlock.net:443/tvunam/videotvunam/playlist.m3u8?DVR
 #EXTINF:-1 tvg-logo="https://canaloncetv.s3.us-east-1.amazonaws.com/REST/data/images/logo-menu.webp" group-title="TV Abierta", Canal Once
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/428px-Multimedios_Canal_Seis_Logo.svg.png" group-title="TV Abierta", Bajío TV
-https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8?uid=45MYCp5K2CGOq5jC2f1ipUphtqkkTnUR&sid=YV8RhDqbfmKqBj66mcyeIOuM5BeG2FBS&pid=YCkfU6Vkyrr8TvUhMCoxHGpcvAGvwCAM&an=screen&at=web-app&av=v5.2.295&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=312x156&without_cookies=false&listenerid=&dnt=true
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Logo_XEIMT-TV.svg/512px-Logo_XEIMT-TV.svg.png" group-title="TV Abierta", Canal 22
 https://5fc584f3f19c9.streamlock.net:443/canal22/smil:canal22.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDc6MDY6MzYgQU0maGFzaF92YWx1ZT1aQXIwV1RJMzBrZ2NpYlhmQzBzOE1nPT0mdmFsaWRtaW51dGVzPTUmaWQ9
@@ -153,8 +153,12 @@ https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8?hdn
 #EXTINF:-1 tvg-logo="https://www.rtq.mx/wp-content/uploads/2022/03/Logo-RTQ-BLanco-1.png" group-title="TV Abierta", Canal 10 - RTQ
 https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/768px-The_Weather_Channel_logo_2005-present.svg.png" group-title="Televisión por internet", The Weather Channel en Español
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/768px-The_Weather_Channel_logo_2005-present.svg.png" group-title="TV por internet", The Weather Channel en Español
 https://linear-431.frequency.stream/431/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nW3oOJqNFACe6hVQJpD5YRboVxgtqJM1RUvQBgKD8F-wm-VnMctbFSVXKOANev3-etc" group-title="TV por internet", Butaca TV
+https://veranda-butacatv-2-mx.samsung.wurl.tv/2000.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://kanalddrama.com/assets/img/logo_bottom2.png" group-title="TV Abierta", Kanal D
 https://amg01602-themahqfrance-vivekanald-samsungspain-uu2zn.amagi.tv/playlist/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
@@ -188,8 +192,6 @@ https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8?wms
 #EXTINF:-1 tvg-logo="" group-title="TV Abierta", Canal 22.2
 https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyMiA4OjIxOjU4IEFNJmhhc2hfdmFsdWU9UTY1ZE9nZm5MNGxNYk5WUkFKaWxmdz09JnZhbGlkbWludXRlcz01JmlkPQ==
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nW3oOJqNFACe6hVQJpD5YRboVxgtqJM1RUvQBgKD8F-wm-VnMctbFSVXKOANev3-etc" group-title="TV Abierta", Butaca TV
-https://veranda-butacatv-2-mx.samsung.wurl.tv/2000.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TV Abierta", Cine Sony
 https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
