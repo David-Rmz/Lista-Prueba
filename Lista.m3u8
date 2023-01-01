@@ -75,11 +75,122 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3528&avod=1&coppa=0&is_lat
 
 ----------------------
 
+#EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/b3099d3/2147483647/strip/true/crop/354x186+15+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2Fc9%2Fe9%2F9c090b71468ab8d9d55a1642804f%2Flogo-amas-sitio.png" group-title="TV Abierta", a más + 7.2 
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/5e59370/2147483647/strip/true/crop/588x208+0+0/resize/1300x460!/quality/100/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2Feb%2F02%2F27e0bb444a8faff6cf336e6f40ea%2Flogoadn40.png" group-title="TV Abierta", ADN 40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/2a5ad51/2147483647/strip/true/crop/500x242+0+0/resize/192x93!/quality/80/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2Fba%2Fcb%2F90af00864d81bcc6fd58633c663b%2Flogoazteca7siete2019-2317490.png" group-title="TV Abierta", Azteca 7
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/79f8da4/2147483647/strip/true/crop/199x46+0+0/resize/199x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F78%2F27%2F95e8ddb34a27ab94ec89a2291afa%2Faztecauno-199-46.png" group-title="TV Abierta", Azteca Uno
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/428px-Multimedios_Canal_Seis_Logo.svg.png" group-title="TV Abierta", Bajío TV
+https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8?uid=45MYCp5K2CGOq5jC2f1ipUphtqkkTnUR&sid=YV8RhDqbfmKqBj66mcyeIOuM5BeG2FBS&pid=YCkfU6Vkyrr8TvUhMCoxHGpcvAGvwCAM&an=screen&at=web-app&av=v5.2.295&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=312x156&without_cookies=false&listenerid=&dnt=true
+
+#EXTINF:-1 tvg-logo="https://www.tvcuatro.com/images/logo-menu.png" group-title="TV Abierta", Canal 4.1
+https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
+#EXTINF:-1 tvg-logo="https://canal7slp.tv/2022/wp-content/uploads/2021/05/logo-c7.png" group-title="TV Abierta", Canal 7 (SLP)
+https://mvtvstream.com:444/live/62b7143c6eea3/index.m3u8
+#EXTINF:-1 tvg-logo="http://sac.canal10.tv/canal10_t.png" group-title="TV Abierta", Canal 10
+https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.rtq.mx/wp-content/uploads/2022/03/Logo-RTQ-BLanco-1.png" group-title="TV Abierta", Canal 10 - RTQ
+https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Logo_XEIMT-TV.svg/512px-Logo_XEIMT-TV.svg.png" group-title="TV Abierta", Canal 22.1
+https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyMiA4OjIxOjI3IEFNJmhhc2hfdmFsdWU9bjlOTzErWVRQdEswZnRMNG1kSisrZz09JnZhbGlkbWludXRlcz01JmlkPQ==
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Logo_XEIMT-TV.svg/512px-Logo_XEIMT-TV.svg.png" group-title="TV Abierta", Canal 22.2
+https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyMiA4OjIxOjU4IEFNJmhhc2hfdmFsdWU9UTY1ZE9nZm5MNGxNYk5WUkFKaWxmdz09JnZhbGlkbWludXRlcz01JmlkPQ==
+#EXTINF:-1 tvg-logo="https://srtvnl.com/wp-content/uploads/2020/03/Logo_Canal28_2020_png.png" group-title="TV Abierta", Canal 28 - Nuevo León
+https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/chunklist_w436040449.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Canal_Catorce.png/640px-Canal_Catorce.png" group-title="TV Abierta", Canal Catorce
+https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/.m3u8
+#EXTINF:-1 tvg-logo="https://radio.canaldelcongreso.gob.mx/Congreso/dist/images/451_big.png" group-title="TV Abierta", Canal del Congreso México 45.1
+https://edgeplay.canaldelcongreso.gob.mx/live_sd1/smil:canal-sd1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radio.canaldelcongreso.gob.mx/Congreso/dist/images/452_big.png" group-title="TV Abierta", Canal del Congreso México 45.2
+https://edgeplay.canaldelcongreso.gob.mx/live_sd2/smil:canal-sd2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radio.canaldelcongreso.gob.mx/Congreso/dist/images/453_big.png" group-title="TV Abierta", Canal del Congreso México 45.3
+https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://canaloncetv.s3.us-east-1.amazonaws.com/REST/data/images/logo-menu.webp" group-title="TV Abierta", Canal Once
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/.m3u8
+#EXTINF:-1 tvg-logo="https://www.capital21.cdmx.gob.mx/clasificados/assets/img/logo%20coraz%C3%B3n%20de%20la%20capital.png" group-title="TV Abierta", Capital 21
+https://video.cdmx.gob.mx/livestream/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/428px-Multimedios_Canal_Seis_Logo.svg.png" group-title="TV Abierta", CDMX TV
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+#EXTINF:-1 tvg-logo="https://affiliates.cinesony.com/themes/custom/cinesony_theme/images/sonycine-logo.png" group-title="TV Abierta", Cine Sony
+https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/428px-Multimedios_Canal_Seis_Logo.svg.png" group-title="TV Abierta", Ciudad Juárez TV
+https://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8?uid=45MYCp5K2CGOq5jC2f1ipUphtqkkTnUR&sid=YV8RhDqbfmKqBj66mcyeIOuM5BeG2FBS&pid=VSOHd8NbWmToyy5gnkcPRKFJMa1XVBuA&an=screen&at=web-app&av=v5.2.295&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=312x156&without_cookies=false&listenerid=&dnt=true
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6227cb54ed9b675b3a7689ef/802829316a4a153748139bfb1aad9254" group-title="TV Abierta", Foro TV
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8?hdnea=exp=1671006360~acl=/*~hmac=d76f8184080dbc2345386ad39fcea8a22d14bc39bc52a7683ca86c380408bf2f
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/212px-Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="TV Abierta",Imagen Televisión
+https://dailymotionlive.aamaized.net/sec(YDiRVmci6dFcTAVfdXnSLsYDoEsthq_F6S344hDfb3erPNEQkcffuMbkK6InIbKY)/dm/3/x82z4if/d/live-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://kanalddrama.com/assets/img/logo_bottom2.png" group-title="TV Abierta", Kanal D
+https://amg01602-themahqfrance-vivekanald-samsungspain-uu2zn.amagi.tv/playlist/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/428px-Multimedios_Canal_Seis_Logo.svg.png" group-title="TV Abierta", Laguna TV
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?uid=45MYCp5K2CGOq5jC2f1ipUphtqkkTnUR&sid=YV8RhDqbfmKqBj66mcyeIOuM5BeG2FBS&pid=r0lBfGnKRpnmtH9gkP5eheL2hhW6McGa&an=screen&at=web-app&av=v5.2.295&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=312x156&without_cookies=false&listenerid=&dnt=true
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Televisi%C3%B3n_Mexiquense_%28c._2020%29.png" group-title="TV Abierta", Mexiquense TV
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDIyIDEyOjI5OjU3IEFNJmhhc2hfdmFsdWU9ZnhGekR3a0ZiQm1GOE1lNjFjRVRFZz09JnZhbGlkbWludXRlcz01JmlkPQ==
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Milenio_Television.png/248px-Milenio_Television.png" group-title="TV Abierta", Milenio Televisión
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+#EXTINF:-1 tvg-logo="https://static1.s123-cdn-static-a.com/uploads/2287839/2000_62422e9799a05.png" group-title="TV Abierta", Nueve TV (SLP)
+https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/428px-Multimedios_Canal_Seis_Logo.svg.png" group-title="TV Abierta", Puebla TV
+https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8?uid=45MYCp5K2CGOq5jC2f1ipUphtqkkTnUR&sid=NzmE8IqUeee2ihUEvG0LGVF4VZnRVAAq&pid=n1O5ShCrzvjF8QszJEeaJnR0dMGMc2R6&an=screen&at=web-app&av=v5.2.295&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=312x156&without_cookies=false&listenerid=&dnt=true
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/428px-Multimedios_Canal_Seis_Logo.svg.png" group-title="TV Abierta", Saltillo TV
+https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8?uid=45MYCp5K2CGOq5jC2f1ipUphtqkkTnUR&sid=NzmE8IqUeee2ihUEvG0LGVF4VZnRVAAq&pid=PXsOs7RgSjEBCJcfpMw2JseqLG5iDtv6&an=screen&at=web-app&av=v5.2.295&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=312x156&without_cookies=false&listenerid=&dnt=true
+
+#EXTINF:-1 tvg-logo="https://sistemamichoacano.tv/wp-content/uploads/2022/04/cropped-logo-smrtv-web-1.jpg" group-title="TV Abierta", Sistema Michoacano de Radio y Televisión
+https://60ed5b6d0df78.streamlock.net:1936/enlinea/enlinea/chunklist_w1056120456.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/35FteDvNMJLg_9kLT7y2Dgf1GC38wSd7efe4G8hGNMe8V1xIhODEe0AEFMBvWroMZQxnhWJt" group-title="TV Abierta", TELEFÓRMULA
+https://mdstrm.com/live-stream-playlist/61e1e088d04d7744686afc42.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/428px-Multimedios_Canal_Seis_Logo.svg.png" group-title="TV Abierta", Teleritmo TV
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?uid=45MYCp5K2CGOq5jC2f1ipUphtqkkTnUR&sid=CaRPmFmzUvqCdRQatlPmuDWR4ZznqxoS&pid=XV70sQg0Xq2yER2E3uTn5CxgDoLLSNtO&an=screen&at=web-app&av=v5.2.295&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=312x156&without_cookies=false&listenerid=&dnt=true
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/I1001igRMbYb_tef1k15fMqClHgZqRTHFVtl1JszU_2CiK0-gmf1VeQ_6MbJ_Yn5WsPbOV3uYQ" group-title="TV Abierta", TELE YUCATÁN
+https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyMiA5OjU1OjA2IEFNJmhhc2hfdmFsdWU9b05UTy8xK2lQS2o1Y2YvRjQyQlhtUT09JnZhbGlkbWludXRlcz0xMCZpZD0=
+
+#EXTINF:-1 tvg-logo="https://tvmar.tv/tvmar-logo.png" group-title="TV Abierta", TV Mar
+https://5ca3e84a76d30.streamlock.net:443/tvmarvallarta/videotvmarvallarta/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvmas.mx/wp-content/themes/TVMASv2/images/logoTVMASblanco.png" group-title="TV Abierta",TVMÁS - Veracruz
+https://5ca9af4645e15.streamlock.net/rtv/videortv/.m3u8
+#EXTINF:-1 tvg-logo="https://tv.unam.mx/wp-content/uploads/2019/04/aureola-blanca50.png" group-title="TV Abierta", TV UNAM
+https://5ca3e84a76d30.streamlock.net:443/tvunam/videotvunam/playlist.m3u8?DVR
 
 
+#EXTINF:-1 tvg-id="TelevisaSanLuisPotosi.mx" tvg-logo="https://i.imgur.com/oxt91dr.jpg" group-title="TV Abierta",Televisa San Luis Potosí (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCaRuyaHshLdq462E9_pLzdA/live
 
+----------------------
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/768px-The_Weather_Channel_logo_2005-present.svg.png" group-title="TV por internet", The Weather Channel en Español
+https://linear-431.frequency.stream/431/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nW3oOJqNFACe6hVQJpD5YRboVxgtqJM1RUvQBgKD8F-wm-VnMctbFSVXKOANev3-etc" group-title="TV por internet", Butaca TV
+https://veranda-butacatv-2-mx.samsung.wurl.tv/2000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV por internet", Cine Life (US)
+https://magselect-stirr.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/c/epg/channels/logos/gracenote/cc3fb809dcbadcca77d51c75980f74ee.png" group-title="TV por internet", Tastemade en Español
+https://tastemadees16intl-brightcove.amagi.tv/playlist.m3u8
+
+----------------------
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="TV de pago", DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV de pago", Love Nature en Español
+https://bam-lovenature-spa-plex.amagi.tv/playlist.m3u8
+
+----------------------
+
+#EXTINF:-1 tvg-logo="https://www.toongoggles.com/themes/custom/tg/toon_goggles/logo.png" group-title="VOD", Toon Goggles en Español
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
 
 ----------------------
 
@@ -96,14 +207,14 @@ https://d26ryn1s9vxsg0.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99951120/500x500.png?type=color_onBlack" group-title="Xumo.TV", FILMEX
 https://d26ryn1s9vxsg0.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-main-hlsv3/playlist.m3u8?ads.channelId=99951120&ads.caid=FilmexPeliculas&ads.csid=xumo_desktopweb_filmexpeliculas_ssai&ads._fw_is_lat=1&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=dpid:2510ba66-45c6-f283-0726-9328c1049cc0&ads._fw_vcid2=512116:2510ba66-45c6-f283-0726-9328c1049cc0&ads._fw_app_bundle=&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=null&ads._fw_content_language=en&ads._fw_content_length=&ads._fw_content_rating=undefined&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_deviceType=3-Connected_TV&ads.appVersion=&ads.appName=xumo&ads.xumo_contentId=3535&ads.xumo_contentName=FilmexPeliculas&ads.xumo_providerId=3535&ads.xumo_providerName=FilmexPeliculas 
 
----------
+----------------------
 
 #EXTINF:-1 tvg-logo="https://herogo-origin001.sotalcloud.com/contentserver/v2/distributions/22747287/content/1658868597330_box%20cinema.png" group-title="HeroGO TV",Box Cinema
 https://a3217fc30ca14304a9a696b5d87dc7e1.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/herogo-origin001NPR-NP/25055092/content/m.m3u8
 #EXTINF:-1 tvg-logo="https://herogo-origin001.sotalcloud.com/contentserver/v2/distributions/22793497/content/1659042560313_mustseemovies.png" group-title="HeroGO TV",Must See Movies!
 https://a3217fc30ca14304a9a696b5d87dc7e1.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/herogo-origin001NPR-NP/25054982/content/m.m3u8
 
----------
+----------------------
 
 #EXTINF:-1 tvg-chno="902" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/62696ee4ecd0c619ac7f9922" group-title="Local NOW",The Weather Channel En Español
 https://twcespanol-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6266f276d322b817d80304a9_twcespanol-live/index.m3u8?ads.ac.t=aHR0cHM6Ly90di5zcHJpbmdzZXJ2ZS5jb20vcnQvMjMyNQ%3D%3D&ads.cb=16563708885573816&ads.w=370&ads.h=208&ads.url=https%3A%2F%2Flocalnow.com%2Fchannels%2Fepg-twc-espanol&ads.app_bundle=&ads.app_name=&ads.app_store_url=&ads.app_version=&ads.pos=mid&ads.did=&ads.ifa_type=&ads.dnt=0&ads.device_make=&ads.device_model=&ads.device_type=&ads.cust_devicename=desktop_web&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F108.0.0.0%20Safari%2F537.36%20Edg%2F108.0.1462.54&ads.channel_id=6266f276d322b817d80304a9&ads.content_custom_1_param=6266f276d322b817d80304a9&ads.channel_title=EPG-TWC_Espanol&ads.channel_contenttype=Shows&ads.channel_name=EPG-TWC_Espanol&ads.channel_genre=En%20Espanol&ads.channel_rating=&ads.channel_language=&ads.channel_contentlen=1800&ads.content_livestream=1&ads.network_name=twc-espanol&ads.content_provider=twc-espanol&ads.ip=161.129.70.136&ads.us_privacy=&ads.payid=6ec8debb969b70cf&ads.SSID=&ads.hybrid=0&ads.aml=1&ads.tag_id=localnow&ads.adc_token=QkdCQkNKSEFCREdNbDAoZHNOVFQxLjtXNjt4NClBaTYoVCxsa2VHaylDMDBTLzZFMDQ
