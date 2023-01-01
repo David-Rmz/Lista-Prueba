@@ -73,6 +73,18 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3528&avod=1&coppa=0&is_lat
 
 ----------------------
 
+#EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/b3099d3/2147483647/strip/true/crop/354x186+15+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2Fc9%2Fe9%2F9c090b71468ab8d9d55a1642804f%2Flogo-amas-sitio.png" group-title="TV Abierta", a más + 
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/XHTVM_-_ADN40.svg/614px-XHTVM_-_ADN40.svg.png" group-title="TV Abierta", ADN 40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/452px-Logo_Azteca_7_2011.svg.png" group-title="TV Abierta", Azteca 7
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/640px-Azteca_Uno_%282020%29.svg.png" group-title="TV Abierta", Azteca Uno
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/428px-Multimedios_Canal_Seis_Logo.svg.png" group-title="TV Abierta", Laguna TV
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?uid=45MYCp5K2CGOq5jC2f1ipUphtqkkTnUR&sid=YV8RhDqbfmKqBj66mcyeIOuM5BeG2FBS&pid=r0lBfGnKRpnmtH9gkP5eheL2hhW6McGa&an=screen&at=web-app&av=v5.2.295&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=312x156&without_cookies=false&listenerid=&dnt=true
 
@@ -106,8 +118,6 @@ https://us-b5-p-e-wo1.cdn.mdstrm.com/live-stream-dai/5f2d9d6ff17144074bd8a284/fd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Televisi%C3%B3n_Mexiquense_%28c._2020%29.png" group-title="TV Abierta", Mexiquense TV
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDIyIDEyOjI5OjU3IEFNJmhhc2hfdmFsdWU9ZnhGekR3a0ZiQm1GOE1lNjFjRVRFZz09JnZhbGlkbWludXRlcz01JmlkPQ==
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/A%2B_2021.svg/200px-A%2B_2021.svg.png" group-title="TV Abierta", A Más + TV
-https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.canaldelcongreso.gob.mx/Resources/Medias/Generales/jha5m2nc.png" group-title="TV Abierta", Canal del Congreso México 45.1
 https://edgeplay.canaldelcongreso.gob.mx/live_sd1/smil:canal-sd1.smil/playlist.m3u8
@@ -152,23 +162,11 @@ https://amg01602-themahqfrance-vivekanald-samsungspain-uu2zn.amagi.tv/playlist/a
 #EXTINF:-1 tvg-logo="" group-title="TV Abierta", Milenio Televisión
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/640px-Azteca_Uno_%282020%29.svg.png" group-title="TV Abierta", Azteca Uno
-https://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/640px-Azteca_Uno_%282020%29.svg.png" group-title="TV Abierta", Azteca Uno (2)
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/452px-Logo_Azteca_7_2011.svg.png" group-title="TV Abierta", Azteca 7
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/b3099d3/2147483647/strip/true/crop/354x186+15+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2Fc9%2Fe9%2F9c090b71468ab8d9d55a1642804f%2Flogo-amas-sitio.png" group-title="TV Abierta", a más + 7.2 
-https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/XHTVM_-_ADN40.svg/614px-XHTVM_-_ADN40.svg.png" group-title="TV Abierta", ADN 40
-https://us-b4-p-e-mg17.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/ajJQI39aQd69Omr0hRZw9Q/stream/40e53a15-505a-4fef-8602-bef19568c035:TUL/master.m3u8?uid=45MYCp5K2CGOq5jC2f1ipUphtqkkTnUR&sid=CaRPmFmzUvqCdRQatlPmuDWR4ZznqxoS&pid=EBKgfZjGAt4UvCy0TQkGdispZUGnlOln&ref=https%3A%2F%2Flive.adn40.mx%2F&without_cookies=false&listenerid=&dnt=true&ote=1670295973564&ot=urIEbrX1o4AuFUmrUiUTgw&es=us-b4-p-e-mg17.cdn.mdstrm.com&proto=https&pz=us&aid=5fea0f3673148d5d52cf6a76
 
-#EXTINF:-1 tvg-logo="" group-title="TV Abierta", ADN 40 (MX)
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="", DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
