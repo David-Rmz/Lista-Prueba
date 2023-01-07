@@ -124,8 +124,6 @@ https://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8?uid=45MYCp
 
 #EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6227cb54ed9b675b3a7689ef/802829316a4a153748139bfb1aad9254" group-title="TV Abierta", Foro TV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8?hdnea=exp=1671006360~acl=/*~hmac=d76f8184080dbc2345386ad39fcea8a22d14bc39bc52a7683ca86c380408bf2f
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/212px-Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="TV Abierta",Imagen Televisión
-https://www.dailymotion.com/cdn/live/video/x82z4if.m3u8?sec=PABVrdRuhB99y_VYT7kr-44kKKQXP9CMft8OltUT6X6woa590grBya2FyGk8dTMI8Lkj1b3QXcVEQK-hh2pMAQ&dmTs=208486&dmV1st=88C1497EEE28E7E741FEDBAE4EB54F29
 
 #EXTINF:-1 tvg-logo="https://kanalddrama.com/assets/img/logo_bottom2.png" group-title="TV Abierta", Kanal D
 https://amg01602-themahqfrance-vivekanald-samsungspain-uu2zn.amagi.tv/playlist/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
