@@ -158,9 +158,10 @@ https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="https://tvmar.tv/tvmar-logo.png" group-title="TV Abierta", TV Mar
 https://5ca3e84a76d30.streamlock.net:443/tvmarvallarta/videotvmarvallarta/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvmas.mx/wp-content/themes/TVMASv2/images/logoTVMASblanco.png" group-title="TV Abierta",TVMÁS - Veracruz
+
+#EXTINF:-1 tvg-id="XHGVTDT.mx" tvg-logo="http://www.tvmas.mx/wp-content/themes/TVMASv2/images/logoTVMASblanco.png" group-title="TV Abierta",TVMÁS - Veracruz
 https://5ca9af4645e15.streamlock.net/rtv/videortv/.m3u8
-#EXTINF:-1 tvg-logo="https://tv.unam.mx/wp-content/uploads/2019/04/aureola-blanca50.png" group-title="TV Abierta", TV UNAM
+#EXTINF:-1 tvg-id="TVUNAM.mx" tvg-logo="https://tv.unam.mx/wp-content/uploads/2019/04/aureola-blanca50.png" group-title="TV Abierta",TV UNAM
 https://5ca3e84a76d30.streamlock.net:443/tvunam/videotvunam/playlist.m3u8?DVR
 
 
@@ -460,3 +461,5 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62d1efa6c339
 https://plexaaaaa-estrellatv-plex-2x4vu.amagi.tv/playlist/plexAAAAA-estrellatv-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=yA8aFZC94-Az2RAPHMpT&channelId=60089d98f682a3002c34829f&device_id_type=&ifa_type=ppid&url=app.plex.tv&app_name=plex&app_bundle=com.plexapp.android&app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&gdpr=0&gdpr_consent=0&coppa=0&ua=okhttp%2F4.9.0&ip=185.236.200.172&brand_name=&device_model=&device_type=handset&w=&h=&partner_id=tengotalentomuchotalento&ads.us_privacy=1---&ads.did=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.X-Plex-Token=yA8aFZC94-Az2RAPHMpT&ads.channelId=60089d98f682a3002c34829f&ads.coppa=0
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-636442f69aabc8029c6d6b8d" tvg-id="5e20b730f2f8d5003d739db7-636442f69aabc8029c6d6b8d" tvg-logo="https://provider-static.plex.tv/epg/cms/production/880a210b-f794-4dcd-aefc-e30393666c42/TheBobRossChannel_enEspa_ol_outlinedWHITE_-_Suzanne_Yeerdx.png",The Bob Ross Channel en Español
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-636442f69aabc8029c6d6b8d.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=yA8aFZC94-Az2RAPHMpT
+
+
