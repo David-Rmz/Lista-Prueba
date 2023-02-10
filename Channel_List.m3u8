@@ -412,7 +412,10 @@ https://2e0d18116bec40e088c0723dc56accf5.mediatailor.us-east-1.amazonaws.com/v1/
 ----------------------
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6323ac0f8f253768c26b5529" tvg-id="5e20b730f2f8d5003d739db7-6323ac0f8f253768c26b5529" tvg-chno="103" tvg-logo="https://provider-static.plex.tv/epg/cms/production/02dd320d-ce42-40eb-8f86-c91dd108c2be/flou_cine_logo_1500x1500-04_-_Marcello_Gagliardi_Lugordx2.png" group-title="Movies",FLOU Cine
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6323ac0f8f253768c26b5529.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=yA8aFZC94-Az2RAPHMpT
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6323ac0f8f253768c26b5529.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=NVCfY3qJgq6XQTsYyZkw
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-63adf8eff3d69d1885731c06" tvg-id="5e20b730f2f8d5003d739db7-63adf8eff3d69d1885731c06" tvg-chno="104" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d981e393-725f-4e9f-8444-827c6c87e126/Flou_caribe_o_LOGO_1500X1000__dark_backgrounds_.png",FLOU Caribeño
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63adf8eff3d69d1885731c06.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=NVCfY3qJgq6XQTsYyZkw
+
 
 ----------------------
 
