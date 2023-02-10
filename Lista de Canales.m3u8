@@ -61,9 +61,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3528&avod=1&coppa=0&is_lat
 
 ----------------------
 
-#EXTINF:-1 tvg-chno="7.2" tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/b3099d3/2147483647/strip/true/crop/354x186+15+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2Fc9%2Fe9%2F9c090b71468ab8d9d55a1642804f%2Flogo-amas-sitio.png" group-title="Entertainment",a más + 7.2
+#EXTINF:-1 tvg-chno="7.2" tvg-id="APlus.mx" tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/b3099d3/2147483647/strip/true/crop/354x186+15+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2Fc9%2Fe9%2F9c090b71468ab8d9d55a1642804f%2Flogo-amas-sitio.png" group-title="Entertainment",a más+
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-
 #EXTINF:-1 tvg-chno="1.2" tvg-id="ADN40.mx" tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/5e59370/2147483647/strip/true/crop/588x208+0+0/resize/1300x460!/quality/100/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2Feb%2F02%2F27e0bb444a8faff6cf336e6f40ea%2Flogoadn40.png" group-title="Entertainment",ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-chno="7.1" tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/2a5ad51/2147483647/strip/true/crop/500x242+0+0/resize/192x93!/quality/80/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2Fba%2Fcb%2F90af00864d81bcc6fd58633c663b%2Flogoazteca7siete2019-2317490.png" group-title="Entertainment",Azteca 7
@@ -94,15 +93,27 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 https://5ca9af4645e15.streamlock.net/rtv/videortv/.m3u8
 #EXTINF:-1 tvg-id="TVUNAM.mx" tvg-chno="20.1" tvg-logo="https://tv.unam.mx/wp-content/uploads/2019/04/aureola-blanca50.png" group-title="Education",TV UNAM
 https://5ca3e84a76d30.streamlock.net:443/tvunam/videotvunam/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="NueveTV.mx" tvg-chno="9.1" tvg-logo="https://static1.s123-cdn-static-a.com/uploads/2287839/2000_62422e9799a05.png" group-title="Entertainment",Nueve TV (SLP)
+https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/playlist.m3u8
+#EXTINF:-1 tvg-id="Teleritmo.mx" tvg-chno="6.4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/428px-Multimedios_Canal_Seis_Logo.svg.png" group-title="Music",Teleritmo TV
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?uid=45MYCp5K2CGOq5jC2f1ipUphtqkkTnUR&sid=CaRPmFmzUvqCdRQatlPmuDWR4ZznqxoS&pid=XV70sQg0Xq2yER2E3uTn5CxgDoLLSNtO&an=screen&at=web-app&av=v5.2.295&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=312x156&without_cookies=false&listenerid=&dnt=true
+#EXTINF:-1 tvg-id="TeleYucatan.mx" tvg-chno="4.1" tvg-logo="https://yt3.googleusercontent.com/I1001igRMbYb_tef1k15fMqClHgZqRTHFVtl1JszU_2CiK0-gmf1VeQ_6MbJ_Yn5WsPbOV3uYQ" group-title="Education",TELE YUCATÁN
+https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyMiA5OjU1OjA2IEFNJmhhc2hfdmFsdWU9b05UTy8xK2lQS2o1Y2YvRjQyQlhtUT09JnZhbGlkbWludXRlcz0xMCZpZD0=
+#EXTINF:-1 tvg-id="TeleFormula.mx" tvg-chno="2053" tvg-logo="https://yt3.googleusercontent.com/35FteDvNMJLg_9kLT7y2Dgf1GC38wSd7efe4G8hGNMe8V1xIhODEe0AEFMBvWroMZQxnhWJt" group-title="News",TELEFÓRMULA
+https://mdstrm.com/live-stream-playlist/61e1e088d04d7744686afc42.m3u8
+#EXTINF:-1 tvg-id="CineSony.us" tvg-chno="373" tvg-logo="https://affiliates.cinesony.com/themes/custom/cinesony_theme/images/sonycine-logo.png" group-title="Movies",Cine Sony
+https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-chno="456" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="News",DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
 #EXTINF:-1 tvg-chno="12.1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/428px-Multimedios_Canal_Seis_Logo.svg.png" group-title="Entertainment",Bajío TV
 https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8?uid=45MYCp5K2CGOq5jC2f1ipUphtqkkTnUR&sid=YV8RhDqbfmKqBj66mcyeIOuM5BeG2FBS&pid=YCkfU6Vkyrr8TvUhMCoxHGpcvAGvwCAM&an=screen&at=web-app&av=v5.2.295&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=312x156&without_cookies=false&listenerid=&dnt=true
 #EXTINF:-1 tvg-chno="4.1" tvg-logo="https://www.tvcuatro.com/images/logo-menu.png" group-title="Education",Canal 4.1
 https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
 #EXTINF:-1 tvg-chno="10.1" tvg-logo="https://canal7slp.tv/2022/wp-content/uploads/2021/05/logo-c7.png" group-title="Entertainment",Canal 7 (SLP)
 https://mvtvstream.com:444/live/62b7143c6eea3/index.m3u8
-#EXTINF:-1 tvg-chno="5.1" tvg-logo="http://sac.canal10.tv/canal10_t.png" group-title="Entertainment",Canal 10
+#EXTINF:-1 tvg-id="" tvg-chno="5.1" tvg-logo="http://sac.canal10.tv/canal10_t.png" group-title="Entertainment",Canal 10
 https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
-
 #EXTINF:-1 tvg-chno="10" tvg-logo="https://www.rtq.mx/wp-content/uploads/2022/03/Logo-RTQ-BLanco-1.png" group-title="Education",Canal 10 - RTQ
 https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
 #EXTINF:-1 tvg-chno="22.1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Logo_XEIMT-TV.svg/512px-Logo_XEIMT-TV.svg.png" group-title="Entertainment",Canal 22.1
@@ -115,35 +126,22 @@ https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
 https://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8?uid=45MYCp5K2CGOq5jC2f1ipUphtqkkTnUR&sid=YV8RhDqbfmKqBj66mcyeIOuM5BeG2FBS&pid=VSOHd8NbWmToyy5gnkcPRKFJMa1XVBuA&an=screen&at=web-app&av=v5.2.295&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=312x156&without_cookies=false&listenerid=&dnt=true
 #EXTINF:-1 tvg-chno="6.1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/428px-Multimedios_Canal_Seis_Logo.svg.png" group-title="Entertainment",Laguna TV
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?uid=45MYCp5K2CGOq5jC2f1ipUphtqkkTnUR&sid=YV8RhDqbfmKqBj66mcyeIOuM5BeG2FBS&pid=r0lBfGnKRpnmtH9gkP5eheL2hhW6McGa&an=screen&at=web-app&av=v5.2.295&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=312x156&without_cookies=false&listenerid=&dnt=true
-#EXTINF:-1 tvg-chno="9.1" tvg-logo="https://static1.s123-cdn-static-a.com/uploads/2287839/2000_62422e9799a05.png" group-title="Entertainment",Nueve TV (SLP)
-https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/playlist.m3u8
+#EXTINF:-1 tvg-chno="29" tvg-logo="https://sistemamichoacano.tv/wp-content/uploads/2022/04/cropped-logo-smrtv-web-1.jpg" group-title="Entertainment",Sistema Michoacano de Radio y Televisión
+https://60ed5b6d0df78.streamlock.net:1936/enlinea/enlinea/chunklist_w1056120456.m3u8
+#EXTINF:-1 tvg-chno="10.1" tvg-logo="https://tvmar.tv/tvmar-logo.png" group-title="Entertainment",TV Mar
+https://5ca3e84a76d30.streamlock.net:443/tvmarvallarta/videotvmarvallarta/playlist.m3u8
+
+----------------------
+
+
+#EXTINF:-1 tvg-id="ButacaTV.us" tvg-chno="2699" tvg-logo="https://play-lh.googleusercontent.com/nW3oOJqNFACe6hVQJpD5YRboVxgtqJM1RUvQBgKD8F-wm-VnMctbFSVXKOANev3-etc" group-title="Entertainment",Butaca TV
+https://veranda-butacatv-2-mx.samsung.wurl.tv/2000.m3u8
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-616df1e90dfa27ee465797fa" tvg-id="5e20b730f2f8d5003d739db7-616df1e90dfa27ee465797fa" tvg-chno="60" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e4ba10a4-dbb2-4d15-b268-1ed43ddf7e4b/cinelife-logo.png" group-title="Movies",Cine Life
+https://magselect-stirr.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="6.1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/428px-Multimedios_Canal_Seis_Logo.svg.png" group-title="Entertainment",Puebla TV
 https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8?uid=45MYCp5K2CGOq5jC2f1ipUphtqkkTnUR&sid=NzmE8IqUeee2ihUEvG0LGVF4VZnRVAAq&pid=n1O5ShCrzvjF8QszJEeaJnR0dMGMc2R6&an=screen&at=web-app&av=v5.2.295&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=312x156&without_cookies=false&listenerid=&dnt=true
 #EXTINF:-1 tvg-chno="6.1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/428px-Multimedios_Canal_Seis_Logo.svg.png" group-title="Entertainment",Saltillo TV
 https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8?uid=45MYCp5K2CGOq5jC2f1ipUphtqkkTnUR&sid=NzmE8IqUeee2ihUEvG0LGVF4VZnRVAAq&pid=PXsOs7RgSjEBCJcfpMw2JseqLG5iDtv6&an=screen&at=web-app&av=v5.2.295&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=312x156&without_cookies=false&listenerid=&dnt=true
-#EXTINF:-1 tvg-chno="29" tvg-logo="https://sistemamichoacano.tv/wp-content/uploads/2022/04/cropped-logo-smrtv-web-1.jpg" group-title="Entertainment",Sistema Michoacano de Radio y Televisión
-https://60ed5b6d0df78.streamlock.net:1936/enlinea/enlinea/chunklist_w1056120456.m3u8
-#EXTINF:-1 tvg-chno="6.4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/428px-Multimedios_Canal_Seis_Logo.svg.png" group-title="Music",Teleritmo TV
-https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?uid=45MYCp5K2CGOq5jC2f1ipUphtqkkTnUR&sid=CaRPmFmzUvqCdRQatlPmuDWR4ZznqxoS&pid=XV70sQg0Xq2yER2E3uTn5CxgDoLLSNtO&an=screen&at=web-app&av=v5.2.295&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=312x156&without_cookies=false&listenerid=&dnt=true
-#EXTINF:-1 tvg-chno="4.1" tvg-logo="https://yt3.googleusercontent.com/I1001igRMbYb_tef1k15fMqClHgZqRTHFVtl1JszU_2CiK0-gmf1VeQ_6MbJ_Yn5WsPbOV3uYQ" group-title="Education",TELE YUCATÁN
-https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyMiA5OjU1OjA2IEFNJmhhc2hfdmFsdWU9b05UTy8xK2lQS2o1Y2YvRjQyQlhtUT09JnZhbGlkbWludXRlcz0xMCZpZD0=
-#EXTINF:-1 tvg-chno="10.1" tvg-logo="https://tvmar.tv/tvmar-logo.png" group-title="Entertainment",TV Mar
-https://5ca3e84a76d30.streamlock.net:443/tvmarvallarta/videotvmarvallarta/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleFormula.mx" tvg-chno="2053" tvg-logo="https://yt3.googleusercontent.com/35FteDvNMJLg_9kLT7y2Dgf1GC38wSd7efe4G8hGNMe8V1xIhODEe0AEFMBvWroMZQxnhWJt" group-title="News",TELEFÓRMULA
-https://mdstrm.com/live-stream-playlist/61e1e088d04d7744686afc42.m3u8
-#EXTINF:-1 tvg-id="CineSony.us" tvg-chno="373" tvg-logo="https://affiliates.cinesony.com/themes/custom/cinesony_theme/images/sonycine-logo.png" group-title="Movies",Cine Sony
-https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
-
-#EXTINF:-1 tvg-id="DWEspanol.de" tvg-chno="456" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="News",DW Español
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-
-
-----------------------
-
-#EXTINF:-1 tvg-chno="2699" tvg-logo="https://play-lh.googleusercontent.com/nW3oOJqNFACe6hVQJpD5YRboVxgtqJM1RUvQBgKD8F-wm-VnMctbFSVXKOANev3-etc" group-title="Entertainment",Butaca TV
-https://veranda-butacatv-2-mx.samsung.wurl.tv/2000.m3u8
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-616df1e90dfa27ee465797fa" tvg-id="5e20b730f2f8d5003d739db7-616df1e90dfa27ee465797fa" tvg-chno="60" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e4ba10a4-dbb2-4d15-b268-1ed43ddf7e4b/cinelife-logo.png" group-title="Movies",Cine Life
-https://magselect-stirr.amagi.tv/playlist.m3u8
 
 ----------------------
 
@@ -413,8 +411,6 @@ https://2e0d18116bec40e088c0723dc56accf5.mediatailor.us-east-1.amazonaws.com/v1/
 
 ----------------------
 
-#EXTINF:-1 tvg-chno="103.2" tvg-logo="https://provider-static.plex.tv/epg/cms/production/02dd320d-ce42-40eb-8f86-c91dd108c2be/flou_cine_logo_1500x1500-04_-_Marcello_Gagliardi_Lugordx2.png" group-title="Movies",Flou Cine (Canela TV)
-https://amg01768-flou-flou-canelatv-yri41.amagi.tv/playlist/amg01768-flou-flou-canelatv/cb543d197c6c678d98d4376ecef046a1f9b753fc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac48240d5734c6cdd52e8be24b4daddd0c2d34b07c0e49857671ad594f32d5e0110dc51ab07a0e1ca1494d5e2082b00cb27752cc9e0a957f378bbdbe306f2c180680585ee2be5da5ef940912c76da1b802488b2e40e68a5ccedc0eafd5d15f96128425f309cc9aa58cce1183d3c57ef801e76344002378ced229c39c0de1df983342f61c29420d1bf5aa87fb7132874a462e9295a3bc64f116c28831973a5cd1649f4b9422f808c068f7bb36cac3badb510f2cb7fb4b732eb6e4a393895359d937e2aca4870916e9f7106b09cd68ce2b283dafeac21090cb67f0dc47d4e6314d62b1fb2f9a99a1cde6a3b2469d31b8a49ef96d183d096805824db0a56ed427ce7da6da6142362c15f7ce3fb587dd4d7e635f96bf4dc01c09bce49e91d37c44a01d134efc70ca014a23db237b32e62cf79f306dc7321cca3138ed51368551a6c24684a6dff6483fb0c8ce41fa50e7b003d5fe16db08563a55e1a276282f3c7cd4fd280a3469d17ae7dcc4f27207149e94a79f91094c6d530241339bf0ee669a8dd95b7b7ca5023f6e394a6cfc77d76dcc4e4d0538c01dd69305758b01342ce1a24d39300e93dbebefedb1cb40a631cac0ff4b4c513833e74e6f4c6fd7a5c35ef8364f7b682fef65094db2136551fa90caec9f896bcac614c0516310708bf318511953010060fac03284348f9219aad5ce59dae68e177a8c38d1437aded38e3facbad3934a5b92ff054e37c28b70c1767b9f42d67cd8d67580e702054e660222ac8f50ec11b8cf8af8298f22a943060c9a12d59fecbe986557e99446327d064103257a1c410dbcc99b77096fe98337e75ae39902c3175c272b57cdc7535fc3ba7159ce336977b2eec88aa3cf0f11847ae2309b6606b5125f28edc536ef82a0b6a88169580fccfba845b5a4d2eea6becb226d456b348bd32d361db976c271668bdc75837c1aea9fb843af378418be9cbf2deb4ed8a1de208fe0507a66156d337458eed5ffba35d6b9184cb87aa13145be5d19858610c8dbb24754ff54f3c53761ba316dfe04ebd80ddc32fa9a518f2614082bb6471ef19a8f151dc6648b353b6eb1fd8e7a34dc60c2d92af1f0a0571fd5514cad2f2a1013531770b12b39c1c50b6b15a5155bb5d7cebbf8515c60a791676a0708141c0ade7f7f25f02750097bd805839c673a870d860e70ea37ff821f90ab02eafcd3e0eecb0c25f6a74246a94fd002b7759a82cfe06ef01a218b7881166791daded5c1f888e29c8850094ed60cb021fc5bb68ae99d7c0d0f3af90a384127b55de0031b5c99c11a9bf71422d690ad4d93466744041522c656ebcf42061675c9c3799a923b32302260a69253e64bfa1253f6221dd72d661c1b084552e2c69d69b907e837e0a417509fcaddcb0beeaf2dd18f89e0ae3b61ef5b255c478ab88985aa2f10f8938fd17828b6e26bb11f622a69e5fea75430d6ca34299bf3de2cabde225be1679fc33e50ed3e4d29bb27/138/1920x1080_5058864/index.m3u8
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6323ac0f8f253768c26b5529" tvg-id="5e20b730f2f8d5003d739db7-6323ac0f8f253768c26b5529" tvg-chno="103" tvg-logo="https://provider-static.plex.tv/epg/cms/production/02dd320d-ce42-40eb-8f86-c91dd108c2be/flou_cine_logo_1500x1500-04_-_Marcello_Gagliardi_Lugordx2.png" group-title="Movies",FLOU Cine (Plex)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6323ac0f8f253768c26b5529.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=yA8aFZC94-Az2RAPHMpT
 
@@ -469,10 +465,8 @@ https://a58265c9d06d4c91ac4b8071b890ddaa.mediatailor.us-east-1.amazonaws.com/v1/
 
 ----------------------
 
-#EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-chno="600" tvg-logo="https://provider-static.plex.tv/c/epg/channels/logos/gracenote/cc3fb809dcbadcca77d51c75980f74ee.png" group-title="Life Style",Tastemade en Español (Plex)
+#EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-chno="526" tvg-logo="https://provider-static.plex.tv/c/epg/channels/logos/gracenote/cc3fb809dcbadcca77d51c75980f74ee.png" group-title="Life Style",Tastemade en Español
 https://tastemadees16intl-brightcove.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="526" tvg-logo="https://image.xumo.com/v1/channels/channel/99991743/500x500.png?type=color_onBlack" group-title="Life Style",Tastemade en Español (Xumo)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumotastemade/CDN/master.m3u8
 
 ----------------------
 
@@ -486,7 +480,7 @@ https://twcespanol-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33
 ----------------------
 
 #EXTINF:-1 tvg-chno="333" tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/1920x1080/vive_kanal_d_drama_16x9_0.jpg" group-title="Entertainment",Vive Kanal D Drama (Canela TV)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8?device_id=45e4bd5a54a390c50bd87d0094a8b3fa&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&device_width=1280&device_height=720&site_page=https%253a%252f%252fwww.canela.tv%252f&site_name=canelatv&device_model=&yob=0&gender=not_specified&us_privacy=1yn-&gdpr=0&gdpr_consent=1&device_language=es&is_lat=0&coppa=0&timestamp=1670050450&id=33385&ip=177.232.90.188&override_expiration=1500&deliveryProfileId=23762&sign=OcqxrSQOwprPQ0oc%2B55YPpeOjRfQQFZ%2BIxzNRYVTpfk%3D
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8
 #EXTINF:-1 tvg-chno="786" tvg-logo="https://kanalddrama.com/assets/img/logo_bottom2.png" group-title="Entertainment",Kanal D
 https://amg01602-themahqfrance-vivekanald-samsungspain-uu2zn.amagi.tv/playlist/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
