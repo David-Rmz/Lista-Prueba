@@ -444,10 +444,8 @@ https://novelisima-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33
 
 ----------------------
 
-#EXTINF:-1 tvg-chno="926" tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/1920x1080/rcn-mas_1.jpg" group-title="Entertainment",RCN Más (Canela TV)
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6244f2d33ef43121e567cf13" tvg-id="5e20b730f2f8d5003d739db7-6244f2d33ef43121e567cf13" tvg-chno="251" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6e145a28-6a65-4ab7-9347-319b8909ee73/rcn_mas_logo.png" group-title="Entertainment",RCN Más
 https://172a014eac554c789ddc21bb0cc2185c.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_RCNMas/playlist.m3u8?ads.wurl_channel=926&ads.wurl_name=RCNMas&ads.coppa=0&ads.device_id=45e4bd5a54a390c50bd87d0094a8b3fa&ads.dnt=0&ads.us_privacy=1yn-&ads.gdpr=0&ads.consent=1&ads.app_name=canelatv&ads.app_bundle=com.canela.ott&ads.app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&ads.ifa_type=dpid&ads.custom=&ads.device_make=&ads.device_model=&ads.content_livestream=1&ads.content_producer_name=0&ads.content_rating=not_rated&ads.language=en&ads.device_manufacturer=&ads.device_type=handset&ads.partner=internal&ads.platform=web&ads.device_width=1280&ads.device_height=720&timestamp=1670049696&id=35676&ip=177.232.90.188&override_expiration=1500&deliveryProfileId=23762&sign=JUDZOPS8CpBm%2BC%2BpBtMQy4MeBhYSLR6TAAN1O2gnRN4%3D
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6244f2d33ef43121e567cf13" tvg-id="5e20b730f2f8d5003d739db7-6244f2d33ef43121e567cf13" tvg-chno="251" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6e145a28-6a65-4ab7-9347-319b8909ee73/rcn_mas_logo.png" group-title="Entertainment",RCN Más (Plex)
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6244f2d33ef43121e567cf13.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=yA8aFZC94-Az2RAPHMpT
 
 ----------------------
 
