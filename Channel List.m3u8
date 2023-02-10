@@ -479,9 +479,7 @@ https://twcespanol-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33
 
 ----------------------
 
-#EXTINF:-1 tvg-chno="333" tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/1920x1080/vive_kanal_d_drama_16x9_0.jpg" group-title="Entertainment",Vive Kanal D Drama (Canela TV)
+#EXTINF:-1 channel-id="samsung-ESBC1700001QI" tvg-id="ESBC1700001QI" tvg-chno="4178" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/g-l/kanaldmx/logos/3p-logo._CB616915628_.png" group-title="Entertainment",Vive Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8
-#EXTINF:-1 tvg-chno="786" tvg-logo="https://kanalddrama.com/assets/img/logo_bottom2.png" group-title="Entertainment",Kanal D
-https://amg01602-themahqfrance-vivekanald-samsungspain-uu2zn.amagi.tv/playlist/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
 ----------------------
