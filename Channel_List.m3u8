@@ -402,15 +402,6 @@ https://plexaaaaa-estrellatv-plex-2x4vu.amagi.tv/playlist/plexAAAAA-estrellatv-p
 
 ----------------------
 
-#EXTINF:-1 tvg-chno="903" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6323b19123e560952c0a2782" group-title="News",Euronews Español (Local Now)
-https://e9935ec41acb41f0892993767183e12b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_EuronewsenEspanol/playlist.m3u8?ads.wurl_channel=671&ads.wurl_name=EuronewsenEspanol&ads.coppa=0&ads.app_bundle=&ads.app_name=&ads.app_store_url=&ads.did=&ads.ifa_type=&ads.dnt=0&ads.device_make=&ads.device_model=&ads.device_type=&ads.cust_devicename=desktop_web&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F108.0.0.0%20Safari%2F537.36%20Edg%2F108.0.1462.54&ads.content_id=6323b04c3dfd2d5ceb0166f8&ads.content_title=EPG-EuroNews_Spanish&ads.cust_channeltype=Shows&ads.content_genre=En%20Espanol&ads.content_provider=euronews-spanish&ads.us_privacy=&lastUpdatedAt=1672252029&ads.adc_token=QkdCQkNKSEFCREdNbDAoZHNOVFQxLjtXNjt4NClBaTYoVCxsa2VHaylDMDBTLzZFMDQ
-#EXTINF:-1 channel-id="pluto-60492dcf1c9b6a00089f41df" tvg-id="60492dcf1c9b6a00089f41df" tvg-chno="3035" tvg-logo="https://images.pluto.tv/channels/60492dcf1c9b6a00089f41df/colorLogoPNG.png" group-title="News",Euronews (Pluto TV)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492dcf1c9b6a00089f41df/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60089d97f682a3002c34829d" tvg-id="5e20b730f2f8d5003d739db7-60089d97f682a3002c34829d" tvg-chno="98" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/euronewsespanol_logo_dark2.png" group-title="News",Euronews Español (Plex)
-https://2e0d18116bec40e088c0723dc56accf5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_EuronewsSpanish/playlist.m3u8?ads.wurl_channel=671&ads.wurl_name=EuronewsSpanish&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=yA8aFZC94-Az2RAPHMpT&ads.plex_id=60089d97f682a3002c34829d&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-
-----------------------
-
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6323ac0f8f253768c26b5529" tvg-id="5e20b730f2f8d5003d739db7-6323ac0f8f253768c26b5529" tvg-chno="103" tvg-logo="https://provider-static.plex.tv/epg/cms/production/02dd320d-ce42-40eb-8f86-c91dd108c2be/flou_cine_logo_1500x1500-04_-_Marcello_Gagliardi_Lugordx2.png" group-title="Movies",FLOU Cine
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6323ac0f8f253768c26b5529.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=NVCfY3qJgq6XQTsYyZkw
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-63adf8eff3d69d1885731c06" tvg-id="5e20b730f2f8d5003d739db7-63adf8eff3d69d1885731c06" tvg-chno="104" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d981e393-725f-4e9f-8444-827c6c87e126/Flou_caribe_o_LOGO_1500X1000__dark_backgrounds_.png",FLOU Caribeño
@@ -419,9 +410,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63adf8eff3d6
 
 ----------------------
 
-#EXTINF:-1 tvg-chno="925" tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/1920x1080/mn_meganoticias_16x9.jpg" group-title="News",MegaNoticias (Canela TV)
-https://a37d474b6bb9441fa17e3e1ab3d55fce.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_MegaNoticias/playlist.m3u8?ads.wurl_channel=925&ads.wurl_name=MegaNoticias&ads.coppa=0&ads.device_id=45e4bd5a54a390c50bd87d0094a8b3fa&ads.dnt=0&ads.us_privacy=1yn-&ads.gdpr=0&ads.consent=1&ads.app_name=canelatv&ads.app_bundle=com.canela.ott&ads.app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&ads.ifa_type=dpid&ads.custom=&ads.device_make=&ads.device_model=&ads.content_livestream=1&ads.content_producer_name=0&ads.content_rating=not_rated&ads.language=en&ads.device_manufacturer=&ads.device_type=handset&ads.partner=internal&ads.platform=web&ads.device_width=1280&ads.device_height=720&timestamp=1670049228&id=38657&ip=177.232.90.188&override_expiration=1500&deliveryProfileId=23762&sign=3utzKds6W1oAI5xfc5DaVuo%2BeVlApzspyhgjIboefo0%3D
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-626c288e54f3232400a45f35" tvg-id="5e20b730f2f8d5003d739db7-626c288e54f3232400a45f35" tvg-chno="201" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e0d70842-cd76-4c63-9774-97925f6bb4fa/MEGANOTICIAS_CLEAN_LOGO_FINAL_White.png" group-title="News",MegaNoticias (Plex)
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-626c288e54f3232400a45f35" tvg-id="5e20b730f2f8d5003d739db7-626c288e54f3232400a45f35" tvg-chno="201" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e0d70842-cd76-4c63-9774-97925f6bb4fa/MEGANOTICIAS_CLEAN_LOGO_FINAL_White.png" group-title="News",MegaNoticias
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-626c288e54f3232400a45f35.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=yA8aFZC94-Az2RAPHMpT
 
 ----------------------
@@ -448,7 +437,7 @@ https://novelisima-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33
 ----------------------
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6244f2d33ef43121e567cf13" tvg-id="5e20b730f2f8d5003d739db7-6244f2d33ef43121e567cf13" tvg-chno="251" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6e145a28-6a65-4ab7-9347-319b8909ee73/rcn_mas_logo.png" group-title="Entertainment",RCN Más
-https://172a014eac554c789ddc21bb0cc2185c.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_RCNMas/playlist.m3u8
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6244f2d33ef43121e567cf13.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=z1UhCS6ToL2EyWHFcg_v
 
 ----------------------
 
