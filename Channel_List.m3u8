@@ -1,32 +1,33 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="3134" tvg-logo="https://i.imgur.com/v4CglLm.png" group-title="Movies",Canela Cinema
+#EXTINF:-1 tvg-chno="3134" tvg-logo="https://i.imgur.com/HiHfp9O.png" group-title="Movies",Canela Cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3134
-#EXTINF:-1 tvg-chno="652" tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/1920x1080/linear-canela-classics.jpg" group-title="Movies",Canela Clásicos
+#EXTINF:-1 tvg-chno="652" tvg-logo="https://i.imgur.com/YVZkxsB.png" group-title="Movies",Canela Clásicos
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
-#EXTINF:-1 tvg-chno="3985" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/logo/366x206/linear-amor1-16x9.jpg" group-title="Entertainment",Con Amor
+#EXTINF:-1 tvg-chno="3985" tvg-logo="https://i.imgur.com/wNsPvb7.png" group-title="Entertainment",Con Amor
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3985
+#EXTINF:-1 tvg-chno="1184" tvg-logo="https://i.imgur.com/VV8HnbO.png" group-title="Movies",PELIMEX
+https://5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_PeliMex/playlist.m3u8
+#EXTINF:-1 tvg-chno="1170" tvg-logo="https://i.imgur.com/qc48NWA.png" group-title="Entertainment",RCN Xtra 
+https://df4ac36b116646748d613407d93f79aa.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_RCNXtra/playlist.m3u8
+#EXTINF:-1 tvg-chno="656" tvg-logo="https://i.imgur.com/BdRJjTG.png" group-title="Movies",Cine Romántico (Canela TV)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
+#EXTINF:-1 tvg-chno="1152" tvg-logo="https://i.imgur.com/v8GETlI.png" group-title="Entertainment",Canela Telenovelas
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
+#EXTINF:-1 tvg-chno="1080" tvg-logo="https://i.imgur.com/IXISDhw.png" group-title="Entertainment",Tierra de Amor y Venganza
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1080
+#EXTINF:-1 tvg-chno="1079" tvg-logo="linear-talisman-16x9_2.jpg" group-title="Entertainment",El Talismán
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1079
+
 #EXTINF:-1 tvg-chno="1153" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/1920x1080/linear-accion-mexicana-16x9.jpg" group-title="Movies",Acción Mexicana
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
 #EXTINF:-1 tvg-chno="3010" tvg-logo="https://img3.static-ottera.com/prod/cnm/video/thumbnails/widescreen/1920x1080/itv_deportes_16x9_2.jpg" group-title="Sports",ITV Deportes
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
-#EXTINF:-1 tvg-chno="1184" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/1920x1080/pelimex-v2.jpg" group-title="Movies",PELIMEX
-https://5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_PeliMex/playlist.m3u8
-#EXTINF:-1 tvg-chno="1170" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/1920x1080/rcn-xtra_2.jpg" group-title="Entertainment",RCN Xtra 
-https://df4ac36b116646748d613407d93f79aa.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_RCNXtra/playlist.m3u8
-#EXTINF:-1 tvg-chno="656" tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/1920x1080/linear-cine-romantico.jpg" group-title="Movies",Cine Romántico (Canela TV)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
-#EXTINF:-1 tvg-chno="1152" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/1920x1080/image.jpeg" group-title="Entertainment",Canela Telenovelas
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
-#EXTINF:-1 tvg-chno="1080" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/1920x1080/linear-tierra-16x9.jpg" group-title="Entertainment",Tierra de Amor y Venganza
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1080
-#EXTINF:-1 tvg-chno="1079" tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/1920x1080/linear-talisman-16x9_2.jpg" group-title="Entertainment",El Talismán
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1079
 
 ----------------------
 
-#EXTINF:-1 tvg-chno="654" tvg-logo="https://img1.static-ottera.com/prod/cnm/nav_link/thumbnails/widescreen/1920x1080/linear_kids_navidad_1.jpg" group-title="Family/Kids",Canela Kids
+#EXTINF:-1 tvg-chno="654" tvg-logo="https://i.imgur.com/6Ip2LqF.png" group-title="Family/Kids",Canela Kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
-#EXTINF:-1 tvg-chno="3506" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/1920x1080/linear-cine-kids-16x9_navidad.jpg" group-title="Movies",CineKids
+#EXTINF:-1 tvg-chno="3506" tvg-logo="https://i.imgur.com/7pcBDq5.png" group-title="Movies",CineKids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3506
 #EXTINF:-1 tvg-chno="431" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/1920x1080/linear-planeta_de_aventuras.estreno.nav_.jpg" group-title="Family/Kids",Planeta de Aventuras 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4311
@@ -449,4 +450,3 @@ https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
 https://elconflicto-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61fb0259a0d6715e83734e72_elconflicto-live-1/index-elconflictotv.m3u8?ads.ac.t=aHR0cHM6Ly90di5zcHJpbmdzZXJ2ZS5jb20vcnQvMjMyNQ%3D%3D&ads.cb=15302827947461460&ads.w=370&ads.h=208&ads.url=https%3A%2F%2Flocalnow.com%2Fchannels%2Fafv-espanol&ads.app_bundle=&ads.app_name=&ads.app_store_url=&ads.app_version=&ads.pos=mid&ads.did=&ads.ifa_type=&ads.dnt=0&ads.device_make=&ads.device_model=&ads.device_type=&ads.cust_devicename=desktop_web&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F108.0.0.0%20Safari%2F537.36%20Edg%2F108.0.1462.54&ads.channel_id=61fb0259a0d6715e83734e72&ads.content_custom_1_param=61fb0259a0d6715e83734e72&ads.channel_title=EPG-EL_CONFLICTO&ads.channel_contenttype=Shows&ads.channel_name=EPG-EL_CONFLICTO&ads.channel_genre=En%20Espanol&ads.channel_rating=&ads.channel_language=&ads.channel_contentlen=1800&ads.content_livestream=1&ads.network_name=el-conflicto&ads.content_provider=el-conflicto&ads.ip=161.129.70.136&ads.us_privacy=&ads.payid=6ec8debb969b70cf&ads.SSID=&ads.hybrid=0&ads.aml=1&ads.tag_id=localnow&ads.adc_token=QkdCQkNKSEFCREdNbDAoZHNOVFQxLjtXNjt4NClBaTYoVCxsa2VHaylDMDBTLzZFMDQ
 
 ----------------------
-
