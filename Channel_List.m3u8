@@ -353,7 +353,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-636442f69aab
 
 ----------------------
 
-#EXTINF:-1 channel-id="pluto-60492fdd9989d30007ccd30a" tvg-id="60492fdd9989d30007ccd30a" tvg-chno="3060" tvg-logo="https://images.pluto.tv/channels/60492fdd9989d30007ccd30a/solidLogoPNG.png" group-title="Sports",beIN SPORTS XTRA en español (Pluto TV)
+#EXTINF:-1 channel-id="pluto-60492fdd9989d30007ccd30a" tvg-id="60492fdd9989d30007ccd30a" tvg-chno="3060" tvg-logo="https://images.pluto.tv/channels/60492fdd9989d30007ccd30a/solidLogoPNG.png" group-title="Sports",beIN SPORTS XTRA en español
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 
 ----------------------
