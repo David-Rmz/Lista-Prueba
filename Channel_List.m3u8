@@ -17,11 +17,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1080
 #EXTINF:-1 tvg-chno="1079" tvg-logo="linear-talisman-16x9_2.jpg" group-title="Entertainment",El Talismán
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1079
-
-#EXTINF:-1 tvg-chno="1153" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/1920x1080/linear-accion-mexicana-16x9.jpg" group-title="Movies",Acción Mexicana
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
-#EXTINF:-1 tvg-chno="3010" tvg-logo="https://img3.static-ottera.com/prod/cnm/video/thumbnails/widescreen/1920x1080/itv_deportes_16x9_2.jpg" group-title="Sports",ITV Deportes
+#EXTINF:-1 tvg-chno="3010" tvg-logo="https://i.imgur.com/JpXTu23.png" group-title="Sports",ITV Deportes
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
+#EXTINF:-1 tvg-chno="1153" tvg-logo="https://i.imgur.com/CfvsA6p.png" group-title="Movies",Acción Mexicana
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
 
 ----------------------
 
@@ -29,34 +28,34 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 #EXTINF:-1 tvg-chno="3506" tvg-logo="https://i.imgur.com/7pcBDq5.png" group-title="Movies",CineKids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3506
-#EXTINF:-1 tvg-chno="431" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/1920x1080/linear-planeta_de_aventuras.estreno.nav_.jpg" group-title="Family/Kids",Planeta de Aventuras 
+#EXTINF:-1 tvg-chno="431" tvg-logo="https://i.imgur.com/2fieq5k.png" group-title="Family/Kids",Planeta de Aventuras 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4311
-#EXTINF:-1 tvg-chno="431" tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/1920x1080/linear-zona_de_accion-estreno.nav_.jpg" group-title="Family/Kids",Zona de Acción
+#EXTINF:-1 tvg-chno="431" tvg-logo="https://i.imgur.com/uKZa6F1.png" group-title="Family/Kids",Zona de Acción
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
-#EXTINF:-1 tvg-chno="410" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/1920x1080/linear-haz_clic_estreno.navidad.jpg" group-title="Entertainment",¡haz clic!
+#EXTINF:-1 tvg-chno="410" tvg-logo="https://i.imgur.com/iEnEjA5.png" group-title="Entertainment",¡haz clic!
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4310
-#EXTINF:-1 tvg-chno="635" tvg-logo="https://img2.static-ottera.com/prod/cnm/video/thumbnails/widescreen/1920x1080/linear-moonbug_navidad.jpg" group-title="Family/Kids",MoodBug Kids
+#EXTINF:-1 tvg-chno="635" tvg-logo="https://i.imgur.com/ZLa5fe7.png" group-title="Family/Kids",MoodBug Kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3365
-#EXTINF:-1 tvg-chno="663" tvg-logo="http://codes-cms-files.s3-website-us-west-2.amazonaws.com/prod/cnm/video/thumbnails/widescreen/1920x1080/linear-mundo_pequeno-16x9_nav.jpg" group-title="Family/Kids",Mundo Pequeño 
+#EXTINF:-1 tvg-chno="663" tvg-logo="https://i.imgur.com/PORhycr.png" group-title="Family/Kids",Mundo Pequeño 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3366
-#EXTINF:-1 tvg-chno="771" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/1920x1080/tg-en-espanol-rectangle-logo-option4.jpeg" group-title="Family/Kids",TG en Español
+#EXTINF:-1 tvg-chno="771" tvg-logo="https://i.imgur.com/RxOK0Cg.png" group-title="Family/Kids",TG en Español
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=771 
 
 ----------------------
 
-#EXTINF:-1 tvg-chno="2154" tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/logo/1920x1080/runtime_las_1920x1080.jpg" group-title="Entertainment",Runtime
+#EXTINF:-1 tvg-chno="2154" tvg-logo="https://i.imgur.com/xu46azZ.png" group-title="Entertainment",Runtime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154
-#EXTINF:-1 tvg-chno="2550" tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/logo/1920x1080/runtime_las_action_bg.jpg" group-title="Movies",Runtime Acción
+#EXTINF:-1 tvg-chno="2550" tvg-logo="https://i.imgur.com/lD6gVXq.png" group-title="Movies",Runtime Acción
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550
-#EXTINF:-1 tvg-chno="2551" tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_las_comedy_bg.jpg" group-title="Movies",Runtime Comedia
+#EXTINF:-1 tvg-chno="2551" tvg-logo="https://i.imgur.com/a2EMUyP.png" group-title="Movies",Runtime Comedia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551
-#EXTINF:-1 tvg-chno="3533" tvg-logo="http://codes-cms-files.s3-website-us-west-2.amazonaws.com/prod/run/linear_channel/logo/1920x1080/runtime_crimen_latam_16x9.jpg" group-title="Movies",Runtime Crimen 
+#EXTINF:-1 tvg-chno="3533" tvg-logo="https://i.imgur.com/SxlgUbA.png" group-title="Movies",Runtime Crimen 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3533
-#EXTINF:-1 tvg-chno="3532" tvg-logo="http://codes-cms-files.s3-website-us-west-2.amazonaws.com/prod/run/linear_channel/logo/1920x1080/runtime_romance_latam_16x9.jpg" group-title="Movies",Runtime Romance
+#EXTINF:-1 tvg-chno="3532" tvg-logo="https://i.imgur.com/3YHsaoL.png" group-title="Movies",Runtime Romance
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3532
-#EXTINF:-1 tvg-chno="3529" tvg-logo="http://codes-cms-files.s3-website-us-west-2.amazonaws.com/prod/run/linear_channel/logo/1920x1080/runtime_thriller_latam_16x9.jpg" group-title="Movies",Runtime Thriller
+#EXTINF:-1 tvg-chno="3529" tvg-logo="https://i.imgur.com/aE0bQXq.png" group-title="Movies",Runtime Thriller
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
-#EXTINF:-1 tvg-chno="3528" tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/logo/1920x1080/runtime_familia_16x9.jpg" group-title="Movies",Runtime Familia
+#EXTINF:-1 tvg-chno="3528" tvg-logo="https://i.imgur.com/pUsi0OC.png" group-title="Movies",Runtime Familia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3528
 
 ----------------------
