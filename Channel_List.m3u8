@@ -94,7 +94,7 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/.m3u8
 https://5ca3e84a76d30.streamlock.net:443/tvunam/videotvunam/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="NueveTV.mx" tvg-chno="9.1" tvg-logo="https://i.imgur.com/AOx2jbb.png" group-title="Entertainment",Nueve TV (SLP)
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/playlist.m3u8
-#EXTINF:-1 tvg-id="Teleritmo.mx" tvg-chno="6.4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/428px-Multimedios_Canal_Seis_Logo.svg.png" group-title="Music",Teleritmo TV
+#EXTINF:-1 tvg-id="Teleritmo.mx" tvg-chno="6.4" tvg-logo="https://i.imgur.com/QB800fn.png" group-title="Music",Teleritmo TV
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?uid=45MYCp5K2CGOq5jC2f1ipUphtqkkTnUR&sid=CaRPmFmzUvqCdRQatlPmuDWR4ZznqxoS&pid=XV70sQg0Xq2yER2E3uTn5CxgDoLLSNtO&an=screen&at=web-app&av=v5.2.295&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=312x156&without_cookies=false&listenerid=&dnt=true
 #EXTINF:-1 tvg-id="TeleYucatan.mx" tvg-chno="4.1" tvg-logo="https://yt3.googleusercontent.com/I1001igRMbYb_tef1k15fMqClHgZqRTHFVtl1JszU_2CiK0-gmf1VeQ_6MbJ_Yn5WsPbOV3uYQ" group-title="Education",TELE YUCATÁN
 https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyMiA5OjU1OjA2IEFNJmhhc2hfdmFsdWU9b05UTy8xK2lQS2o1Y2YvRjQyQlhtUT09JnZhbGlkbWludXRlcz0xMCZpZD0=
@@ -404,9 +404,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-sams
 
 #EXTINF:-1 tvg-id="TVCuatro41.mx" tvg-chno="4.1" tvg-logo="https://www.tvcuatro.com/images/logo-menu.png" group-title="Education",Canal 4.1
 https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
-#EXTINF:-1 tvg-id="MultimediosGuadalajara.mx" tvg-chno="6.1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/428px-Multimedios_Canal_Seis_Logo.svg.png" group-title="Entertainment",CDMX TV
+#EXTINF:-1 tvg-id="MultimediosGuadalajara.mx" tvg-chno="6.1" tvg-logo="https://i.imgur.com/QB800fn.png" group-title="Entertainment",CDMX TV
 https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
-#EXTINF:-1 tvg-id="MultimediosLaguna.mx" tvg-chno="6.1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/428px-Multimedios_Canal_Seis_Logo.svg.png" group-title="Entertainment",Laguna TV
+#EXTINF:-1 tvg-id="MultimediosLaguna.mx" tvg-chno="6.1" tvg-logo="https://i.imgur.com/QB800fn.png" group-title="Entertainment",Laguna TV
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?uid=45MYCp5K2CGOq5jC2f1ipUphtqkkTnUR&sid=YV8RhDqbfmKqBj66mcyeIOuM5BeG2FBS&pid=r0lBfGnKRpnmtH9gkP5eheL2hhW6McGa&an=screen&at=web-app&av=v5.2.295&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=312x156&without_cookies=false&listenerid=&dnt=true
 #EXTINF:-1 tvg-id="NoticiasCanal10.mx" tvg-chno="5.1" tvg-logo="https://i.imgur.com/gHJD7l8.png" group-title="Entertainment",Canal 10
 https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
@@ -418,7 +418,7 @@ https://novelisima-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33
 
 ----------------------
 
-#EXTINF:-1 tvg-chno="12.1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/428px-Multimedios_Canal_Seis_Logo.svg.png" group-title="Entertainment",Bajío TV
+#EXTINF:-1 tvg-chno="12.1" tvg-logo="https://i.imgur.com/QB800fn.png" group-title="Entertainment",Bajío TV
 https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
 
 #EXTINF:-1 tvg-chno="10.1" tvg-logo="https://i.imgur.com/RZ38lLm.png" group-title="Entertainment",Canal 7 (SLP)
@@ -430,15 +430,15 @@ https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyMiA4OjIxOjI3IEFNJmhhc2hfdmFsdWU9bjlOTzErWVRQdEswZnRMNG1kSisrZz09JnZhbGlkbWludXRlcz01JmlkPQ==
 #EXTINF:-1 tvg-chno="22.2" tvg-logo="https://i.imgur.com/LvNqgJO.png" group-title="Entertainment",Canal 22.2
 https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyMiA4OjIxOjU4IEFNJmhhc2hfdmFsdWU9UTY1ZE9nZm5MNGxNYk5WUkFKaWxmdz09JnZhbGlkbWludXRlcz01JmlkPQ==
-#EXTINF:-1 tvg-chno="6.1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/428px-Multimedios_Canal_Seis_Logo.svg.png" group-title="Entertainment",Ciudad Juárez TV
+#EXTINF:-1 tvg-chno="6.1" tvg-logo="https://i.imgur.com/QB800fn.png" group-title="Entertainment",Ciudad Juárez TV
 https://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8
 #EXTINF:-1 tvg-chno="29" tvg-logo="https://i.imgur.com/tm9y9Pd.png" group-title="Entertainment",SMRTV
 https://60ed5b6d0df78.streamlock.net:1936/enlinea/enlinea/chunklist_w1056120456.m3u8
 #EXTINF:-1 tvg-chno="10.1" tvg-logo="https://tvmar.tv/tvmar-logo.png" group-title="Entertainment",TV Mar
 https://5ca3e84a76d30.streamlock.net:443/tvmarvallarta/videotvmarvallarta/playlist.m3u8
-#EXTINF:-1 tvg-chno="6.1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/428px-Multimedios_Canal_Seis_Logo.svg.png" group-title="Entertainment",Puebla TV
+#EXTINF:-1 tvg-chno="6.1" tvg-logo="https://i.imgur.com/QB800fn.png" group-title="Entertainment",Puebla TV
 https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
-#EXTINF:-1 tvg-chno="6.1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/428px-Multimedios_Canal_Seis_Logo.svg.png" group-title="Entertainment",Saltillo TV
+#EXTINF:-1 tvg-chno="6.1" tvg-logo="https://i.imgur.com/QB800fn.png" group-title="Entertainment",Saltillo TV
 https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
 #EXTINF:-1 tvg-chno="906" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6371130fd4adb6faff0d76e7" group-title="Entertainment",El Conflicto (Local Now)
 https://elconflicto-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61fb0259a0d6715e83734e72_elconflicto-live-1/index-elconflictotv.m3u8?ads.ac.t=aHR0cHM6Ly90di5zcHJpbmdzZXJ2ZS5jb20vcnQvMjMyNQ%3D%3D&ads.cb=15302827947461460&ads.w=370&ads.h=208&ads.url=https%3A%2F%2Flocalnow.com%2Fchannels%2Fafv-espanol&ads.app_bundle=&ads.app_name=&ads.app_store_url=&ads.app_version=&ads.pos=mid&ads.did=&ads.ifa_type=&ads.dnt=0&ads.device_make=&ads.device_model=&ads.device_type=&ads.cust_devicename=desktop_web&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F108.0.0.0%20Safari%2F537.36%20Edg%2F108.0.1462.54&ads.channel_id=61fb0259a0d6715e83734e72&ads.content_custom_1_param=61fb0259a0d6715e83734e72&ads.channel_title=EPG-EL_CONFLICTO&ads.channel_contenttype=Shows&ads.channel_name=EPG-EL_CONFLICTO&ads.channel_genre=En%20Espanol&ads.channel_rating=&ads.channel_language=&ads.channel_contentlen=1800&ads.content_livestream=1&ads.network_name=el-conflicto&ads.content_provider=el-conflicto&ads.ip=161.129.70.136&ads.us_privacy=&ads.payid=6ec8debb969b70cf&ads.SSID=&ads.hybrid=0&ads.aml=1&ads.tag_id=localnow&ads.adc_token=QkdCQkNKSEFCREdNbDAoZHNOVFQxLjtXNjt4NClBaTYoVCxsa2VHaylDMDBTLzZFMDQ
