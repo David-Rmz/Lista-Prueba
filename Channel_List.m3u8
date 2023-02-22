@@ -90,21 +90,19 @@ https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8?wm
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 tvg-id="XHGVTDT.mx" tvg-chno="26.1" tvg-logo="http://www.tvmas.mx/wp-content/themes/TVMASv2/images/logoTVMASblanco.png" group-title="Entertainment",TVMÁS - Veracruz
 https://5ca9af4645e15.streamlock.net/rtv/videortv/.m3u8
-#EXTINF:-1 tvg-id="TVUNAM.mx" tvg-chno="20.1" tvg-logo="https://tv.unam.mx/wp-content/uploads/2019/04/aureola-blanca50.png" group-title="Education",TV UNAM
-https://5ca3e84a76d30.streamlock.net:443/tvunam/videotvunam/playlist.m3u8?DVR
+
+
 #EXTINF:-1 tvg-id="NueveTV.mx" tvg-chno="9.1" tvg-logo="https://i.imgur.com/AOx2jbb.png" group-title="Entertainment",Nueve TV (SLP)
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/playlist.m3u8
 #EXTINF:-1 tvg-id="Teleritmo.mx" tvg-chno="6.4" tvg-logo="https://i.imgur.com/QB800fn.png" group-title="Music",Teleritmo TV
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?uid=45MYCp5K2CGOq5jC2f1ipUphtqkkTnUR&sid=CaRPmFmzUvqCdRQatlPmuDWR4ZznqxoS&pid=XV70sQg0Xq2yER2E3uTn5CxgDoLLSNtO&an=screen&at=web-app&av=v5.2.295&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=312x156&without_cookies=false&listenerid=&dnt=true
-#EXTINF:-1 tvg-id="TeleYucatan.mx" tvg-chno="4.1" tvg-logo="https://yt3.googleusercontent.com/I1001igRMbYb_tef1k15fMqClHgZqRTHFVtl1JszU_2CiK0-gmf1VeQ_6MbJ_Yn5WsPbOV3uYQ" group-title="Education",TELE YUCATÁN
-https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyMiA5OjU1OjA2IEFNJmhhc2hfdmFsdWU9b05UTy8xK2lQS2o1Y2YvRjQyQlhtUT09JnZhbGlkbWludXRlcz0xMCZpZD0=
+
 #EXTINF:-1 tvg-id="TeleFormula.mx" tvg-chno="2053" tvg-logo="https://i.imgur.com/kbLjdXp.png" group-title="News",TELEFÓRMULA
-https://mdstrm.com/live-stream-playlist/61e1e088d04d7744686afc42.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
 #EXTINF:-1 tvg-id="CineSony.us" tvg-chno="373" tvg-logo="https://i.imgur.com/cQqOyjo.png" group-title="Movies",Cine Sony
 https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-chno="456" tvg-logo="https://i.imgur.com/YHQ3x4I.png" group-title="News",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-
 
 
 ----------------------
@@ -112,25 +110,12 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #EXTINF:-1 tvg-id="ButacaTV.us" tvg-chno="2699" tvg-logo="https://i.imgur.com/TlyvYi8.png" group-title="Entertainment",Butaca TV
 https://veranda-butacatv-2-mx.samsung.wurl.tv/2000.m3u8
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-616df1e90dfa27ee465797fa" tvg-id="5e20b730f2f8d5003d739db7-616df1e90dfa27ee465797fa" tvg-chno="60" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e4ba10a4-dbb2-4d15-b268-1ed43ddf7e4b/cinelife-logo.png" group-title="Movies",Cine Life
-https://magselect-stirr.amagi.tv/playlist.m3u8
 
-----------------------
-
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60c8d4d5ad7b3f002c64b87e" tvg-id="5e20b730f2f8d5003d739db7-60c8d4d5ad7b3f002c64b87e" tvg-chno="188" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/LoveNature_Logo_Dark_Spanish.png" group-title="Animal/Wildlife",Love Nature en Español
-https://bam-lovenature-spa-plex.amagi.tv/playlist.m3u8
 
 ----------------------
 
 #EXTINF:-1 tvg-chno="514" tvg-logo="https://www.toongoggles.com/themes/custom/tg/toon_goggles/logo.png" group-title="Family/Kids",Toon Goggles en Español
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
-
-----------------------
-
-#EXTINF:-1 tvg-chno="834" tvg-logo="https://image.xumo.com/v1/channels/channel/9995104/500x500.png?type=color_onBlack" group-title="Music",iHeartRadio Latino
-https://d26ryn1s9vxsg0.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-main-hlsv3/playlist.m3u8?ads.channelId=9995104&ads.caid=XMQ5L15I249TVL&ads.csid=xumo_desktopweb_iheartlatinobeats_ssai&ads._fw_is_lat=1&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=dpid:2510ba66-45c6-f283-0726-9328c1049cc0&ads._fw_vcid2=512116:2510ba66-45c6-f283-0726-9328c1049cc0&ads._fw_app_bundle=&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=null&ads._fw_content_language=en&ads._fw_content_length=&ads._fw_content_rating=undefined&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_deviceType=3-Connected_TV&ads.appVersion=&ads.appName=xumo&ads.xumo_contentId=3533&ads.xumo_contentName=iHeartLatinoBeats&ads.xumo_providerId=3533&ads.xumo_providerName=iHeartLatinoBeats
-#EXTINF:-1 tvg-chno="456" tvg-logo="https://i.imgur.com/ZRXJTev.png" group-title="Entertainment",AMERICATEVÉ 
-https://d26ryn1s9vxsg0.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/master.m3u8?ads.channelId=99951140&ads.csid=xumo_desktopweb_AmericanTeve_ssai&ads._fw_app_bundle=&ads._fw_did=2510ba66-45c6-f283-0726-9328c1049cc0&ads._fw_is_lat=1&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_app_store_url=&ads._fw_content_category=&ads.xumo_contentName=AmericanTeve&ads.xumo_providerName=AmericanTeve&ads._fw_content_language=en&ads.assetId=XMW5LALLX4TQUL&ads._fw_content_genre=null&ads.xumo_providerId=3749&ads._fw_content_rating=undefined&ads.xumo_platform=desktopweb&ads.xumo_channelId=[CHANNEL_ID]
 
 ----------------------
 
@@ -153,8 +138,6 @@ https://zaz-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f
 https://sunchannel-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_62153c4bd613fc3b6f283383_sunchannel-live/playlist.m3u8?ads.ac.t=aHR0cHM6Ly90di5zcHJpbmdzZXJ2ZS5jb20vcnQvMjMyNQ%3D%3D&ads.cb=9555281084119254&ads.w=370&ads.h=208&ads.url=https%3A%2F%2Flocalnow.com%2Fchannels%2Fepg-zaz&ads.app_bundle=&ads.app_name=&ads.app_store_url=&ads.app_version=&ads.pos=mid&ads.did=&ads.ifa_type=&ads.dnt=0&ads.device_make=&ads.device_model=&ads.device_type=&ads.cust_devicename=desktop_web&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F108.0.0.0%20Safari%2F537.36%20Edg%2F108.0.1462.54&ads.channel_id=62153c4bd613fc3b6f283383&ads.content_custom_1_param=62153c4bd613fc3b6f283383&ads.channel_title=EPG-Sun_Channel&ads.channel_contenttype=Shows&ads.channel_name=EPG-Sun_Channel&ads.channel_genre=Entertainment&ads.channel_rating=&ads.channel_language=&ads.channel_contentlen=1800&ads.content_livestream=1&ads.network_name=sun-channel-tv&ads.content_provider=sun-channel-tv&ads.ip=161.129.70.136&ads.us_privacy=&ads.payid=6ec8debb969b70cf&ads.SSID=&ads.hybrid=0&ads.aml=1&ads.tag_id=localnow&ads.adc_token=QkdCQkNKSEFCREdNbDAoZHNOVFQxLjtXNjt4NClBaTYoVCxsa2VHaylDMDBTLzZFMDQ
 #EXTINF:-1 tvg-chno="924" tvg-logo="https://i.imgur.com/0UbdfGj.png" group-title="Education",Inti Pacha TV
 https://12b71fa80adc4f3ca71526d9a77d5b00.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_INTIPACHA/playlist.m3u8?ads.wurl_channel=992&ads.wurl_name=INTIPACHA&ads.coppa=0&ads.app_bundle=&ads.app_name=&ads.app_store_url=&ads.did=&ads.ifa_type=&ads.dnt=0&ads.device_make=&ads.device_model=&ads.device_type=&ads.cust_devicename=desktop_web&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F108.0.0.0%20Safari%2F537.36%20Edg%2F108.0.1462.54&ads.content_id=62717545f472bc7015257d8b&ads.content_title=EPG-INTI_PACHA_TV&ads.cust_channeltype=Shows&ads.content_genre=En%20Espanol&ads.content_provider=inti-pacha-tv&ads.us_privacy=&lastUpdatedAt=1672253387&ads.adc_token=QkdCQkNKSEFCREdNbDAoZHNOVFQxLjtXNjt4NClBaTYoVCxsa2VHaylDMDBTLzZFMDQ
-#EXTINF:-1 tvg-chno="934" tvg-logo="https://herogo-origin001.sotalcloud.com/contentserver/v2/distributions/22725035/content/1658783879695_boxgamers.png" group-title="Gaming",Box Gamers
-https://boxgamers-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_62194161bada330c212a0f42_boxgamers-live/m.m3u8?ads.vast_id=657310&ads.ac.t=aHR0cHM6Ly90di5zcHJpbmdzZXJ2ZS5jb20vcnQvMjMyNQ%3D%3D&ads.cb=2367917297730168&ads.w=370&ads.h=208&ads.url=https%3A%2F%2Flocalnow.com%2Fchannels%2Fepg-box-playlist&ads.app_bundle=&ads.app_name=&ads.app_store_url=&ads.app_version=&ads.pos=mid&ads.did=&ads.ifa_type=&ads.dnt=0&ads.device_make=&ads.device_model=&ads.device_type=&ads.cust_devicename=desktop_web&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F108.0.0.0%20Safari%2F537.36%20Edg%2F108.0.1462.54&ads.channel_id=62194161bada330c212a0f42&ads.content_custom_1_param=62194161bada330c212a0f42&ads.channel_title=EPG-Box_Gamers&ads.channel_contenttype=Shows&ads.channel_name=EPG-Box_Gamers&ads.channel_genre=En%20Espanol&ads.channel_rating=&ads.channel_language=&ads.channel_contentlen=1800&ads.content_livestream=1&ads.network_name=box-gamers&ads.content_provider=box-gamers&ads.ip=161.129.70.136&ads.us_privacy=&ads.payid=6ec8debb969b70cf&ads.SSID=&ads.hybrid=0&ads.aml=1&ads.tag_id=localnow&ads.adc_token=QkdCQkNKSEFCREdNbDAoZHNOVFQxLjtXNjt4NClBaTYoVCxsa2VHaylDMDBTLzZFMDQ
 
 #EXTINF:-1 tvg-chno="940" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/62ed5be3a07217bdd20a7263" group-title="Entertainment",The Chukker Channel 
 https://thechukkerchannel-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_62ed5aa5935245a5dc041074_thechukkerchannel-live/master.m3u8?ads.ac.t=aHR0cHM6Ly90di5zcHJpbmdzZXJ2ZS5jb20vcnQvMjMyNQ%3D%3D&ads.cb=9901439935833360&ads.w=370&ads.h=208&ads.url=https%3A%2F%2Flocalnow.com%2Fchannels%2Fepg-bein-xtra-espanol&ads.app_bundle=&ads.app_name=&ads.app_store_url=&ads.app_version=&ads.pos=mid&ads.did=&ads.ifa_type=&ads.dnt=0&ads.device_make=&ads.device_model=&ads.device_type=&ads.cust_devicename=desktop_web&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F108.0.0.0%20Safari%2F537.36%20Edg%2F108.0.1462.54&ads.channel_id=62ed5aa5935245a5dc041074&ads.content_custom_1_param=62ed5aa5935245a5dc041074&ads.channel_title=EPG-The_Chukker_Channel&ads.channel_contenttype=Shows&ads.channel_name=EPG-The_Chukker_Channel&ads.channel_genre=Entertainment&ads.channel_rating=&ads.channel_language=&ads.channel_contentlen=1800&ads.content_livestream=1&ads.network_name=the-chukker-channel&ads.content_provider=the-chukker-channel&ads.ip=161.129.70.136&ads.us_privacy=&ads.payid=6ec8debb969b70cf&ads.SSID=&ads.hybrid=0&ads.aml=1&ads.tag_id=localnow&ads.adc_token=QkdCQkNKSEFCREdNbDAoZHNOVFQxLjtXNjt4NClBaTYoVCxsa2VHaylDMDBTLzZFMDQ
@@ -244,8 +227,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492a9bbca75b0007b1bf
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492b2794116800073e32dc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 channel-id="pluto-60492c67f4c48700075b5d37" tvg-id="60492c67f4c48700075b5d37" tvg-chno="2895" tvg-logo="https://images.pluto.tv/channels/60492c67f4c48700075b5d37/solidLogoPNG.png" group-title="Entertainment",Entre nosotras
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492c67f4c48700075b5d37/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 channel-id="pluto-60492d5522166000071a73c8" tvg-id="60492d5522166000071a73c8" tvg-chno="3040" tvg-logo="https://images.pluto.tv/channels/60492d5522166000071a73c8/solidLogoPNG.png" group-title="News",Telefe noticias
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492d5522166000071a73c8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #EXTINF:-1 channel-id="pluto-60493045fbb5e50007b36f4d" tvg-id="60493045fbb5e50007b36f4d" tvg-chno="3075" tvg-logo="https://images.pluto.tv/channels/60493045fbb5e50007b36f4d/solidLogoPNG.png" group-title="Entertainment",Naruto en español
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60493045fbb5e50007b36f4d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 channel-id="pluto-604930bc28b24d0007e0e171" tvg-id="604930bc28b24d0007e0e171" tvg-chno="3080" tvg-logo="https://images.pluto.tv/channels/604930bc28b24d0007e0e171/solidLogoPNG.png" group-title="Entertainment",Yu-Gi-Oh! en español
@@ -383,11 +365,6 @@ https://a58265c9d06d4c91ac4b8071b890ddaa.mediatailor.us-east-1.amazonaws.com/v1/
 
 ----------------------
 
-#EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-chno="526" tvg-logo="https://provider-static.plex.tv/c/epg/channels/logos/gracenote/cc3fb809dcbadcca77d51c75980f74ee.png" group-title="Life Style",Tastemade en Español
-https://tastemadees16intl-brightcove.amagi.tv/playlist.m3u8
-
-----------------------
-
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-627121c4210f4a174062e5c5" tvg-id="5e20b730f2f8d5003d739db7-627121c4210f4a174062e5c5" tvg-chno="902" tvg-logo="https://provider-static.plex.tv/3/epg/channels/logos/gracenote/30f15c6306301ee13aa6e08d6b78f00a.png" group-title="News",The Weather Channel en Español
 https://linear-431.frequency.stream/431/hls/master/playlist.m3u8
 
@@ -402,8 +379,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-sams
 https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
 #EXTINF:-1 tvg-id="MultimediosGuadalajara.mx" tvg-chno="6.1" tvg-logo="https://i.imgur.com/QB800fn.png" group-title="Entertainment",CDMX TV
 https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
-#EXTINF:-1 tvg-id="MultimediosLaguna.mx" tvg-chno="6.1" tvg-logo="https://i.imgur.com/QB800fn.png" group-title="Entertainment",Laguna TV
-https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?uid=45MYCp5K2CGOq5jC2f1ipUphtqkkTnUR&sid=YV8RhDqbfmKqBj66mcyeIOuM5BeG2FBS&pid=r0lBfGnKRpnmtH9gkP5eheL2hhW6McGa&an=screen&at=web-app&av=v5.2.295&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=312x156&without_cookies=false&listenerid=&dnt=true
+
 #EXTINF:-1 tvg-id="NoticiasCanal10.mx" tvg-chno="5.1" tvg-logo="https://i.imgur.com/gHJD7l8.png" group-title="Entertainment",Canal 10
 https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
 #EXTINF:-1 tvg-id="Novelisima.us" tvg-chno="2380" tvg-logo="https://i.imgur.com/Nhfp9LV.png" group-title="Entertainment",Novelisima (Canela TV)
@@ -413,9 +389,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 https://novelisima-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6323ae55350310e5540ace93_novelisima-live-1/no_es.m3u8?ads.ac.t=aHR0cHM6Ly90di5zcHJpbmdzZXJ2ZS5jb20vcnQvNDg4Ng%3D%3D&ads.cb=14834601489191514&ads.w=370&ads.h=208&ads.url=https%3A%2F%2Flocalnow.com%2Fchannels%2Fepg-the-chukker-channel&ads.app_bundle=&ads.app_name=&ads.app_store_url=&ads.app_version=&ads.pos=mid&ads.did=&ads.ifa_type=&ads.dnt=0&ads.device_make=&ads.device_model=&ads.device_type=&ads.cust_devicename=desktop_web&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F108.0.0.0%20Safari%2F537.36%20Edg%2F108.0.1462.54&ads.channel_id=6323ae55350310e5540ace93&ads.content_custom_1_param=6323ae55350310e5540ace93&ads.channel_title=EPG-Novelisima&ads.channel_contenttype=Movies&ads.channel_name=EPG-Novelisima&ads.channel_genre=En%20Espanol&ads.channel_rating=&ads.channel_language=&ads.channel_contentlen=5400&ads.content_livestream=1&ads.network_name=novellisima&ads.content_provider=novellisima&ads.ip=161.129.70.136&ads.us_privacy=&ads.payid=6ec8debb969b70cf&ads.SSID=&ads.hybrid=0&ads.aml=1&ads.tag_id=localnow&ads.adc_token=QkdCQkNKSEFCREdNbDAoZHNOVFQxLjtXNjt4NClBaTYoVCxsa2VHaylDMDBTLzZFMDQ
 
 ----------------------
-
-#EXTINF:-1 tvg-chno="12.1" tvg-logo="https://i.imgur.com/QB800fn.png" group-title="Entertainment",Bajío TV
-https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
 
 #EXTINF:-1 tvg-chno="10.1" tvg-logo="https://i.imgur.com/RZ38lLm.png" group-title="Entertainment",Canal 7 (SLP)
 https://mvtvstream.com:444/live/62b7143c6eea3/index.m3u8
@@ -432,8 +405,7 @@ https://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8
 https://60ed5b6d0df78.streamlock.net:1936/enlinea/enlinea/chunklist_w1056120456.m3u8
 #EXTINF:-1 tvg-chno="10.1" tvg-logo="https://tvmar.tv/tvmar-logo.png" group-title="Entertainment",TV Mar
 https://5ca3e84a76d30.streamlock.net:443/tvmarvallarta/videotvmarvallarta/playlist.m3u8
-#EXTINF:-1 tvg-chno="6.1" tvg-logo="https://i.imgur.com/QB800fn.png" group-title="Entertainment",Puebla TV
-https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
+
 #EXTINF:-1 tvg-chno="6.1" tvg-logo="https://i.imgur.com/QB800fn.png" group-title="Entertainment",Saltillo TV
 https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
 #EXTINF:-1 tvg-chno="906" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6371130fd4adb6faff0d76e7" group-title="Entertainment",El Conflicto (Local Now)
@@ -443,4 +415,3 @@ https://elconflicto-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc3
 https://freetv.stream.olympusatmedia.com/index.m3u8
 
 ----------------------
-
