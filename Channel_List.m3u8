@@ -43,8 +43,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
 
 ----------------------
 
-#EXTINF:-1 tvg-chno="2154" tvg-logo="https://i.imgur.com/xu46azZ.png" group-title="Entertainment",Runtime
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154
 #EXTINF:-1 tvg-chno="2550" tvg-logo="https://i.imgur.com/lD6gVXq.png" group-title="Movies",Runtime Acción
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550
 #EXTINF:-1 tvg-chno="2551" tvg-logo="https://i.imgur.com/a2EMUyP.png" group-title="Movies",Runtime Comedia
@@ -96,9 +94,6 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/.m3u8
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/playlist.m3u8
 #EXTINF:-1 tvg-id="Teleritmo.mx" tvg-chno="6.4" tvg-logo="https://i.imgur.com/QB800fn.png" group-title="Music",Teleritmo TV
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?uid=45MYCp5K2CGOq5jC2f1ipUphtqkkTnUR&sid=CaRPmFmzUvqCdRQatlPmuDWR4ZznqxoS&pid=XV70sQg0Xq2yER2E3uTn5CxgDoLLSNtO&an=screen&at=web-app&av=v5.2.295&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=312x156&without_cookies=false&listenerid=&dnt=true
-
-#EXTINF:-1 tvg-id="TeleFormula.mx" tvg-chno="2053" tvg-logo="https://i.imgur.com/kbLjdXp.png" group-title="News",TELEFÓRMULA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
 #EXTINF:-1 tvg-id="CineSony.us" tvg-chno="373" tvg-logo="https://i.imgur.com/cQqOyjo.png" group-title="Movies",Cine Sony
 https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-chno="456" tvg-logo="https://i.imgur.com/YHQ3x4I.png" group-title="News",DW Español
@@ -353,11 +348,6 @@ https://a58265c9d06d4c91ac4b8071b890ddaa.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-627121c4210f4a174062e5c5" tvg-id="5e20b730f2f8d5003d739db7-627121c4210f4a174062e5c5" tvg-chno="902" tvg-logo="https://provider-static.plex.tv/3/epg/channels/logos/gracenote/30f15c6306301ee13aa6e08d6b78f00a.png" group-title="News",The Weather Channel en Español
 https://linear-431.frequency.stream/431/hls/master/playlist.m3u8
-
-----------------------
-
-#EXTINF:-1 channel-id="samsung-ESBC1700001QI" tvg-id="ESBC1700001QI" tvg-chno="4178" tvg-logo="https://i.imgur.com/kP2BHJM.png" group-title="Drama",Vive Kanal D Drama
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 
 ----------------------
 
