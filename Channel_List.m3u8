@@ -1,4 +1,7 @@
 #EXTM3U
+
+x-tvg-url="https://i.mjh.nz/Plex/us.xml.gz,https://i.mjh.nz/PlutoTV/us.xml.gz,https://i.mjh.nz/SamsungTVPlus/us.xml.gz"
+
 #EXTINF:-1 tvg-chno="3134" tvg-logo="https://i.imgur.com/HiHfp9O.png" group-title="Movies",Canela Cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3134
 #EXTINF:-1 tvg-chno="652" tvg-logo="https://i.imgur.com/YVZkxsB.png" group-title="Movies",Canela Clásicos
