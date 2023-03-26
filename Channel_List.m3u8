@@ -362,9 +362,9 @@ https://mvtvstream.com:444/live/62b7143c6eea3/index.m3u8
 #EXTINF:-1 tvg-chno="10" tvg-logo="https://www.rtq.mx/wp-content/uploads/2022/03/Logo-RTQ-BLanco-1.png" group-title="Education",Canal 10 - RTQ
 https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="22.1" tvg-logo="https://i.imgur.com/LvNqgJO.png" group-title="Entertainment",Canal 22.1
+#EXTINF:-1 tvg-chno="22.1" tvg-logo="https://i.imgur.com/LvNqgJO.png" group-title="Entertainment",Canal 22
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyMiA4OjIxOjI3IEFNJmhhc2hfdmFsdWU9bjlOTzErWVRQdEswZnRMNG1kSisrZz09JnZhbGlkbWludXRlcz01JmlkPQ==
-#EXTINF:-1 tvg-chno="22.2" tvg-logo="https://i.imgur.com/LvNqgJO.png" group-title="Entertainment",Canal 22.2
+#EXTINF:-1 tvg-chno="22.2" tvg-logo="https://i.imgur.com/mF30gqm.png" group-title="Entertainment",MX Nuestro Cine
 https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyMiA4OjIxOjU4IEFNJmhhc2hfdmFsdWU9UTY1ZE9nZm5MNGxNYk5WUkFKaWxmdz09JnZhbGlkbWludXRlcz01JmlkPQ==
 #EXTINF:-1 tvg-chno="29" tvg-logo="https://i.imgur.com/tm9y9Pd.png" group-title="Entertainment",SMRTV
 https://60ed5b6d0df78.streamlock.net:1936/enlinea/enlinea/chunklist_w1056120456.m3u8
