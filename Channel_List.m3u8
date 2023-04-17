@@ -71,7 +71,7 @@ https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/chunklist_w436040449.m
 #EXTINF:-1 tvg-chno="29" tvg-logo="https://i.imgur.com/tm9y9Pd.png" group-title="Entertainment",SMRTV
 https://60ed5b6d0df78.streamlock.net:1936/enlinea/enlinea/chunklist_w1056120456.m3u8
 
-#EXTINF:-1 tvg-id="TVMexiquense.mx" tvg-chno="34.1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Televisi%C3%B3n_Mexiquense_%28c._2020%29.png" group-title="Entertainment",Mexiquense TV
+#EXTINF:-1 tvg-id="TVMexiquense.mx" tvg-chno="34.1" tvg-logo="https://i.imgur.com/6VPHOD3.png" group-title="Entertainment",Mexiquense TV
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDIyIDEyOjI5OjU3IEFNJmhhc2hfdmFsdWU9ZnhGekR3a0ZiQm1GOE1lNjFjRVRFZz09JnZhbGlkbWludXRlcz01JmlkPQ==
 
 #EXTINF:-1 tvg-id="CanaldelCongreso451.mx" tvg-chno="45.1" tvg-logo="https://radio.canaldelcongreso.gob.mx/Congreso/dist/images/451_big.png" group-title="Education",Canal del Congreso México 45.1
