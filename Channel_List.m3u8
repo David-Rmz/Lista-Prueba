@@ -20,7 +20,7 @@ https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
 #EXTINF:-1 tvg-chno="6.1" tvg-logo="https://i.imgur.com/kK7tVMP.png" group-title="Entertainment",Canal 6 MTY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
-#EXTINF:-1 tvg-id="MilenioTelevision.mx" tvg-chno="6.2" tvg-logo="https://i.imgur.com/SzQ1yS2.png" group-title="News",Milenio Televisión
+#EXTINF:-1 tvg-id="MilenioTelevision.mx" tvg-chno="6.2" tvg-logo="https://i.imgur.com/uUmNbFO.png" group-title="News",Milenio Televisión
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
 #EXTINF:-1 tvg-id="Teleritmo.mx" tvg-chno="6.4" tvg-logo="https://i.imgur.com/YfM7gju.png" group-title="Music",Teleritmo TV
@@ -38,10 +38,10 @@ https://freetv.stream.olympusatmedia.com/index.m3u8
 #EXTINF:-1 tvg-id="NueveTV.mx" tvg-chno="9.1" tvg-logo="https://i.imgur.com/AOx2jbb.png" group-title="Entertainment",Nueve TV (SLP)
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="10" tvg-logo="https://www.rtq.mx/wp-content/uploads/2022/03/Logo-RTQ-BLanco-1.png" group-title="Education",Canal 10 - RTQ
+#EXTINF:-1 tvg-chno="10" tvg-logo="https://i.imgur.com/HpoRA8x.png" group-title="Education",Canal 10 RTQ
 https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="10.1" tvg-logo="https://i.imgur.com/RZ38lLm.png" group-title="Entertainment",Canal 7 (SLP)
+#EXTINF:-1 tvg-chno="10.1" tvg-logo="https://i.imgur.com/RZ38lLm.png" group-title="Entertainment",Canal 7 SLP
 https://mvtvstream.com:444/live/62b7143c6eea3/index.m3u8
 
 #EXTINF:-1 tvg-chno="10.1" tvg-logo="https://tvmar.tv/tvmar-logo.png" group-title="Entertainment",TV Mar
@@ -240,7 +240,7 @@ https://5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 channel-id="samsung-USBB3200016HO" tvg-id="USBB3200016HO" tvg-chno="1253" tvg-logo="https://i.imgur.com/b7aqaV6.png" group-title="News",Telemundo Al Día
 https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_telemundoaldia_001.m3u8?ads.caid=TelemundoAlDia&ads.csid=samsungtvplus_us_telemundoaldia_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2561&ads.xumo_contentName=TelemundoAlDia&ads.xumo_providerId=2561&ads.xumo_providerName=TelemundoAlDia&ads.xumo_channelId=9999544&ads.xumo_channelName=Telemundoaldia&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
 
-#EXTINF:-1 channel-id="samsung-USBC10000223W" tvg-id="USBC10000223W" tvg-chno="1254" tvg-logo="https://i.imgur.com/8owcmoT.png" group-title="News",CNN RESUMEN
+#EXTINF:-1 channel-id="samsung-USBC10000223W" tvg-id="USBC10000223W" tvg-chno="1254" tvg-logo="https://i.imgur.com/igrmoDD.png" group-title="News",CNN RESUMEN
 https://dsuub0ebctcrw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4x428uikrca62-prod/dist/samsungtv/358/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 #EXTINF:-1 channel-id="samsung-USBC24000145I" tvg-id="USBC24000145I" tvg-chno="1257" tvg-logo="https://i.imgur.com/aLYCLY5.png" group-title="Entertainment",Estrella Games
