@@ -449,3 +449,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
 
 #EXTINF:-1 tvg-chno="4827" tvg-logo="https://i.imgur.com/rrYLYFJ.png" group-title="Entertainment",Clic
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
+
+#EXTINF:-1 tvg-chno="4829" tvg-logo="https://i.imgur.com/FKHGTwA.png" group-title="Entertainment",Cinema
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
+
+
