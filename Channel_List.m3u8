@@ -74,13 +74,13 @@ https://60ed5b6d0df78.streamlock.net:1936/enlinea/enlinea/chunklist_w1056120456.
 #EXTINF:-1 tvg-id="TVMexiquense.mx" tvg-chno="34.1" tvg-logo="https://i.imgur.com/6VPHOD3.png" group-title="Entertainment",Mexiquense TV
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDIyIDEyOjI5OjU3IEFNJmhhc2hfdmFsdWU9ZnhGekR3a0ZiQm1GOE1lNjFjRVRFZz09JnZhbGlkbWludXRlcz01JmlkPQ==
 
-#EXTINF:-1 tvg-id="CanaldelCongreso451.mx" tvg-chno="45.1" tvg-logo="https://radio.canaldelcongreso.gob.mx/Congreso/dist/images/451_big.png" group-title="Education",Canal del Congreso México 45.1
+#EXTINF:-1 tvg-id="CanaldelCongreso451.mx" tvg-chno="45.1" tvg-logo="https://i.imgur.com/2bpT28K.png" group-title="Education",Canal del Congreso México 45.1
 https://edgeplay.canaldelcongreso.gob.mx/live_sd1/smil:canal-sd1.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CanaldelCongreso452.mx" tvg-chno="45.2" tvg-logo="https://radio.canaldelcongreso.gob.mx/Congreso/dist/images/452_big.png" group-title="Education",Canal del Congreso México 45.2
+#EXTINF:-1 tvg-id="CanaldelCongreso452.mx" tvg-chno="45.2" tvg-logo="https://i.imgur.com/gtPcpVZ.png" group-title="Education",Canal del Congreso México 45.2
 https://edgeplay.canaldelcongreso.gob.mx/live_sd2/smil:canal-sd2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CanaldelCongreso453.mx" tvg-chno="45.3" tvg-logo="https://radio.canaldelcongreso.gob.mx/Congreso/dist/images/453_big.png" group-title="Education",Canal del Congreso México 45.3
+#EXTINF:-1 tvg-id="CanaldelCongreso453.mx" tvg-chno="45.3" tvg-logo="https://i.imgur.com/m1PXvs4.png" group-title="Education",Canal del Congreso México 45.3
 https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6018913ea15130002b28418f" tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b28418f" tvg-chno="53" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/chiquilines_logo_light.png" group-title="Family/Kids",Chiquilines
@@ -131,7 +131,6 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6244f2d33ef4
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6018913ea15130002b284195" tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b284195" tvg-chno="269" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/sabermas_logo_light.png" group-title="Education",Saber Mas
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playlist.m3u8?player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120
-
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-62ba4aaff663580a7238f327" tvg-id="5e20b730f2f8d5003d739db7-62ba4aaff663580a7238f327" tvg-chno="284" tvg-logo="https://provider-static.plex.tv/epg/cms/production/14362d39-32e6-41c8-894d-2401013362ff/Adventures_of_Sonic_the_Hedgehog_channel_logo_dark_-_Dana_Foster.png" group-title="Family/Kids",Sonic TV
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ba4aaff663580a7238f327.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=yA8aFZC94-Az2RAPHMpT
