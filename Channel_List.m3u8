@@ -35,7 +35,7 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 tvg-chno="8.2" tvg-logo="https://i.imgur.com/3rL2XFt.png" group-title="Entertainment",FreeTV 8.2
 https://freetv.stream.olympusatmedia.com/index.m3u8
 
-#EXTINF:-1 tvg-id="NueveTV.mx" tvg-chno="9.1" tvg-logo="https://i.imgur.com/AOx2jbb.png" group-title="Entertainment",Nueve TV (SLP)
+#EXTINF:-1 tvg-id="NueveTV.mx" tvg-chno="9.1" tvg-logo="https://i.imgur.com/AOx2jbb.png" group-title="Entertainment",Nueve TV SLP
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="10" tvg-logo="https://i.imgur.com/HpoRA8x.png" group-title="Education",Canal 10 RTQ
