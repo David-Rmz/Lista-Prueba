@@ -185,7 +185,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 #EXTINF:-1 tvg-chno="663" tvg-logo="https://i.imgur.com/PORhycr.png" group-title="Family/Kids",Mundo Pequeño 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3366
 
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-627121c4210f4a174062e5c5" tvg-id="5e20b730f2f8d5003d739db7-627121c4210f4a174062e5c5" tvg-chno="902" tvg-logo="https://provider-static.plex.tv/3/epg/channels/logos/gracenote/30f15c6306301ee13aa6e08d6b78f00a.png" group-title="News",The Weather Channel en Español
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-627121c4210f4a174062e5c5" tvg-id="5e20b730f2f8d5003d739db7-627121c4210f4a174062e5c5" tvg-chno="902" tvg-logo="https://i.imgur.com/nU9OP2b.png" group-title="News",The Weather Channel en Español
 https://linear-431.frequency.stream/431/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="906" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6371130fd4adb6faff0d76e7" group-title="Entertainment",El Conflicto (Local Now)
