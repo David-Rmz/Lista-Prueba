@@ -165,7 +165,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-chno="456" tvg-logo="https://i.imgur.com/YHQ3x4I.png" group-title="News",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 tvg-chno="514" tvg-logo="https://www.toongoggles.com/themes/custom/tg/toon_goggles/logo.png" group-title="Family/Kids",TG en Español
+#EXTINF:-1 tvg-chno="514" tvg-logo="https://i.imgur.com/RxOK0Cg.png" group-title="Family/Kids",TG en Español
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
 
 #EXTINF:-1 tvg-chno="635" tvg-logo="https://i.imgur.com/ZLa5fe7.png" group-title="Family/Kids",MoodBug Kids
