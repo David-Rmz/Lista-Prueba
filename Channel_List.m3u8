@@ -403,9 +403,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3532
 #EXTINF:-1 tvg-chno="3533" tvg-logo="https://i.imgur.com/SxlgUbA.png" group-title="Movies",Runtime Crimen 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3533
 
-#EXTINF:-1 tvg-chno="3985" tvg-logo="https://i.imgur.com/txo8dH0.png" group-title="Entertainment",Con Amor
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3985
-
 #EXTINF:-1 tvg-chno="4826" tvg-logo="https://i.imgur.com/lLQ2Isw.png" group-title="Drama",Azteca Corazón
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
 
