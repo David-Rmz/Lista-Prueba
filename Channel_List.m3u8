@@ -147,9 +147,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-topcine-plex/playlist.m3u8?u
 #EXTINF:-1 tvg-id="CineSony.us" tvg-chno="373" tvg-logo="https://i.imgur.com/cQqOyjo.png" group-title="Movies",Cine Sony
 https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
 
-#EXTINF:-1 tvg-chno="398" tvg-logo="https://i.imgur.com/gMNkk3v.png" group-title="Movies",Box Cinema
-https://a3217fc30ca14304a9a696b5d87dc7e1.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/herogo-origin001NPR-NP/25055092/content/m.m3u8
-
 #EXTINF:-1 tvg-chno="410" tvg-logo="https://i.imgur.com/iEnEjA5.png" group-title="Entertainment",¡haz clic!
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4310
 
