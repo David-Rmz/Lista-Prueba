@@ -125,6 +125,9 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-639ba57d3f46
 #EXTINF:-1 tvg-id="ParamountNetworkPanregional.us" tvg-chno="241" tvg-logo="https://i.imgur.com/9oUZBjV.png" group-title="Entertainment",Paramount Network
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/PARAMOUNT/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPARAMOUNTCHANNEL_stream_5p&_cdn_session=918026971&_cdn_timestamp=1687992616&_cdn_token=457c89b8dee672cf55c2cd9c6dc8ee8f580a5fae
 
+#EXTINF:-1 tvg-id="" tvg-chno="244" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/SYFY-Boxed-White-Small.png" group-title="Entertainment",Syfy
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/SYFY/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSYFY_stream_gb&_cdn_session=918031035&_cdn_timestamp=1687992737&_cdn_token=509fe3869aac265cc2a375f87f8aac694fa9c3e6
+
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6244f2d33ef43121e567cf13" tvg-id="5e20b730f2f8d5003d739db7-6244f2d33ef43121e567cf13" tvg-chno="251" tvg-logo="https://i.imgur.com/jgUvZqU.png" group-title="Entertainment",RCN Más
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6244f2d33ef43121e567cf13.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=z1UhCS6ToL2EyWHFcg_v
 
@@ -412,8 +415,3 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
 
 #EXTINF:-1 tvg-chno="4829" tvg-logo="https://i.imgur.com/FKHGTwA.png" group-title="Entertainment",Cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
-
--------------------------------------
-
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Entertainment",Syfy
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/SYFY/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSYFY_stream_gb&_cdn_session=918031035&_cdn_timestamp=1687992737&_cdn_token=509fe3869aac265cc2a375f87f8aac694fa9c3e6
