@@ -122,6 +122,9 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-626c288e54f3
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-639ba57d3f4612cc150a5723" tvg-id="5e20b730f2f8d5003d739db7-639ba57d3f4612cc150a5723" tvg-chno="237" tvg-logo="https://provider-static.plex.tv/epg/cms/production/352d158b-9349-41a8-a273-af1eea090ce6/pitufotv_logo_dark_-_Jordan_Warkol.png" group-title="Family/Kids",Pitufo TV
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-639ba57d3f4612cc150a5723.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=ga1yp-9gLmVNyuok5GBR
 
+#EXTINF:-1 tvg-id="ParamountNetworkPanregional.us" tvg-chno="241" tvg-logo="https://i.imgur.com/9oUZBjV.png" group-title="Entertainment",Paramount Network
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/PARAMOUNT/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPARAMOUNTCHANNEL_stream_5p&_cdn_session=918026971&_cdn_timestamp=1687992616&_cdn_token=457c89b8dee672cf55c2cd9c6dc8ee8f580a5fae
+
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6244f2d33ef43121e567cf13" tvg-id="5e20b730f2f8d5003d739db7-6244f2d33ef43121e567cf13" tvg-chno="251" tvg-logo="https://i.imgur.com/jgUvZqU.png" group-title="Entertainment",RCN Más
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6244f2d33ef43121e567cf13.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=z1UhCS6ToL2EyWHFcg_v
 
@@ -406,6 +409,32 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
 
 #EXTINF:-1 tvg-chno="4829" tvg-logo="https://i.imgur.com/FKHGTwA.png" group-title="Entertainment",Cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
+
+-------------------------------------
+
+
+#EXTINF:-1 tvg-id="SonyChannelAndes.us" tvg-chno="1.1" tvg-logo="https://i.imgur.com/gKS1mjc.png" group-title="Entertainment",Sony Channel
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/SONY/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSONY_stream_ew&_cdn_session=918028123&_cdn_timestamp=1687992647&_cdn_token=13ce98ac8da9e3544459aed23de633270c11189d
+
+
+#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-chno="1.1" tvg-logo="https://i.imgur.com/nXE1WsI.png" group-title="Entertainment",Sony Movies
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/SONYMOVIES/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSONYMOVIES_stream_tj&_cdn_session=918028955&_cdn_timestamp=1687992669&_cdn_token=7264d3784034295ee7c5fad75c349eeb031e0193
+
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Entertainment",Studio Universal
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/STUDIOUNIVERSAL/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSTUDIOUNIVERSAL_stream_w1&_cdn_session=918030683&_cdn_timestamp=1687992726&_cdn_token=61da8a93ee351e5dc60ac47c463c20f0cf071fb5
+
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Entertainment",Syfy
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/SYFY/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSYFY_stream_gb&_cdn_session=918031035&_cdn_timestamp=1687992737&_cdn_token=509fe3869aac265cc2a375f87f8aac694fa9c3e6
+
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Entertainment",Star Channel
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/STARCHANNEL/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXCHANNEL_stream_1f&_cdn_session=918033443&_cdn_timestamp=1687992823&_cdn_token=0223f067c9d04d46fd513f4ff3548bb1411a806a
+
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Entertainment",FX
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FX/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFX_stream_gv&_cdn_session=918033819&_cdn_timestamp=1687992834&_cdn_token=cc9e33b052a2ee8d7cfae158148a276a47028d3d
+
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Entertainment",Universal TV
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/UNIVERSALCH/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUNIVERSAL_stream_4o&_cdn_session=918035539&_cdn_timestamp=1687992884&_cdn_token=28697f0f2fd7b92285b1dc9a4217eb321c1fdb82
+
 
 
 
