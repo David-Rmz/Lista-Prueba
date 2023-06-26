@@ -155,6 +155,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-chno="456" tvg-logo="https://i.imgur.com/YHQ3x4I.png" group-title="News",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
+#EXTINF:-1 tvg-chno="507" tvg-logo="https://image.xumo.com/v1/channels/channel/99981121/100x100.png?type=color_onBlack" group-title="Movies",FILMEX
+https://d26ryn1s9vxsg0.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-main-hlsv3/playlist.m3u8?ads.channelId=99951120
+
+#EXTINF:-1 tvg-chno="508" tvg-logo="https://image.xumo.com/v1/channels/channel/99981121/100x100.png?type=color_onBlack" group-title="Movies",FILMEX CLÁSICO
+https://d26ryn1s9vxsg0.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-main-hlsv3/playlist.m3u8?ads.channelId=99981121
+
 #EXTINF:-1 tvg-chno="514" tvg-logo="https://i.imgur.com/RxOK0Cg.png" group-title="Family/Kids",TG en Español
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
 
