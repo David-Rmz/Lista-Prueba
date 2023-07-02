@@ -194,6 +194,15 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 #EXTINF:-1 tvg-chno="663" tvg-logo="https://i.imgur.com/PORhycr.png" group-title="Family/Kids",Mundo Pequeño 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3366
 
+#EXTINF:-1 tvg-id="nmas.com.mx" tvg-chno="710" tvg-logo="https://images.vix.com/prd/channel/62265c89ed9b67ef3762225b/78969543cb7e397d4c545cb9e6a70a84?tr=q-80&w=1440" group-title="News",N+Media
+https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
+
+#EXTINF:-1 tvg-id="nmas.com.mx" tvg-chno="712" tvg-logo="https://images.vix.com/prd/channel/63ea420d27b695a94b1d428b/3830196ffbfe732108455528f7103b6b?tr=q-80&w=1440" group-title="News",N+
+https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
+
+#EXTINF:-1 tvg-id="nmas.com.mx" tvg-chno="716" tvg-logo="https://images.vix.com/prd/channel/647e30045b33acdfbbefd676/8a385d44b3504ff807520cb465370821?tr=q-80&w=1440" group-title="News",N+ MTY
+https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index.m3u8
+
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-627121c4210f4a174062e5c5" tvg-id="5e20b730f2f8d5003d739db7-627121c4210f4a174062e5c5" tvg-chno="902" tvg-logo="https://i.imgur.com/nU9OP2b.png" group-title="News",The Weather Channel en Español
 https://linear-431.frequency.stream/431/hls/master/playlist.m3u8
 
