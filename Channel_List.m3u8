@@ -194,6 +194,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 #EXTINF:-1 tvg-chno="663" tvg-logo="https://i.imgur.com/PORhycr.png" group-title="Family/Kids",Mundo Pequeño 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3366
 
+#EXTINF:-1 tvg-id="" tvg-chno="703" tvg-logo="https://i.imgur.com/q9GtmVd.png" group-title="Entertainment",BH TV (Perú)
+https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/.m3u8
+
 #EXTINF:-1 tvg-id="nmas.com.mx" tvg-chno="710" tvg-logo="https://images.vix.com/prd/channel/62265c89ed9b67ef3762225b/78969543cb7e397d4c545cb9e6a70a84?tr=q-80&w=1440" group-title="News",N+Media
 https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
 
