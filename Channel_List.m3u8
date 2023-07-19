@@ -56,25 +56,25 @@ https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/.m3u8
 #EXTINF:-1 tvg-id="XHSPRTDT1.mx" tvg-chno="14.1" tvg-logo="https://i.imgur.com/ugxE4RT.png" group-title="Education",Canal Catorce
 https://s6.mexside.net:1936/canal14/canal14/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Capital21.mx" 1" tvg-logo="https://www.capital21.cdmx.gob.mx/clasificados/assets/img/logo%20coraz%C3%B3n%20de%20la%20capital.png" group-title="Entertainment",Capital 21
+#EXTINF:-1 tvg-id="Capital21.mx" tvg-chno="21.1" tvg-logo="https://www.capital21.cdmx.gob.mx/clasificados/assets/img/logo%20coraz%C3%B3n%20de%20la%20capital.png" group-title="Entertainment",Capital 21
 https://video.cdmx.gob.mx/livestream/stream.m3u8
 
-#EXTINF:-1 2.1" tvg-logo="https://i.imgur.com/LvNqgJO.png" group-title="Entertainment",Canal 22
+#EXTINF:-1 tvg-chno="2.1" tvg-logo="https://i.imgur.com/LvNqgJO.png" group-title="Entertainment",Canal 22
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyMiA4OjIxOjI3IEFNJmhhc2hfdmFsdWU9bjlOTzErWVRQdEswZnRMNG1kSisrZz09JnZhbGlkbWludXRlcz01JmlkPQ==
 
-#EXTINF:-1 2.2" tvg-logo="https://i.imgur.com/mF30gqm.png" group-title="Entertainment",MX Nuestro Cine
+#EXTINF:-1 tvg-chno="2.2" tvg-logo="https://i.imgur.com/mF30gqm.png" group-title="Entertainment",MX Nuestro Cine
 https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyMiA4OjIxOjU4IEFNJmhhc2hfdmFsdWU9UTY1ZE9nZm5MNGxNYk5WUkFKaWxmdz09JnZhbGlkbWludXRlcz01JmlkPQ==
 
-#EXTINF:-1 tvg-id="" 4.2" tvg-logo="https://i.imgur.com/kmqbSEt.png" group-title="Entertainment",CGTN-E
+#EXTINF:-1 tvg-id="4.2" tvg-logo="https://i.imgur.com/kmqbSEt.png" group-title="Entertainment",CGTN-E
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-espanol.m3u8
 
 #EXTINF:-1 tvg-id="XHGVTDT.mx" 6.1" tvg-logo="http://www.tvmas.mx/wp-content/themes/TVMASv2/images/logoTVMASblanco.png" group-title="Entertainment",TVMÁS VZ
 https://5ca9af4645e15.streamlock.net/rtv/videortv/.m3u8
 
-#EXTINF:-1 tvg-id="XHMNLTDT.mx" 8" tvg-logo="https://i.imgur.com/COVMTHH.png" group-title="Entertainment",Canal 28 NL
+#EXTINF:-1 tvg-id="XHMNLTDT.mx" tvg-chno="8" tvg-logo="https://i.imgur.com/COVMTHH.png" group-title="Entertainment",Canal 28 NL
 https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/chunklist_w436040449.m3u8
 
-#EXTINF:-1 9" tvg-logo="https://i.imgur.com/tm9y9Pd.png" group-title="Entertainment",SMRTV
+#EXTINF:-1 tvg-chno="9" tvg-logo="https://i.imgur.com/tm9y9Pd.png" group-title="Entertainment",SMRTV
 https://60ed5b6d0df78.streamlock.net:1936/enlinea/enlinea/chunklist_w1056120456.m3u8
 
 #EXTINF:-1 tvg-id="TVMexiquense.mx" tvg-chno="34.1" tvg-logo="https://i.imgur.com/6VPHOD3.png" group-title="Entertainment",Mexiquense TV
