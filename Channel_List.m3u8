@@ -68,7 +68,7 @@ https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8?wms
 #EXTINF:-1 tvg-chno="22.2" tvg-logo="https://i.imgur.com/mF30gqm.png" group-title="Entertainment",MX Nuestro Cine
 https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyMiA4OjIxOjU4IEFNJmhhc2hfdmFsdWU9UTY1ZE9nZm5MNGxNYk5WUkFKaWxmdz09JnZhbGlkbWludXRlcz01JmlkPQ==
 
-#EXTINF:-1 tvg-id="4.2" tvg-logo="https://i.imgur.com/kmqbSEt.png" group-title="Entertainment",CGTN-E
+#EXTINF:-1 tvg-chno="4.2" tvg-logo="https://i.imgur.com/kmqbSEt.png" group-title="Entertainment",CGTN-E
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-espanol.m3u8
 
 #EXTINF:-1 tvg-id="XHGVTDT.mx" tvg-chno="6.1" tvg-logo="http://www.tvmas.mx/wp-content/themes/TVMASv2/images/logoTVMASblanco.png" group-title="Entertainment",TVMÁS VZ
