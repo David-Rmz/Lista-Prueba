@@ -425,5 +425,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6469502df73356567a64ce8e" tvg-id="5e20b730f2f8d5003d739db7-6469502df73356567a64ce8e" tvg-chno="4827" tvg-logo="https://i.imgur.com/rrYLYFJ.png" group-title="Entertainment",Clic
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
 
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-646d06c9b09f13b2d8af68d8" tvg-id="5e20b730f2f8d5003d739db7-646d06c9b09f13b2d8af68d8" tvg-chno="4828" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1088747e-b11d-466c-b652-ca6b291ceae5/azteca_internacional_white_1500x1000.png",Azteca Internacional
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4828
+
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-64695233f73356567a64ce90" tvg-id="5e20b730f2f8d5003d739db7-64695233f73356567a64ce90" tvg-chno="4829" tvg-logo="https://i.imgur.com/FKHGTwA.png" group-title="Entertainment",Cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
