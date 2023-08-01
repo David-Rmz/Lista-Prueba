@@ -422,8 +422,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3533
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-64694d52f73356567a64ce8c" tvg-id="5e20b730f2f8d5003d739db7-64694d52f73356567a64ce8c" tvg-chno="4826" tvg-logo="https://i.imgur.com/lLQ2Isw.png" group-title="Drama",Azteca Corazón
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
 
-#EXTINF:-1 tvg-chno="4827" tvg-logo="https://i.imgur.com/rrYLYFJ.png" group-title="Entertainment",Clic
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6469502df73356567a64ce8e" tvg-id="5e20b730f2f8d5003d739db7-6469502df73356567a64ce8e" tvg-chno="4827" tvg-logo="https://i.imgur.com/rrYLYFJ.png" group-title="Entertainment",Clic
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
 
-#EXTINF:-1 tvg-chno="4829" tvg-logo="https://i.imgur.com/FKHGTwA.png" group-title="Entertainment",Cinema
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-64695233f73356567a64ce90" tvg-id="5e20b730f2f8d5003d739db7-64695233f73356567a64ce90" tvg-chno="4829" tvg-logo="https://i.imgur.com/FKHGTwA.png" group-title="Entertainment",Cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
