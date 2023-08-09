@@ -427,3 +427,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4828
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-64695233f73356567a64ce90" tvg-id="5e20b730f2f8d5003d739db7-64695233f73356567a64ce90" tvg-chno="4829" tvg-logo="https://i.imgur.com/FKHGTwA.png" group-title="Entertainment",Cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
+
+#EXTINF:-1 tvg-chno="4833" tvg-logo="https://i.imgur.com/8oUTXLR.png" group-title="Entertainment",Azteca UNO -1hra
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
