@@ -89,7 +89,7 @@ https://edgeplay.canaldelcongreso.gob.mx/live_sd2/smil:canal-sd2.smil/playlist.m
 #EXTINF:-1 tvg-id="CanaldelCongreso453.mx" tvg-chno="45.3" tvg-logo="https://i.imgur.com/m1PXvs4.png" group-title="Education",Canal del Congreso México 45.3
 https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6018913ea15130002b28418f" tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b28418f" tvg-chno="53" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/chiquilines_logo_light.png" group-title="Family/Kids",Chiquilines
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6018913ea15130002b28418f" tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b28418f" 3" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/chiquilines_logo_light.png" group-title="Family/Kids",Chiquilines
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8?url=&genre=&ic=&us_privacy=1YNY&coppa=1&user_id=&ip=&ipv6=&c_duration=3600&c_producer=chiquilines&c_rating=TV-G&c_lang=es&ua=&hls_marker=1&content_channel=Chiquilines&content_title=&content_genre=&gdpr=0&player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120&terminate=true&sid=&deviceDNT=0&advertisingId=&deviceLat=0&deviceLon=0&deviceModel=&deviceVersion=&embedPartner=freetv&serverSideAds=true&appName=freetv&deviceId=&appVersion=&deviceType=&deviceMake=&includeDeviceUA=true
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60240f57676235002df19f47" tvg-id="5e20b730f2f8d5003d739db7-60240f57676235002df19f47" tvg-chno="58" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cinereal_logo_dark_v3.png" group-title="Movies",Cine Real
@@ -164,14 +164,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-chno="456" tvg-logo="https://i.imgur.com/YHQ3x4I.png" group-title="News",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 tvg-chno="507" tvg-logo="https://image.xumo.com/v1/channels/channel/99981121/100x100.png?type=color_onBlack" group-title="Movies",FILMEX
-https://d26ryn1s9vxsg0.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-main-hlsv3/playlist.m3u8?ads.channelId=99951120
-
-#EXTINF:-1 tvg-chno="508" tvg-logo="https://image.xumo.com/v1/channels/channel/99981121/100x100.png?type=color_onBlack" group-title="Movies",FILMEX CLÁSICO
-https://d26ryn1s9vxsg0.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-main-hlsv3/playlist.m3u8?ads.channelId=99981121
-
 #EXTINF:-1 tvg-chno="514" tvg-logo="https://i.imgur.com/RxOK0Cg.png" group-title="Family/Kids",TG en Español
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-645d848363c2c64203aa48fc" tvg-id="5e20b730f2f8d5003d739db7-645d848363c2c64203aa48fc" tvg-chno="507" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f5564f22-68b4-48a4-b797-0efe45c73103/Logo_w_-_JENNIFER_MCBRIDE_colorrdx2.png" group-title="Movies",Cine Premium Plus
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-645d848363c2c64203aa48fc.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=uupk4exEE8D4s6yjb6EP
 
 #EXTINF:-1 tvg-chno="567" tvg-logo="https://i.imgur.com/MqnBgLI.png" group-title="Movies",Cine EstrellaTV
 https://amg00567-estrellamedia-cineestrella-lgus-urymg.amagi.tv/playlist/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
