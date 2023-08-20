@@ -430,3 +430,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
 
 #EXTINF:-1 tvg-chno="4833" tvg-logo="https://i.imgur.com/8oUTXLR.png" group-title="Entertainment",Azteca UNO -1hra
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
+
+#EXTINF:-1 tvg-chno="4834" tvg-logo="https://i.imgur.com/GvJBlUN.png" group-title="Movies",Golden Plus 
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
