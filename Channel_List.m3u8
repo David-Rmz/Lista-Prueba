@@ -407,6 +407,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6
 #EXTINF:-1 channel-id="pluto-60fafef7c2440500071266e0" tvg-id="60fafef7c2440500071266e0" tvg-chno="3245" tvg-logo="https://images.pluto.tv/channels/60fafef7c2440500071266e0/solidLogoPNG.png" group-title="Family/Kids",Grande-ish
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60fafef7c2440500071266e0/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=60fafef7c2440500071266e0&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=true&marketingRegion=US&serverSideAds=true&sid=60fafef7c2440500071266e0&terminate=true&userId=
 
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60995eb136c72d002da7bbcb" tvg-id="5e20b730f2f8d5003d739db7-60995eb136c72d002da7bbcb" tvg-chno="3363" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/LoveNature_Logo_Dark.png",Love Nature ESP
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3363
+
 #EXTINF:-1 tvg-chno="3506" tvg-logo="https://i.imgur.com/7pcBDq5.png" group-title="Movies",CineKids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3506
 
