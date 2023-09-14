@@ -428,7 +428,18 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
 #EXTINF:-1 tvg-chno="4833" tvg-logo="https://i.imgur.com/8oUTXLR.png" group-title="Entertainment",Azteca UNO -1hra
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
 
-#EXTINF:-1 tvg-chno="4834" tvg-logo="https://i.imgur.com/GvJBlUN.png" group-title="Movies",Golden Plus 
+#EXTINF:-1 tvg-chno="4834" tvg-logo="https://i.imgur.com/CYUgvRW.png" group-title="Movies",Golden
+https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="4835" tvg-logo="https://i.imgur.com/GvJBlUN.png" group-title="Movies",Golden Plus 
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="4836" tvg-logo="https://i.imgur.com/UUveIqc.png" group-title="Movies",Golden Premier
+https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8 
+
+#EXTINF:-1 tvg-chno="4837" tvg-logo="https://i.imgur.com/8V03E49.png" group-title="Entertainment",Univision
+https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
+
+
 
 
