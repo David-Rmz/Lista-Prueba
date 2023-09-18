@@ -176,7 +176,7 @@ https://amg00567-estrellamedia-cineestrella-lgus-urymg.amagi.tv/playlist/amg0056
 #EXTINF:-1 tvg-chno="635" tvg-logo="https://i.imgur.com/ZLa5fe7.png" group-title="Family/Kids",MoodBug Kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3365
 
-#EXTINF:-1 tvg-chno="652" tvg-logo="https://i.imgur.com/YVZkxsB.png" group-title="Movies",Canela Clásicos
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-64fba469bb3e0baa5dcc0947" tvg-id="5e20b730f2f8d5003d739db7-64fba469bb3e0baa5dcc0947" tvg-chno="652" tvg-logo="https://i.imgur.com/YVZkxsB.png" group-title="Movies",Canela Clásicos
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 
 #EXTINF:-1 tvg-chno="653" tvg-logo="https://i.imgur.com/uhKCuSg.png" group-title="Entertainment",Canela.TV (Canela TV)
@@ -383,7 +383,7 @@ https://pubads.g.doubleclick.net/ssai/event/y1Zjs_6rS3-ltPqmaNLQDQ/master.m3u8
 #EXTINF:-1 channel-id="pluto-60492fdd9989d30007ccd30a" tvg-id="60492fdd9989d30007ccd30a" tvg-chno="3060" tvg-logo="https://images.pluto.tv/channels/60492fdd9989d30007ccd30a/solidLogoPNG.png" group-title="Sports",beIN SPORTS XTRA en español
 https://i.mjh.nz/PlutoTV/60492fdd9989d30007ccd30a-alt.m3u8
 
-#EXTINF:-1 tvg-chno="3134" tvg-logo="https://i.imgur.com/HiHfp9O.png" group-title="Movies",Canela Cinema
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-64fba5f3214cf8b3b54b5ecc" tvg-id="5e20b730f2f8d5003d739db7-64fba5f3214cf8b3b54b5ecc" tvg-chno="3134" tvg-logo="https://i.imgur.com/HiHfp9O.png" group-title="Movies",Canela Cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3134
 
 #EXTINF:-1 channel-id="pluto-60493283ffc52f000710edae" tvg-id="60493283ffc52f000710edae" tvg-chno="3155" tvg-logo="https://images.pluto.tv/channels/60493283ffc52f000710edae/solidLogoPNG.png" group-title="Family/Kids",Bebecito Bum y sus amigos
@@ -439,9 +439,4 @@ https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="4837" tvg-logo="https://i.imgur.com/xi7gOkS.png" group-title="Entertainment",Univision
 https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
-
-
-
-
-
 
