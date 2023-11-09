@@ -89,8 +89,11 @@ https://edgeplay.canaldelcongreso.gob.mx/live_sd2/smil:canal-sd2.smil/playlist.m
 #EXTINF:-1 tvg-id="CanaldelCongreso453.mx" tvg-chno="45.3" tvg-logo="https://i.imgur.com/m1PXvs4.png" group-title="Education",Canal del Congreso México 45.3
 https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6018913ea15130002b28418f" tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b28418f" tvg-chno="53" tvg-logo="https://i.imgur.com/sysWeG6.png" group-title="Family/Kids",Chiquilines
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6018913ea15130002b28418f" tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b28418f" tvg-chno="53" tvg-logo="https://i.imgur.com/yLGw9tc.png" group-title="Entertainment",FreeTV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8?url=&genre=&ic=&us_privacy=1YNY&coppa=1&user_id=&ip=&ipv6=&c_duration=3600&c_producer=chiquilines&c_rating=TV-G&c_lang=es&ua=&hls_marker=1&content_channel=Chiquilines&content_title=&content_genre=&gdpr=0&player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120&terminate=true&sid=&deviceDNT=0&advertisingId=&deviceLat=0&deviceLon=0&deviceModel=&deviceVersion=&embedPartner=freetv&serverSideAds=true&appName=freetv&deviceId=&appVersion=&deviceType=&deviceMake=&includeDeviceUA=true
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-644c446d7472b186783f359e" tvg-id="5e20b730f2f8d5003d739db7-644c446d7472b186783f359e" tvg-chno="54" tvg-logo="https://provider-static.plex.tv/epg/cms/production/afe5cd54-0d6d-4b60-a4df-91a8d7ac7960/TodoCine_-_White_Fernando_Fraderdx.png" group-title="Movies",Todo Cine
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-644c446d7472b186783f359e.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-chno="57" tvg-logo="https://i.imgur.com/fq2ytSV.png" group-title="Entertainment",Canal 57 US
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/index.m3u8
