@@ -158,10 +158,13 @@ https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
 #EXTINF:-1 tvg-chno="410" tvg-logo="https://i.imgur.com/iEnEjA5.png" group-title="Entertainment",¡haz clic!
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4310
 
-#EXTINF:-1 tvg-chno="431" tvg-logo="https://i.imgur.com/2fieq5k.png" group-title="Family/Kids",Planeta de Aventuras 
+#EXTINF:-1 channel-id="roku-498b53f6f63455bbba27754ceb5fcefc" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/498b53f6f63455bbba27754ceb5fcefc/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673905008826_Sonic_the_Hedgehog_HUD_Logo_260x147_Monochromatic.png" tvg-chno="431" group-title="Family/Kids",Sonic The Hedgehog
+https://i.mjh.nz/Roku/498b53f6f63455bbba27754ceb5fcefc.m3u8
+
+#EXTINF:-1 tvg-chno="432" tvg-logo="https://i.imgur.com/2fieq5k.png" group-title="Family/Kids",Planeta de Aventuras 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4311
 
-#EXTINF:-1 tvg-chno="431" tvg-logo="https://i.imgur.com/uKZa6F1.png" group-title="Family/Kids",Zona de Acción
+#EXTINF:-1 tvg-chno="433" tvg-logo="https://i.imgur.com/uKZa6F1.png" group-title="Family/Kids",Zona de Acción
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
 
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-chno="456" tvg-logo="https://i.imgur.com/YHQ3x4I.png" group-title="News",DW Español
@@ -224,11 +227,21 @@ https://12b71fa80adc4f3ca71526d9a77d5b00.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-chno="940" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/62ed5be3a07217bdd20a7263" group-title="Entertainment",The Chukker Channel 
 https://the-chukker-channel-tv-vivalive.evrideo.tv/ee1f7251-f83f-4a8e-b132-6da0d79f8d34_1000014578_HLS/video_720p_1000014572.m3u8
 
+#EXTINF:-1 channel-id="roku-8171c38c1c625b5890423572b3fc9fbe" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/8171c38c1c625b5890423572b3fc9fbe/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1659571592459_HUD_logo_260x147_centered.png" tvg-chno="994" group-title="Movies",MyTime (en Espanol)
+https://i.mjh.nz/Roku/8171c38c1c625b5890423572b3fc9fbe.m3u8
+
+#EXTINF:-1 channel-id="roku-27824491c514591980d67e5628e141f3" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/27824491c514591980d67e5628e141f3/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1689710730393_Image-HUD-2_Josue_Cortes.png" tvg-chno="972" group-title="Entertainment",La Saga
+https://i.mjh.nz/Roku/27824491c514591980d67e5628e141f3.m3u8
+
 #EXTINF:-1 channel-id="roku-50cd4d6c632d5172834eb5b77fa395c6" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/50cd4d6c632d5172834eb5b77fa395c6/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1659744349180_FMXCHD_HUD_WHITE.png" tvg-chno="1033" group-title="Movies",FILMEX Clásico
 https://i.mjh.nz/Roku/50cd4d6c632d5172834eb5b77fa395c6.m3u8
 
 #EXTINF:-1 channel-id="roku-1e2a4ec82eb65f729ad7484337c0bcd4" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/1e2a4ec82eb65f729ad7484337c0bcd4/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1659744073738_FMXHD_HUD_WHITE.png" tvg-chno="1034" group-title="Movies",FILMEX
 https://i.mjh.nz/Roku/1e2a4ec82eb65f729ad7484337c0bcd4.m3u8
+
+#EXTINF:-1 channel-id="roku-5dbf591219b15aa8bb3a7b73b59307f0" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/5dbf591219b15aa8bb3a7b73b59307f0/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1657834856300_center-HUD-260x147.png" tvg-chno="1035" group-title="Movies",Cine EstrellaTV
+https://i.mjh.nz/Roku/5dbf591219b15aa8bb3a7b73b59307f0.m3u8
+
 
 #EXTINF:-1 tvg-chno="1152" tvg-logo="https://i.imgur.com/v8GETlI.png" group-title="Entertainment",Canela Telenovelas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
