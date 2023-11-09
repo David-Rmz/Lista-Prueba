@@ -149,6 +149,9 @@ https://ecfe6e3fc3a34d60ac625cda77722824.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60240f58676235002df19f4b" tvg-id="5e20b730f2f8d5003d739db7-60240f58676235002df19f4b" tvg-chno="328" tvg-logo="https://i.imgur.com/lIk89pr.png" group-title="Movies",Top Cine
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-topcine-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=yA8aFZC94-Az2RAPHMpT&channelId=60240f58676235002df19f4b&device_id_type=&ifa_type=ppid&url=app.plex.tv&app_name=plex&app_bundle=com.plexapp.android&app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&gdpr=0&gdpr_consent=0&coppa=0&ua=okhttp%2F4.9.0&ip=185.236.200.172&brand_name=&device_model=&device_type=handset&w=&h=&partner_id=SINFIL1S4E5_bc
 
+#EXTINF:-1 tvg-chno="353" tvg-logo="https://i.imgur.com/qsnps4m.png" group-title="Entertainment",Anger Managment
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-angermngmtespanol-runtimelatam/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CineSony.us" tvg-chno="373" tvg-logo="https://i.imgur.com/cQqOyjo.png" group-title="Movies",Cine Sony
 https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
 
@@ -416,7 +419,9 @@ https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-chno="4837" tvg-logo="https://i.imgur.com/xi7gOkS.png" group-title="Entertainment",Univision
 https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="6111" tvg-logo="https://i.imgur.com/nBWkCt0.png" group-title="Drama",TODO Drama
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6111
 
-
-
+#EXTINF:-1 tvg-chno="6149" tvg-logo="https://i.imgur.com/jReFHDs.png" group-title="Entertainment",Imagen TV+
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 
