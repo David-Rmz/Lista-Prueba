@@ -272,12 +272,6 @@ https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 #EXTINF:-1 tvg-id="Novelisima.us" tvg-chno="2380" tvg-logo="https://i.imgur.com/Nhfp9LV.png" group-title="Entertainment",Novelisima
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 
-#EXTINF:-1 tvg-chno="2550" tvg-logo="https://i.imgur.com/lD6gVXq.png" group-title="Movies",Runtime Acción
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550
-
-#EXTINF:-1 tvg-chno="2551" tvg-logo="https://i.imgur.com/a2EMUyP.png" group-title="Movies",Runtime Comedia
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551
-
 #EXTINF:-1 channel-id="pluto-5cf968040ab7d8f181e6a68b" tvg-id="5cf968040ab7d8f181e6a68b" tvg-chno="2650" tvg-logo="https://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/solidLogoPNG.png" group-title="Movies",Cine Premiere
 https://i.mjh.nz/PlutoTV/5cf968040ab7d8f181e6a68b-alt.m3u8
 
@@ -394,18 +388,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3363
 
 #EXTINF:-1 tvg-chno="3506" tvg-logo="https://i.imgur.com/7pcBDq5.png" group-title="Movies",CineKids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3506
-
-#EXTINF:-1 tvg-chno="3528" tvg-logo="https://i.imgur.com/pUsi0OC.png" group-title="Movies",Runtime Familia
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3528
-
-#EXTINF:-1 tvg-chno="3529" tvg-logo="https://i.imgur.com/aE0bQXq.png" group-title="Movies",Runtime Thriller
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
-
-#EXTINF:-1 tvg-chno="3532" tvg-logo="https://i.imgur.com/3YHsaoL.png" group-title="Movies",Runtime Romance
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3532
-
-#EXTINF:-1 tvg-chno="3533" tvg-logo="https://i.imgur.com/SxlgUbA.png" group-title="Movies",Runtime Crimen 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3533
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-64694d52f73356567a64ce8c" tvg-id="5e20b730f2f8d5003d739db7-64694d52f73356567a64ce8c" tvg-chno="4826" tvg-logo="https://i.imgur.com/lLQ2Isw.png" group-title="Drama",Azteca Corazón
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
