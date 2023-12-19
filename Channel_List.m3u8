@@ -179,9 +179,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-645d848363c2c64203aa48fc" tvg-id="5e20b730f2f8d5003d739db7-645d848363c2c64203aa48fc" tvg-chno="507" tvg-logo="https://i.imgur.com/X7NKSAf.png" group-title="Movies",Cine Premium Plus
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-645d848363c2c64203aa48fc.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=uupk4exEE8D4s6yjb6EP
 
-#EXTINF:-1 tvg-chno="567" tvg-logo="https://i.imgur.com/MqnBgLI.png" group-title="Movies",Cine EstrellaTV
-https://amg00567-estrellamedia-cineestrella-lgus-urymg.amagi.tv/playlist/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
-
 #EXTINF:-1 tvg-chno="635" tvg-logo="https://i.imgur.com/ZLa5fe7.png" group-title="Family/Kids",MoodBug Kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3365
 
@@ -442,5 +439,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6111
 
 #EXTINF:-1 tvg-chno="6149" tvg-logo="https://i.imgur.com/jReFHDs.png" group-title="Entertainment",Imagen TV+
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
+
+
 
 
