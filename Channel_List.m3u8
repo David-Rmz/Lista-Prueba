@@ -239,6 +239,12 @@ https://i.mjh.nz/Roku/1e2a4ec82eb65f729ad7484337c0bcd4.m3u8
 #EXTINF:-1 channel-id="roku-5dbf591219b15aa8bb3a7b73b59307f0" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/5dbf591219b15aa8bb3a7b73b59307f0/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1657834856300_center-HUD-260x147.png" tvg-chno="1035" group-title="Movies",Cine EstrellaTV
 https://i.mjh.nz/Roku/5dbf591219b15aa8bb3a7b73b59307f0.m3u8
 
+#EXTINF:-1 tvg-chno="1103" tvg-logo="https://i.imgur.com/HoZ3XUn.png" group-title="Entertainment",Canal 5
+https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
+
+#EXTINF:-1 tvg-chno="1119" tvg-logo="https://i.imgur.com/qUIN2YN.png" group-title="Entertainment",NU9VE
+https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
+
 #EXTINF:-1 tvg-chno="1152" tvg-logo="https://i.imgur.com/v8GETlI.png" group-title="Entertainment",Canela Telenovelas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
 
@@ -442,10 +448,3 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6111
 
 #EXTINF:-1 tvg-chno="6149" tvg-logo="https://i.imgur.com/jReFHDs.png" group-title="Entertainment",Imagen TV+
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
-
-
-
-
-
-
-
