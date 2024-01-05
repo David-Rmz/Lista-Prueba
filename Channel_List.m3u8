@@ -242,6 +242,21 @@ https://i.mjh.nz/Roku/5dbf591219b15aa8bb3a7b73b59307f0.m3u8
 #EXTINF:-1 tvg-chno="1103" tvg-logo="https://i.imgur.com/HoZ3XUn.png" group-title="Entertainment",Canal 5
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 
+#EXTINF:-1 tvg-chno="1106" tvg-logo="" group-title="Entertainment",Distrito Comedia
+https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="1107" tvg-logo="" group-title="Entertainment",Golden Edge
+https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="1113" tvg-logo="" group-title="Entertainment",De Pelicula
+https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="1114" tvg-logo="" group-title="Entertainment",De Pelicula Plus
+https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="1115" tvg-logo="" group-title="Entertainment",Unicable
+https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="1119" tvg-logo="https://i.imgur.com/qUIN2YN.png" group-title="Entertainment",NU9VE
 https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
 
@@ -441,10 +456,16 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8 
 
 #EXTINF:-1 tvg-chno="4837" tvg-logo="https://i.imgur.com/xi7gOkS.png" group-title="Entertainment",Univision
-https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
+https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="6111" tvg-logo="https://i.imgur.com/nBWkCt0.png" group-title="Drama",TODO Drama
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6111
 
 #EXTINF:-1 tvg-chno="6149" tvg-logo="https://i.imgur.com/jReFHDs.png" group-title="Entertainment",Imagen TV+
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
+
+#EXTINF:-1 tvg-chno="6150" tvg-logo="https://i.imgur.com/jReFHDs.png" group-title="Entertainment",ATV+ PE
+https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
+
+
+
