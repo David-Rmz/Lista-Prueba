@@ -242,19 +242,19 @@ https://i.mjh.nz/Roku/5dbf591219b15aa8bb3a7b73b59307f0.m3u8
 #EXTINF:-1 tvg-chno="1103" tvg-logo="https://i.imgur.com/HoZ3XUn.png" group-title="Entertainment",Canal 5
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 
-#EXTINF:-1 tvg-chno="1106" tvg-logo="" group-title="Entertainment",Distrito Comedia
+#EXTINF:-1 tvg-chno="1106" tvg-logo="https://i.imgur.com/N8extxd.png" group-title="Entertainment",Distrito Comedia
 https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="1107" tvg-logo="" group-title="Entertainment",Golden Edge
+#EXTINF:-1 tvg-chno="1107" tvg-logo="https://i.imgur.com/qsTMyvt.png" group-title="Entertainment",Golden Edge
 https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="1113" tvg-logo="" group-title="Entertainment",De Pelicula
+#EXTINF:-1 tvg-chno="1113" tvg-logo="https://i.imgur.com/PMDnFHW.png" group-title="Entertainment",De Pelicula
 https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="1114" tvg-logo="" group-title="Entertainment",De Pelicula Plus
+#EXTINF:-1 tvg-chno="1114" tvg-logo="https://i.imgur.com/5HHrXdX.png" group-title="Entertainment",De Pelicula Plus
 https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="1115" tvg-logo="" group-title="Entertainment",Unicable
+#EXTINF:-1 tvg-chno="1115" tvg-logo="https://i.imgur.com/yT4JE84.png" group-title="Entertainment",Unicable
 https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="1119" tvg-logo="https://i.imgur.com/qUIN2YN.png" group-title="Entertainment",NU9VE
