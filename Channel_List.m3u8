@@ -1,4 +1,5 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/us.xml, https://i.mjh.nz/Roku/epg.xml, https://i.mjh.nz/PlutoTV/us.xml, https://i.mjh.nz/Plex/us.xml, https://i.mjh.nz/Plex/mx.xml"
+
 #EXTINF:-1 tvg-id="AztecaUno.mx" tvg-chno="1.1" tvg-logo="https://i.imgur.com/81IgTCj.png" group-title="Entertainment",Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
@@ -126,13 +127,13 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-ono/playlist
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmcfreetv-ono/playlist.m3u8?player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-626c288e54f3232400a45f35" tvg-id="5e20b730f2f8d5003d739db7-626c288e54f3232400a45f35" tvg-chno="201" tvg-logo="https://i.imgur.com/HblNBMa.png" group-title="News",MegaNoticias
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-626c288e54f3232400a45f35.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=mY54E8X_zs5aHAcpszoe
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-626c288e54f3232400a45f35.m3u8
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-639ba57d3f4612cc150a5723" tvg-id="5e20b730f2f8d5003d739db7-639ba57d3f4612cc150a5723" tvg-chno="237" tvg-logo="https://i.imgur.com/aUuNBNH.png" group-title="Family/Kids",Pitufo TV
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-639ba57d3f4612cc150a5723.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=mY54E8X_zs5aHAcpszoe
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6244f2d33ef43121e567cf13" tvg-id="5e20b730f2f8d5003d739db7-6244f2d33ef43121e567cf13" tvg-chno="251" tvg-logo="https://i.imgur.com/jgUvZqU.png" group-title="Entertainment",RCN Más
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6244f2d33ef43121e567cf13.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=mY54E8X_zs5aHAcpszoe
+https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-64878a0108027d895721403b" tvg-id="5e20b730f2f8d5003d739db7-64878a0108027d895721403b" tvg-chno="262" tvg-logo="https://i.imgur.com/qjvr6Di.png" group-title="Entertainment",Nuestra Visión
 https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
@@ -177,7 +178,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-645d848363c2c64203aa48fc" tvg-id="5e20b730f2f8d5003d739db7-645d848363c2c64203aa48fc" tvg-chno="507" tvg-logo="https://i.imgur.com/X7NKSAf.png" group-title="Movies",Cine Premium Plus
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-645d848363c2c64203aa48fc.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=uupk4exEE8D4s6yjb6EP
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-645d848363c2c64203aa48fc.m3u8
 
 #EXTINF:-1 tvg-chno="635" tvg-logo="https://i.imgur.com/ZLa5fe7.png" group-title="Family/Kids",MoodBug Kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3365
@@ -424,9 +425,3 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 
 #EXTINF:-1 tvg-chno="6150" tvg-logo="https://i.imgur.com/px6YT3X.png" group-title="Entertainment",ATV+ PE
 https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
-
-
-
-
-
-
