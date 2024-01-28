@@ -15,8 +15,14 @@ https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF:-1 tvg-id="TVCuatro41.mx" tvg-chno="4.1" tvg-logo="https://www.tvcuatro.com/images/logo-menu.png" group-title="Education",Canal 4.1
 https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
 
+#EXTINF:-1 tvg-chno="4.2" tvg-logo="https://i.imgur.com/kmqbSEt.png" group-title="Entertainment",CGTN-E
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-espanol.m3u8
+
 #EXTINF:-1 tvg-id="NoticiasCanal10.mx" tvg-chno="5.1" tvg-logo="https://i.imgur.com/gHJD7l8.png" group-title="Entertainment",Canal 10
 https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XHGVTDT.mx" tvg-chno="6.1" tvg-logo="https://i.imgur.com/qFucKpk.png" group-title="Entertainment",TVMÁS VZ
+https://5ca9af4645e15.streamlock.net/rtv/videortv/.m3u8
 
 #EXTINF:-1 tvg-id="MultimediosGuadalajara.mx" tvg-chno="6.1" tvg-logo="https://i.imgur.com/QB800fn.png" group-title="Entertainment",Canal 6 CDMX
 https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
@@ -61,7 +67,7 @@ https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
 https://s5.mexside.net:1936/enlinea/enlinea/chunklist_w882957131.m3u8
 
 #EXTINF:-1 tvg-id="Capital21.mx" tvg-chno="21.1" tvg-logo="https://www.capital21.cdmx.gob.mx/clasificados/assets/img/logo%20coraz%C3%B3n%20de%20la%20capital.png" group-title="Entertainment",Capital 21
-https://streamingc21.cdmx.gob.mx/capital21/stream.m3u8
+https://video.cdmx.gob.mx/redes/stream.m3u8
 
 #EXTINF:-1 tvg-chno="22.1" tvg-logo="https://i.imgur.com/LvNqgJO.png" group-title="Entertainment",Canal 22
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyMiA4OjIxOjI3IEFNJmhhc2hfdmFsdWU9bjlOTzErWVRQdEswZnRMNG1kSisrZz09JnZhbGlkbWludXRlcz01JmlkPQ==
@@ -69,11 +75,8 @@ https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8?wms
 #EXTINF:-1 tvg-chno="22.2" tvg-logo="https://i.imgur.com/mF30gqm.png" group-title="Entertainment",MX Nuestro Cine
 https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyMiA4OjIxOjU4IEFNJmhhc2hfdmFsdWU9UTY1ZE9nZm5MNGxNYk5WUkFKaWxmdz09JnZhbGlkbWludXRlcz01JmlkPQ==
 
-#EXTINF:-1 tvg-chno="4.2" tvg-logo="https://i.imgur.com/kmqbSEt.png" group-title="Entertainment",CGTN-E
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn-espanol.m3u8
-
-#EXTINF:-1 tvg-id="XHGVTDT.mx" tvg-chno="6.1" tvg-logo="https://i.imgur.com/qFucKpk.png" group-title="Entertainment",TVMÁS VZ
-https://5ca9af4645e15.streamlock.net/rtv/videortv/.m3u8
+#EXTINF:-1 tvg-chno="26.1" tvg-logo="https://i.imgur.com/bg2rGXh.png" group-title="Entertainment",VA+ TV
+https://60417ddeaf0d9.streamlock.net/telemetrika3/telemetrika3.smil/.m3u8
 
 #EXTINF:-1 tvg-id="XHMNLTDT.mx" tvg-chno="28.1" tvg-logo="https://i.imgur.com/COVMTHH.png" group-title="Entertainment",Canal 28 NL
 https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
@@ -249,6 +252,12 @@ https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-chno="1107" tvg-logo="https://i.imgur.com/qsTMyvt.png" group-title="Entertainment",Golden Edge
 https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="1109" tvg-logo="https://i.imgur.com/GvJBlUN.png" group-title="Movies",Golden Plus 
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="1111" tvg-logo="https://i.imgur.com/CYUgvRW.png" group-title="Movies",Golden
+https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="1113" tvg-logo="https://i.imgur.com/PMDnFHW.png" group-title="Entertainment",De Pelicula
 https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
 
@@ -405,12 +414,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db" tvg-id="608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db" tvg-chno="4833" tvg-logo="https://i.imgur.com/8oUTXLR.png" group-title="Entertainment",Azteca UNO -1hra
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
 
-#EXTINF:-1 tvg-chno="4834" tvg-logo="https://i.imgur.com/CYUgvRW.png" group-title="Movies",Golden
-https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="4835" tvg-logo="https://i.imgur.com/GvJBlUN.png" group-title="Movies",Golden Plus 
-https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-chno="4836" tvg-logo="https://i.imgur.com/UUveIqc.png" group-title="Movies",Golden Premier
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8 
 
@@ -425,3 +428,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 
 #EXTINF:-1 tvg-chno="6150" tvg-logo="https://i.imgur.com/px6YT3X.png" group-title="Entertainment",ATV+ PE
 https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="6151" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3293-320x180-000000.jpg" group-title="Entertainment",eltrece
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+
+
