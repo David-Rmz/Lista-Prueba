@@ -108,6 +108,9 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/p
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6018913fa15130002b284197" tvg-id="5e20b730f2f8d5003d739db7-6018913fa15130002b284197" tvg-chno="59" tvg-logo="https://i.imgur.com/aafzrzX.png" group-title="Movies",Cine Sureño
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-ono/playlist.m3u8?player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120
 
+#EXTINF:-1 tvg-chno="85" tvg-logo="https://i.imgur.com/kQgmAmS.png" group-title="Entertainment",Canal 13
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6323ac0f8f253768c26b5529" tvg-id="5e20b730f2f8d5003d739db7-6323ac0f8f253768c26b5529" tvg-chno="103" tvg-logo="https://i.imgur.com/nDk7kzC.png" group-title="Movies",FLOU Cine
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6323ac0f8f253768c26b5529.m3u8
 
@@ -348,9 +351,6 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 channel-id="pluto-5cf96cc422df39f1a338d165" tvg-id="5cf96cc422df39f1a338d165" tvg-chno="2705" tvg-logo="https://images.pluto.tv/channels/5cf96cc422df39f1a338d165/solidLogoPNG.png" group-title="Entertainment",Telemundo telenovelas clásicas
 https://r.mjh.nz/PlutoTV/5cf96cc422df39f1a338d165-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-61b3e21d56fee300087e4cba" tvg-id="61b3e21d56fee300087e4cba" tvg-chno="2720" tvg-logo="https://images.pluto.tv/channels/61b3e21d56fee300087e4cba/solidLogoPNG.png" group-title="Entertainment",Corazón turco
-https://r.mjh.nz/PlutoTV/61b3e21d56fee300087e4cba-alt.m3u8
-
 #EXTINF:-1 channel-id="pluto-5cf96d351652631e36d4331f" tvg-id="5cf96d351652631e36d4331f" tvg-chno="2845" tvg-logo="https://images.pluto.tv/channels/5cf96d351652631e36d4331f/solidLogoPNG.png" group-title="Entertainment",MTV en español
 https://r.mjh.nz/PlutoTV/5cf96d351652631e36d4331f-alt.m3u8
 
@@ -429,7 +429,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 #EXTINF:-1 tvg-chno="6150" tvg-logo="https://i.imgur.com/px6YT3X.png" group-title="Entertainment",ATV+ PE
 https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="6151" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3293-320x180-000000.jpg" group-title="Entertainment",eltrece
-https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+
 
 
