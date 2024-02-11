@@ -304,7 +304,7 @@ https://dmlmov0qa6fqb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 #EXTINF:-1 channel-id="samsung-USAJ1700009QJ" tvg-id="USAJ1700009QJ" tvg-chno="1270" tvg-logo="https://i.imgur.com/CNrrYN0.png" group-title="Movies",Tu Cine
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucineus-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8
 
 #EXTINF:-1 channel-id="samsung-USBC39000080S" tvg-id="USBC39000080S" tvg-chno="1272" tvg-logo="https://i.imgur.com/uhKCuSg.png" group-title="Entertainment",Canela.TV (Samsung TV Plus)
 https://i.mjh.nz/SamsungTVPlus/USBC39000080S.m3u8
@@ -431,6 +431,7 @@ https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 
 #EXTINF:-1 channel-id="pluto-6532e7b290a74c00084a3bb6" tvg-id="6532e7b290a74c00084a3bb6" tvg-logo="https://images.pluto.tv/channels/6532e7b290a74c00084a3bb6/solidLogoPNG.png" tvg-chno="3595" group-title="Movies",Hallmark en español
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6532e7b290a74c00084a3bb6/master.m3u8?advertisingId=&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=6532e7b290a74c00084a3bb6&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=true&marketingRegion=US&serverSideAds=true&sid=6532e7b290a74c00084a3bb6&terminate=true
+
 
 
 
