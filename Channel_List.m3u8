@@ -396,9 +396,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3363
 #EXTINF:-1 tvg-chno="3506" tvg-logo="https://i.imgur.com/7pcBDq5.png" group-title="Movies",CineKids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3506
 
-#EXTINF:-1 channel-id="pluto-6532e7b290a74c00084a3bb6" tvg-id="6532e7b290a74c00084a3bb6" tvg-logo="https://images.pluto.tv/channels/6532e7b290a74c00084a3bb6/solidLogoPNG.png" tvg-chno="3595" group-title="Movies" , Hallmark en español
-https://r.mjh.nz/PlutoTV/6532e7b290a74c00084a3bb6-alt.m3u8
-
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-64694d52f73356567a64ce8c" tvg-id="5e20b730f2f8d5003d739db7-64694d52f73356567a64ce8c" tvg-chno="4826" tvg-logo="https://i.imgur.com/lLQ2Isw.png" group-title="Drama",Azteca Corazón
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
 
@@ -440,5 +437,11 @@ https://d3mhf0ikztdylu.cloudfront.net/out/v1/817cf22a7bc24a778898407b3a2bfdb3/in
 
 ----------
 
+
+#EXTINF:-1 tvg-chno="6153" tvg-logo="" group-title="Entertainment",BitMe
+https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
+
 #EXTINF:-1 channel-id="pluto-6532e7b290a74c00084a3bb6" tvg-id="6532e7b290a74c00084a3bb6" tvg-logo="https://images.pluto.tv/channels/6532e7b290a74c00084a3bb6/solidLogoPNG.png" tvg-chno="3595" group-title="Movies",Hallmark en español
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6532e7b290a74c00084a3bb6/master.m3u8?advertisingId=&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=6532e7b290a74c00084a3bb6&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=true&marketingRegion=US&serverSideAds=true&sid=6532e7b290a74c00084a3bb6&terminate=true
+
+
