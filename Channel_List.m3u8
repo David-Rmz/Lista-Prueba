@@ -168,9 +168,6 @@ https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
 #EXTINF:-1 channel-id="roku-498b53f6f63455bbba27754ceb5fcefc" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/498b53f6f63455bbba27754ceb5fcefc/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673905008826_Sonic_the_Hedgehog_HUD_Logo_260x147_Monochromatic.png" tvg-chno="431" group-title="Family/Kids",Sonic The Hedgehog
 https://i.mjh.nz/Roku/498b53f6f63455bbba27754ceb5fcefc.m3u8
 
-#EXTINF:-1 tvg-chno="432" tvg-logo="https://i.imgur.com/2fieq5k.png" group-title="Family/Kids",Planeta de Aventuras 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4311
-
 #EXTINF:-1 tvg-chno="433" tvg-logo="https://i.imgur.com/uKZa6F1.png" group-title="Family/Kids",Zona de Acción
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
 
@@ -297,9 +294,6 @@ https://pubads.g.doubleclick.net/ssai/event/QgzLP09xRdOZX2prvHHN4g/master.m3u8
 #EXTINF:-1 channel-id="samsung-USAJ22000057N" tvg-id="USAJ22000057N" tvg-chno="1262" tvg-logo="https://i.imgur.com/0GIKnM6.png" group-title="Comedy",Sony Canal Comedias
 https://d05f9c4e535042b78e6de94ef5548e4a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalComedias-2/playlist.m3u8?ads.wurl_channel=1448&ads.wurl_name=SonyCanalComedias-2&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-#EXTINF:-1 channel-id="samsung-USBB44000099N" tvg-id="USBB44000099N" tvg-chno="1265" tvg-logo="https://i.imgur.com/gt65wqJ.png" group-title="Entertainment",ViX Novelas de romance
-https://d10xax7cor3zsm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0m7q1oxxje3uu-prod/dist/samsungtv/194/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
 #EXTINF:-1 channel-id="samsung-USBC2100012EJ" tvg-id="USBC2100012EJ" tvg-chno="1267" tvg-logo="https://i.imgur.com/yPPzv9p.png" group-title="Entertainment",ViX Grandes Parejas
 https://d1f3q72l8uy8ur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z46pswns8dp1b-ssai-prd/dist/samsungtv/318/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
@@ -359,9 +353,6 @@ https://r.mjh.nz/PlutoTV/5e82bb378601b80007b4bd78-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-62fa81ccd1a7e90007c1ada0" tvg-id="62fa81ccd1a7e90007c1ada0" tvg-chno="2881" tvg-logo="https://images.pluto.tv/channels/62fa81ccd1a7e90007c1ada0/solidLogoPNG.png" group-title="Entertainment",AMC en Español
 https://r.mjh.nz/PlutoTV/62fa81ccd1a7e90007c1ada0-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-6049295e7dcef800073c2499" tvg-id="6049295e7dcef800073c2499" tvg-chno="2885" tvg-logo="https://images.pluto.tv/channels/6049295e7dcef800073c2499/solidLogoPNG.png" group-title="Entertainment",Viaje a las estrellas
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6049295e7dcef800073c2499/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=6049295e7dcef800073c2499&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=true&marketingRegion=US&serverSideAds=true&sid=6049295e7dcef800073c2499&terminate=true&userId=
 
 #EXTINF:-1 channel-id="pluto-60fb3087fbbc120007fc46be" tvg-id="60fb3087fbbc120007fc46be" tvg-chno="2890" tvg-logo="https://images.pluto.tv/channels/60fb3087fbbc120007fc46be/solidLogoPNG.png" group-title="Entertainment",Series con Ñ
 https://r.mjh.nz/PlutoTV/60fb3087fbbc120007fc46be-alt.m3u8
@@ -440,5 +431,6 @@ https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 
 #EXTINF:-1 channel-id="pluto-6532e7b290a74c00084a3bb6" tvg-id="6532e7b290a74c00084a3bb6" tvg-logo="https://images.pluto.tv/channels/6532e7b290a74c00084a3bb6/solidLogoPNG.png" tvg-chno="3595" group-title="Movies",Hallmark en español
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6532e7b290a74c00084a3bb6/master.m3u8?advertisingId=&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=6532e7b290a74c00084a3bb6&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=true&marketingRegion=US&serverSideAds=true&sid=6532e7b290a74c00084a3bb6&terminate=true
+
 
 
