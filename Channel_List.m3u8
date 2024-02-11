@@ -267,6 +267,9 @@ https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-chno="1119" tvg-logo="https://i.imgur.com/qUIN2YN.png" group-title="Entertainment",NU9VE
 https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
 
+#EXTINF:-1 tvg-chno="1126" tvg-logo="https://i.imgur.com/IfLJb6A.png" group-title="Entertainment",BitMe
+https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="1152" tvg-logo="https://i.imgur.com/v8GETlI.png" group-title="Entertainment",Canela Telenovelas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
 
@@ -414,7 +417,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 #EXTINF:-1 tvg-chno="6150" tvg-logo="https://i.imgur.com/px6YT3X.png" group-title="Entertainment",ATV+ PE
 https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="6151" tvg-logo="" group-title="Movies",WOW TV
+#EXTINF:-1 tvg-chno="6151" tvg-logo="https://i.imgur.com/iGG9Fxk.png" group-title="Movies",WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/wowtv.smil/.m3u8
 
 #EXTINF:-1 tvg-chno="6152" tvg-logo="" group-title="Entertainment",Estrella TV
@@ -424,10 +427,6 @@ https://estrellatv-oando.amagi.tv/playlist.m3u8
 https://d3mhf0ikztdylu.cloudfront.net/out/v1/817cf22a7bc24a778898407b3a2bfdb3/index.mpd
 
 ----------
-
-
-#EXTINF:-1 tvg-chno="6153" tvg-logo="" group-title="Entertainment",BitMe
-https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 
 #EXTINF:-1 channel-id="pluto-6532e7b290a74c00084a3bb6" tvg-id="6532e7b290a74c00084a3bb6" tvg-logo="https://images.pluto.tv/channels/6532e7b290a74c00084a3bb6/solidLogoPNG.png" tvg-chno="3595" group-title="Movies",Hallmark en español
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6532e7b290a74c00084a3bb6/master.m3u8?advertisingId=&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=6532e7b290a74c00084a3bb6&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=true&marketingRegion=US&serverSideAds=true&sid=6532e7b290a74c00084a3bb6&terminate=true
