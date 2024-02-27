@@ -168,9 +168,6 @@ https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
 #EXTINF:-1 channel-id="roku-498b53f6f63455bbba27754ceb5fcefc" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/498b53f6f63455bbba27754ceb5fcefc/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673905008826_Sonic_the_Hedgehog_HUD_Logo_260x147_Monochromatic.png" tvg-chno="431" group-title="Family/Kids",Sonic The Hedgehog
 https://i.mjh.nz/Roku/498b53f6f63455bbba27754ceb5fcefc.m3u8
 
-#EXTINF:-1 tvg-chno="433" tvg-logo="https://i.imgur.com/uKZa6F1.png" group-title="Family/Kids",Zona de Acción
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
-
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-chno="456" tvg-logo="https://i.imgur.com/YHQ3x4I.png" group-title="News",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
@@ -194,9 +191,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 
 #EXTINF:-1 tvg-chno="656" tvg-logo="https://i.imgur.com/BdRJjTG.png" group-title="Movies",Cine Romántico (Canela TV)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
-
-#EXTINF:-1 tvg-chno="663" tvg-logo="https://i.imgur.com/PORhycr.png" group-title="Family/Kids",Mundo Pequeño 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3366
 
 #EXTINF:-1 tvg-id="" tvg-chno="703" tvg-logo="https://i.imgur.com/q9GtmVd.png" group-title="Entertainment",BH TV (Perú)
 https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/.m3u8
@@ -273,8 +267,6 @@ https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-chno="1152" tvg-logo="https://i.imgur.com/v8GETlI.png" group-title="Entertainment",Canela Telenovelas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
 
-#EXTINF:-1 tvg-chno="1153" tvg-logo="https://i.imgur.com/CfvsA6p.png" group-title="Movies",Acción Mexicana
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
 
 #EXTINF:-1 tvg-chno="1170" tvg-logo="https://i.imgur.com/uR60foW.png" group-title="Entertainment",RCN Xtra 
 https://df4ac36b116646748d613407d93f79aa.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_RCNXtra/playlist.m3u8
@@ -296,15 +288,6 @@ https://pubads.g.doubleclick.net/ssai/event/QgzLP09xRdOZX2prvHHN4g/master.m3u8
 
 #EXTINF:-1 channel-id="samsung-USAJ22000057N" tvg-id="USAJ22000057N" tvg-chno="1262" tvg-logo="https://i.imgur.com/0GIKnM6.png" group-title="Comedy",Sony Canal Comedias
 https://d05f9c4e535042b78e6de94ef5548e4a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalComedias-2/playlist.m3u8?ads.wurl_channel=1448&ads.wurl_name=SonyCanalComedias-2&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:-1 channel-id="samsung-USBC2100012EJ" tvg-id="USBC2100012EJ" tvg-chno="1267" tvg-logo="https://i.imgur.com/yPPzv9p.png" group-title="Entertainment",ViX Grandes Parejas
-https://d1f3q72l8uy8ur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z46pswns8dp1b-ssai-prd/dist/samsungtv/318/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:-1 channel-id="samsung-USBC2100011WI" tvg-id="USBC2100011WI" tvg-chno="1268" tvg-logo="https://i.imgur.com/3nFOvY7.png" group-title="Entertainment",ViX Villanos de Novela
-https://dmlmov0qa6fqb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-046v2vm0cpvjt-ssai-prd/dist/samsungtv/339/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:-1 channel-id="samsung-USBC2100010OS" tvg-id="USBC2100010OS" tvg-chno="1269" tvg-logo="https://i.imgur.com/gCctuYw.png" group-title="Comedy",ViX JaJaJa
-https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 #EXTINF:-1 channel-id="samsung-USAJ1700009QJ" tvg-id="USAJ1700009QJ" tvg-chno="1270" tvg-logo="https://i.imgur.com/CNrrYN0.png" group-title="Movies",Tu Cine
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8
