@@ -208,7 +208,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/p
 #EXTINF:-1 channel-id="roku-59d2dbddc997559bb7b689a7c887cba4" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/59d2dbddc997559bb7b689a7c887cba4/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1707769538137_FreeTVSureno260x147.png" tvg-chno="1015",FreeTV Sureño
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-ono/playlist.m3u8?player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120
 
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6018913ea15130002b284191" tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b284191" tvg-chno="1016" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4775fd5f-1436-4f2d-a368-35a008221dff/FreeTVHits_Circle_1500x1000_-_Ralph_Campillo.png" group-title="Music",FreeTV Hits
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6018913ea15130002b284191" tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b284191" tvg-chno="1016" tvg-logo="https://i.imgur.com/fbgFXIp.png" group-title="Music",FreeTV Hits
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/playlist.m3u8?player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120
 
 #EXTINF:-1 channel-id="roku-50cd4d6c632d5172834eb5b77fa395c6" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/50cd4d6c632d5172834eb5b77fa395c6/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1659744349180_FMXCHD_HUD_WHITE.png" tvg-chno="1033" group-title="Movies",FILMEX Clásico
@@ -220,19 +220,19 @@ https://i.mjh.nz/Roku/1e2a4ec82eb65f729ad7484337c0bcd4.m3u8
 #EXTINF:-1 channel-id="roku-5dbf591219b15aa8bb3a7b73b59307f0" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/5dbf591219b15aa8bb3a7b73b59307f0/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1657834856300_center-HUD-260x147.png" tvg-chno="1035" group-title="Movies",Cine EstrellaTV
 https://i.mjh.nz/Roku/5dbf591219b15aa8bb3a7b73b59307f0.m3u8
 
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-617afafd7ab406f93af02607" tvg-id="5e20b730f2f8d5003d739db7-617afafd7ab406f93af02607" tvg-chno="1052" tvg-logo="https://provider-static.plex.tv/epg/cms/production/94b42b07-1f67-4538-8220-6c83c9a456f5/FreeTVHorror_Circle_1500x1000_-_Ralph_Campillo.png" group-title="Entertainment",FreeTV Horror
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-617afafd7ab406f93af02607" tvg-id="5e20b730f2f8d5003d739db7-617afafd7ab406f93af02607" tvg-chno="1052" tvg-logo="https://i.imgur.com/1M1bFug.png" group-title="Entertainment",FreeTV Horror
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playlist.m3u8?player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120
 
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60240f57676235002df19f49" tvg-id="5e20b730f2f8d5003d739db7-60240f57676235002df19f49" tvg-chno="1069" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9cfe65ea-0cf3-4d32-8165-a76e076878bd/FreeTVFamilia_Circle_1500x1000_-_Ralph_Campillo.png" group-title="Entertainment",FreeTV Familia
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60240f57676235002df19f49" tvg-id="5e20b730f2f8d5003d739db7-60240f57676235002df19f49" tvg-chno="1069" tvg-logo="https://i.imgur.com/KtiBxAZ.png" group-title="Entertainment",FreeTV Familia
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-ono/playlist.m3u8?player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120
 
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60240f58676235002df19f4b" tvg-id="5e20b730f2f8d5003d739db7-60240f58676235002df19f4b" tvg-chno="1078" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f133133e-92a3-4bc0-b626-21f029d0b152/FreeTVAccion_Circle_1500x1000_-_Ralph_Campillo.png" group-title="Movies",FreeTV Acción
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60240f58676235002df19f4b" tvg-id="5e20b730f2f8d5003d739db7-60240f58676235002df19f4b" tvg-chno="1078" tvg-logo="https://i.imgur.com/efmzhrg.png" group-title="Movies",FreeTV Acción
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-topcine-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=yA8aFZC94-Az2RAPHMpT&channelId=60240f58676235002df19f4b&device_id_type=&ifa_type=ppid&url=app.plex.tv&app_name=plex&app_bundle=com.plexapp.android&app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&gdpr=0&gdpr_consent=0&coppa=0&ua=okhttp%2F4.9.0&ip=185.236.200.172&brand_name=&device_model=&device_type=handset&w=&h=&partner_id=SINFIL1S4E5_bc
 
 #EXTINF:-1 channel-id="roku-b1ad1b681f5d5b2eb071445b284336ff" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/b1ad1b681f5d5b2eb071445b284336ff/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1707756285924_FREETV_Banda_260x147.png" tvg-chno="1090",FreeTV Banda
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmcfreetv-ono/playlist.m3u8?player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120
 
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6018913ea15130002b284195" tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b284195" tvg-chno="1094" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6576aebe-a538-473a-9f40-c8cea9fbeda8/FreeTVSaberM_s_Circle_1500x1000_-_Ralph_Campillo.png" group-title="Education",FreeTV Saber Más
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6018913ea15130002b284195" tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b284195" tvg-chno="1094" tvg-logo="https://i.imgur.com/2UjcKEO.png" group-title="Education",FreeTV Saber Más
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playlist.m3u8?player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120
 
 #EXTINF:-1 tvg-chno="1103" tvg-logo="https://i.imgur.com/HoZ3XUn.png" group-title="Entertainment",Canal 5
@@ -290,7 +290,7 @@ https://pubads.g.doubleclick.net/ssai/event/QgzLP09xRdOZX2prvHHN4g/master.m3u8
 #EXTINF:-1 channel-id="samsung-USAJ22000057N" tvg-id="USAJ22000057N" tvg-chno="1262" tvg-logo="https://i.imgur.com/0GIKnM6.png" group-title="Comedy",Sony Canal Comedias
 https://d05f9c4e535042b78e6de94ef5548e4a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalComedias-2/playlist.m3u8?ads.wurl_channel=1448&ads.wurl_name=SonyCanalComedias-2&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-#EXTINF:-1 channel-id="samsung-USAJ1700009QJ" tvg-id="USAJ1700009QJ" tvg-chno="1270" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b00e74dc-d15c-40c4-a411-c2a730034f5d/FreeTVEstelar_Circle_1500x1000_-_Ralph_Campillo.png" group-title="Movies",FreeTV Estelar
+#EXTINF:-1 channel-id="samsung-USAJ1700009QJ" tvg-id="USAJ1700009QJ" tvg-chno="1270" tvg-logo="https://i.imgur.com/c0GdM2Q.png" group-title="Movies",FreeTV Estelar
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8
 
 #EXTINF:-1 channel-id="samsung-USBC39000080S" tvg-id="USBC39000080S" tvg-chno="1272" tvg-logo="https://i.imgur.com/uhKCuSg.png" group-title="Entertainment",Canela.TV (Samsung TV Plus)
@@ -409,6 +409,7 @@ https://cdn.elsalvadordigital.com:1936/wowtv/wowtv.smil/.m3u8
 
 #EXTINF:-1 tvg-chno="6153" tvg-logo="" group-title="News",El Financiero
 https://d3mhf0ikztdylu.cloudfront.net/out/v1/817cf22a7bc24a778898407b3a2bfdb3/index.mpd
+
 
 
 
