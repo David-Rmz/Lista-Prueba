@@ -118,8 +118,8 @@ https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-626c288e54f3232400a45f35" tvg-id="5e20b730f2f8d5003d739db7-626c288e54f3232400a45f35" tvg-chno="201" tvg-logo="https://i.imgur.com/HblNBMa.png" group-title="News",MegaNoticias
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-626c288e54f3232400a45f35.m3u8
 
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-639ba57d3f4612cc150a5723" tvg-id="5e20b730f2f8d5003d739db7-639ba57d3f4612cc150a5723" tvg-chno="237" tvg-logo="https://i.imgur.com/aUuNBNH.png" group-title="Family/Kids",Pitufo TV
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-639ba57d3f4612cc150a5723.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=mY54E8X_zs5aHAcpszoe
+#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-639ba57d3f4612cc150a5723" tvg-id="608049aefa2b8ae93c2c3a63-639ba57d3f4612cc150a5723" tvg-chno="237" tvg-logo="https://i.imgur.com/aUuNBNH.png" group-title="Family/Kids",Pitufo TV
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-639ba57d3f4612cc150a5723.m3u8
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6244f2d33ef43121e567cf13" tvg-id="5e20b730f2f8d5003d739db7-6244f2d33ef43121e567cf13" tvg-chno="251" tvg-logo="https://i.imgur.com/jgUvZqU.png" group-title="Entertainment",RCN Más
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
@@ -127,14 +127,9 @@ https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-64878a0108027d895721403b" tvg-id="5e20b730f2f8d5003d739db7-64878a0108027d895721403b" tvg-chno="262" tvg-logo="https://i.imgur.com/qjvr6Di.png" group-title="Entertainment",Nuestra Visión
 https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-62ba4aaff663580a7238f327" tvg-id="5e20b730f2f8d5003d739db7-62ba4aaff663580a7238f327" tvg-chno="284" tvg-logo="https://i.imgur.com/T4elwSs.png" group-title="Family/Kids",Sonic TV
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ba4aaff663580a7238f327.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=mY54E8X_zs5aHAcpszoe
+#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-62ba4aaff663580a7238f327" tvg-id="608049aefa2b8ae93c2c3a63-62ba4aaff663580a7238f327" tvg-chno="284" tvg-logo="https://i.imgur.com/T4elwSs.png" group-title="Family/Kids",Sonic TV
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62ba4aaff663580a7238f327.m3u8
 
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c0a" tvg-id="5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c0a" tvg-chno="285" tvg-logo="https://i.imgur.com/gQsHZmh.png" group-title="Entertainment",Sony Canal Competencias
-https://a58265c9d06d4c91ac4b8071b890ddaa.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SonyCanalCompetencias-1/playlist.m3u8?ads.wurl_channel=692&ads.wurl_name=SonyCanalCompetencias&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=yA8aFZC94-Az2RAPHMpT&ads.plex_id=5f5132e362fe160040f26c0a&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c0f" tvg-id="5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c0f" tvg-chno="286" tvg-logo="https://i.imgur.com/0Ike5uU.png" group-title="Entertainment",Sony Canal Novelas
-https://ecfe6e3fc3a34d60ac625cda77722824.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SonyCanalNovelas-1/playlist.m3u8?ads.wurl_channel=694&ads.wurl_name=SonyCanalNovelas-1&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=yA8aFZC94-Az2RAPHMpT&ads.plex_id=5f5132e362fe160040f26c0f&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-64149ba2d02609d8a7127ee8" tvg-id="5e20b730f2f8d5003d739db7-64149ba2d02609d8a7127ee8" tvg-chno="353" tvg-logo="https://i.imgur.com/qsnps4m.png" group-title="Entertainment",Anger Managment
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-angermngmtespanol-runtimelatam/playlist.m3u8
@@ -287,8 +282,14 @@ https://dsuub0ebctcrw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 channel-id="samsung-USBC24000145I" tvg-id="USBC24000145I" tvg-chno="1260" tvg-logo="https://i.imgur.com/aLYCLY5.png" group-title="Entertainment",Estrella Games
 https://pubads.g.doubleclick.net/ssai/event/QgzLP09xRdOZX2prvHHN4g/master.m3u8
 
+#EXTINF:-1 channel-id="samsung-USAJ3504719A" tvg-id="USAJ3504719A" tvg-chno="1261" tvg-logo="https://i.imgur.com/gQsHZmh.png" group-title="Entertainment",Sony Canal Competencias
+https://i.mjh.nz/SamsungTVPlus/USAJ3504719A.m3u8
+
 #EXTINF:-1 channel-id="samsung-USAJ22000057N" tvg-id="USAJ22000057N" tvg-chno="1262" tvg-logo="https://i.imgur.com/0GIKnM6.png" group-title="Comedy",Sony Canal Comedias
 https://d05f9c4e535042b78e6de94ef5548e4a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalComedias-2/playlist.m3u8?ads.wurl_channel=1448&ads.wurl_name=SonyCanalComedias-2&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 channel-id="samsung-USAJ3000002OC" tvg-id="USAJ3000002OC" tvg-chno="1263" tvg-logo="https://i.imgur.com/0Ike5uU.png" group-title="Entertainment",Sony Canal Novelas
+https://i.mjh.nz/SamsungTVPlus/USAJ3000002OC.m3u8
 
 #EXTINF:-1 channel-id="samsung-USAJ1700009QJ" tvg-id="USAJ1700009QJ" tvg-chno="1270" tvg-logo="https://i.imgur.com/c0GdM2Q.png" group-title="Movies",FreeTV Estelar
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8
@@ -409,11 +410,3 @@ https://cdn.elsalvadordigital.com:1936/wowtv/wowtv.smil/.m3u8
 
 #EXTINF:-1 tvg-chno="6153" tvg-logo="" group-title="News",El Financiero
 https://d3mhf0ikztdylu.cloudfront.net/out/v1/817cf22a7bc24a778898407b3a2bfdb3/index.mpd
-
-
-
-
-
-
-
-
