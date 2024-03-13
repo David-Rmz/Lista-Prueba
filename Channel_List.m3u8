@@ -321,9 +321,6 @@ https://r.mjh.nz/PlutoTV/5f513564e4622a0007c578c0-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5f5136317aedfb0007016f93" tvg-id="5f5136317aedfb0007016f93" tvg-chno="2680" tvg-logo="https://images.pluto.tv/channels/5f5136317aedfb0007016f93/solidLogoPNG.png" group-title="Movies",Cine XOXO
 https://r.mjh.nz/PlutoTV/5f5136317aedfb0007016f93-alt.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-chno="2706" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmwrle299mxlmn5nja1wu1e37m0m19zkrgws.png" group-title="Movies",MyTime Movie Network
-https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 channel-id="pluto-5cf96cc422df39f1a338d165" tvg-id="5cf96cc422df39f1a338d165" tvg-chno="2705" tvg-logo="https://images.pluto.tv/channels/5cf96cc422df39f1a338d165/solidLogoPNG.png" group-title="Entertainment",Telemundo telenovelas clásicas
 https://r.mjh.nz/PlutoTV/5cf96cc422df39f1a338d165-alt.m3u8
 
