@@ -422,3 +422,53 @@ https://ch2-tva.duin.dev/hls/stream.m3u8
 
 #EXTINF:-1 tvg-chno="" tvg-logo="" group-title="",TV Azteca Guate
 https://ch1-tva.duin.dev/hls/stream.m3u8
+
+#EXTINF:-1 tvg-chno="" tvg-logo="" group-title="",DTV HN
+https://s.emisoras.tv:8081/dtv/index.m3u8
+
+#EXTINF:-1 tvg-chno="" tvg-logo="" group-title="",Q'hubo TV HN
+https://5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="" tvg-logo="" group-title="",HCH HN
+https://rpn3.bozztv.com/ssh101/ssh101/hchtvenvivo/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="" tvg-logo="" group-title="",Canal 11 HN
+https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
+
+#EXTINF:-1 tvg-chno="" tvg-logo="" group-title="",CCI Channel HN
+https://cdn.playcloud.us/cci/srtin3.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="" tvg-logo="" group-title="",JBN TV HN
+https://mediacp.us:8081/jbntv/index.m3u8
+
+#EXTINF:-1 tvg-chno="" tvg-logo="" group-title="",Une TV HN
+https://amixtv.live:3395/live/unetvlive.m3u8	
+
+#EXTINF:-1 tvg-chno="" tvg-logo="" group-title="",Nuevo Mundo TV HN
+https://tvlatina.live:1936/8008/8008/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="" tvg-logo="" group-title="",EDN TV HN
+https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="" tvg-logo="" group-title="",Inti TV EC
+https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8	
+
+#EXTINF:-1 tvg-chno="" tvg-logo="" group-title="",TeleProgreso HN
+https://livestreamhd.us:8077/teleprogreso/live/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="" tvg-logo="" group-title="",Panamericana TV PE
+https://cdnhd.iblups.com/hls/ptv5.m3u8
+
+#EXTINF:-1 tvg-chno="" tvg-logo="" group-title="",Oromar TV EC
+https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
+
+#EXTINF:-1 tvg-chno="" tvg-logo="" group-title="",Ecuavisa EC
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo/.m3u8
+
+#EXTINF:-1 tvg-chno="" tvg-logo="" group-title="",Canal 24 Horas ES
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+
+#EXTINF:-1 tvg-chno="" tvg-logo="" group-title="",Clan ES
+https://ztnr.rtve.es/ztnr/5466990.m3u8
+
+
