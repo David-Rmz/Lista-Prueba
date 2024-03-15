@@ -412,4 +412,7 @@ https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
 https://ythls.armelin.one/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
 
 #EXTINF:-1 tvg-chno="" tvg-logo="" group-title="",A Más + Guate
-35 https://ch2-tva.duin.dev/hls/stream.m3u8	
+https://ch2-tva.duin.dev/hls/stream.m3u8	
+
+#EXTINF:-1 tvg-chno="" tvg-logo="" group-title="",TV Azteca Guate
+https://ch1-tva.duin.dev/hls/stream.m3u8
