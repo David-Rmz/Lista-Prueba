@@ -12,13 +12,16 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:-1 tvg-id="Foro.mx" tvg-chno="2.2" tvg-logo="https://images.vix.com/prd/channel/6227cb54ed9b675b3a7689ef/802829316a4a153748139bfb1aad9254" group-title="News",Foro TV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 
+#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-chno="3.1" tvg-logo="https://i.imgur.com/lKrRvtS.png" group-title="Entertainment",Imagen TV (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
+
 #EXTINF:-1 tvg-id="TVCuatro41.mx" tvg-chno="4.1" tvg-logo="https://www.tvcuatro.com/images/logo-menu.png" group-title="Education",Canal 4.1
 https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
 
-#EXTINF:-1 tvg-id="TVCuatro41.mx" tvg-chno="4.2" tvg-logo="https://www.tvcuatro.com/images/logo-menu.png" group-title="Education",Canal 4.1
+#EXTINF:-1 tvg-id="TVCuatro41.mx" tvg-chno="4.2" tvg-logo="https://www.tvcuatro.com/images/logo-menu.png" group-title="Education",Canal 4.2
 https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
 
-#EXTINF:-1 tvg-id="TVCuatro41.mx" tvg-chno="4.3" tvg-logo="https://www.tvcuatro.com/images/logo-menu.png" group-title="Education",Canal 4.1
+#EXTINF:-1 tvg-id="TVCuatro41.mx" tvg-chno="4.3" tvg-logo="https://www.tvcuatro.com/images/logo-menu.png" group-title="Education",Canal 4.2
 https://5f1af61612fb5.streamlock.net/tv43/tv43.smil/.m3u8			
 
 #EXTINF:-1 tvg-chno="4.2" tvg-logo="https://i.imgur.com/kmqbSEt.png" group-title="Entertainment",CGTN-E
@@ -67,6 +70,12 @@ https://5ca3e84a76d30.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m
 #EXTINF:-1 tvg-id="XEIPNTDT.mx" tvg-chno="11.1" tvg-logo="https://canaloncetv.s3.us-east-1.amazonaws.com/REST/data/images/logo-menu.webp" group-title="Education",Canal Once
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/.m3u8
 
+#EXTINF:-1 tvg-chno="12" tvg-logo="https://i.imgur.com/Gb995I6.png" group-title="New",Canal 24 Horas ES
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+
+#EXTINF:-1 tvg-chno="14" tvg-logo="https://i.imgur.com/SosxUV4.png" group-title="Family/Kids",Clan ES
+https://ztnr.rtve.es/ztnr/5466990.m3u8
+
 #EXTINF:-1 tvg-id="XHSPRTDT1.mx" tvg-chno="14.1" tvg-logo="https://i.imgur.com/ugxE4RT.png" group-title="Education",Canal Catorce
 https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
 
@@ -88,8 +97,14 @@ https://60417ddeaf0d9.streamlock.net/telemetrika3/telemetrika3.smil/.m3u8
 #EXTINF:-1 tvg-id="XHMNLTDT.mx" tvg-chno="28.1" tvg-logo="https://i.imgur.com/COVMTHH.png" group-title="Entertainment",Canal 28 NL
 https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="31" tvg-logo="https://i.imgur.com/hOxAdVK.png" group-title="Entertainment",TV Azteca Guate
+https://ch1-tva.duin.dev/hls/stream.m3u8
+
 #EXTINF:-1 tvg-id="TVMexiquense.mx" tvg-chno="34.1" tvg-logo="https://i.imgur.com/6VPHOD3.png" group-title="Entertainment",Mexiquense TV
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="35" tvg-logo="https://i.imgur.com/ZdPSx1L.png" group-title="Entertainment",A Más + Guate
+https://ch2-tva.duin.dev/hls/stream.m3u8	
 
 #EXTINF:-1 tvg-id="CanaldelCongreso451.mx" tvg-chno="45.1" tvg-logo="https://i.imgur.com/2bpT28K.png" group-title="Education",Canal del Congreso México 45.1
 https://edgeplay.canaldelcongreso.gob.mx/live_sd1/smil:canal-sd1.smil/playlist.m3u8
@@ -124,6 +139,9 @@ https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-626c288e54f3232400a45f35" tvg-id="5e20b730f2f8d5003d739db7-626c288e54f3232400a45f35" tvg-chno="201" tvg-logo="https://i.imgur.com/HblNBMa.png" group-title="News",MegaNoticias
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-626c288e54f3232400a45f35.m3u8
 
+#EXTINF:-1 tvg-chno="207" tvg-logo="https://i.imgur.com/q1G4si1.png" group-title="Entertainment",Ecuavisa EC
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo/.m3u8
+
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-639ba57d3f4612cc150a5723" tvg-id="608049aefa2b8ae93c2c3a63-639ba57d3f4612cc150a5723" tvg-chno="237" tvg-logo="https://i.imgur.com/aUuNBNH.png" group-title="Family/Kids",Pitufo TV
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-639ba57d3f4612cc150a5723.m3u8
 
@@ -135,7 +153,6 @@ https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-62ba4aaff663580a7238f327" tvg-id="608049aefa2b8ae93c2c3a63-62ba4aaff663580a7238f327" tvg-chno="284" tvg-logo="https://i.imgur.com/T4elwSs.png" group-title="Family/Kids",Sonic TV
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62ba4aaff663580a7238f327.m3u8
-
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-64149ba2d02609d8a7127ee8" tvg-id="5e20b730f2f8d5003d739db7-64149ba2d02609d8a7127ee8" tvg-chno="353" tvg-logo="https://i.imgur.com/qsnps4m.png" group-title="Entertainment",Anger Managment
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-angermngmtespanol-runtimelatam/playlist.m3u8
@@ -193,6 +210,9 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1&app_b
 
 #EXTINF:-1 tvg-chno="919" tvg-logo="https://i.imgur.com/KemxtbM.png" group-title="Family/Kids",ZAZ
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2369
+
+#EXTINF:-1 tvg-chno="922" tvg-logo="" group-title="",Inti TV EC
+https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8	
 
 #EXTINF:-1 tvg-chno="924" tvg-logo="https://i.imgur.com/0UbdfGj.png" group-title="Education",Inti Pacha TV
 https://12b71fa80adc4f3ca71526d9a77d5b00.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_INTIPACHA/playlist.m3u8?ads.wurl_channel=992&ads.wurl_name=INTIPACHA&ads.coppa=0&ads.app_bundle=&ads.app_name=&ads.app_store_url=&ads.did=&ads.ifa_type=&ads.dnt=0&ads.device_make=&ads.device_model=&ads.device_type=&ads.cust_devicename=desktop_web&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F108.0.0.0%20Safari%2F537.36%20Edg%2F108.0.1462.54&ads.content_id=62717545f472bc7015257d8b&ads.content_title=EPG-INTI_PACHA_TV&ads.cust_channeltype=Shows&ads.content_genre=En%20Espanol&ads.content_provider=inti-pacha-tv&ads.us_privacy=&lastUpdatedAt=1672253387&ads.adc_token=QkdCQkNKSEFCREdNbDAoZHNOVFQxLjtXNjt4NClBaTYoVCxsa2VHaylDMDBTLzZFMDQ
@@ -265,7 +285,6 @@ https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="1152" tvg-logo="https://i.imgur.com/v8GETlI.png" group-title="Entertainment",Canela Telenovelas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
-
 
 #EXTINF:-1 tvg-chno="1170" tvg-logo="https://i.imgur.com/uR60foW.png" group-title="Entertainment",RCN Xtra 
 https://df4ac36b116646748d613407d93f79aa.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_RCNXtra/playlist.m3u8
@@ -408,23 +427,11 @@ https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-chno="6151" tvg-logo="https://i.imgur.com/iGG9Fxk.png" group-title="Movies",WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/wowtv.smil/.m3u8
 
-#EXTINF:-1 tvg-chno="6153" tvg-logo="" group-title="News",El Financiero
+#EXTINF:-1 tvg-chno="6153" tvg-logo="https://i.imgur.com/f7QNgDn.png" group-title="News",El Financiero
 https://d3mhf0ikztdylu.cloudfront.net/out/v1/817cf22a7bc24a778898407b3a2bfdb3/index.mpd
 
-#EXTINF:-1 tvg-chno="6154" tvg-logo="" group-title="New",Telesistema CR
+#EXTINF:-1 tvg-chno="6154" tvg-logo="https://i.imgur.com/0uobN81.png" group-title="New",Telesistema CR
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-logo="https://i.imgur.com/lKrRvtS.png" group-title="Undefined",Imagen TV (720p) [Not 24/7]
-https://ythls.armelin.one/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
-
-#EXTINF:-1 tvg-chno="" tvg-logo="" group-title="",A Más + Guate
-https://ch2-tva.duin.dev/hls/stream.m3u8	
-
-#EXTINF:-1 tvg-chno="" tvg-logo="" group-title="",TV Azteca Guate
-https://ch1-tva.duin.dev/hls/stream.m3u8
-
-#EXTINF:-1 tvg-chno="" tvg-logo="" group-title="",DTV HN
-https://s.emisoras.tv:8081/dtv/index.m3u8
 
 #EXTINF:-1 tvg-chno="" tvg-logo="" group-title="",Q'hubo TV HN
 https://5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8
@@ -444,14 +451,11 @@ https://mediacp.us:8081/jbntv/index.m3u8
 #EXTINF:-1 tvg-chno="" tvg-logo="" group-title="",Une TV HN
 https://amixtv.live:3395/live/unetvlive.m3u8	
 
-#EXTINF:-1 tvg-chno="" tvg-logo="" group-title="",Nuevo Mundo TV HN
+#EXTINF:-1 tvg-chno="" tvg-logo="" group-title="",Nuevo Mundo TV GT
 https://tvlatina.live:1936/8008/8008/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="" tvg-logo="" group-title="",EDN TV HN
 https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="" tvg-logo="" group-title="",Inti TV EC
-https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8	
 
 #EXTINF:-1 tvg-chno="" tvg-logo="" group-title="",TeleProgreso HN
 https://livestreamhd.us:8077/teleprogreso/live/playlist.m3u8
@@ -462,13 +466,9 @@ https://cdnhd.iblups.com/hls/ptv5.m3u8
 #EXTINF:-1 tvg-chno="" tvg-logo="" group-title="",Oromar TV EC
 https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-logo="" group-title="",Ecuavisa EC
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo/.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-logo="" group-title="",Canal 24 Horas ES
-https://ztnr.rtve.es/ztnr/1694255.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-logo="" group-title="",Clan ES
-https://ztnr.rtve.es/ztnr/5466990.m3u8
+
+
 
 
