@@ -405,7 +405,7 @@ https://cdn.elsalvadordigital.com:1936/wowtv/wowtv.smil/.m3u8
 #EXTINF:-1 tvg-chno="6153" tvg-logo="" group-title="News",El Financiero
 https://d3mhf0ikztdylu.cloudfront.net/out/v1/817cf22a7bc24a778898407b3a2bfdb3/index.mpd
 
-#EXTINF:-1 tvg-chno="6154" tvg-logo="" group-title="New",Telesistema
+#EXTINF:-1 tvg-chno="6154" tvg-logo="" group-title="New",Telesistema CR
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-logo="https://i.imgur.com/lKrRvtS.png" group-title="Undefined",Imagen TV (720p) [Not 24/7]
