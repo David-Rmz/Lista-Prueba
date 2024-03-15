@@ -12,6 +12,9 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:-1 tvg-id="Foro.mx" tvg-chno="2.2" tvg-logo="https://images.vix.com/prd/channel/6227cb54ed9b675b3a7689ef/802829316a4a153748139bfb1aad9254" group-title="News",Foro TV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 
+#EXTINF:-1 tvg-chno="2.3" tvg-logo="https://i.imgur.com/XYBB7xq.png" group-title="",Panamericana TV PE
+https://cdnhd.iblups.com/hls/ptv5.m3u8
+
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-chno="3.1" tvg-logo="https://i.imgur.com/lKrRvtS.png" group-title="Entertainment",Imagen TV (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
 
@@ -211,10 +214,10 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1&app_b
 #EXTINF:-1 tvg-chno="919" tvg-logo="https://i.imgur.com/KemxtbM.png" group-title="Family/Kids",ZAZ
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2369
 
-#EXTINF:-1 tvg-chno="922" tvg-logo="" group-title="",Inti TV EC
+#EXTINF:-1 tvg-chno="922" tvg-logo="https://i.imgur.com/m9LqHG1.png" group-title="Education",Inti TV EC
 https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8	
 
-#EXTINF:-1 tvg-chno="924" tvg-logo="https://i.imgur.com/0UbdfGj.png" group-title="Education",Inti Pacha TV
+#EXTINF:-1 tvg-chno="924" tvg-logo="https://i.imgur.com/DsnwPu6.png" group-title="Education",Inti Pacha TV
 https://12b71fa80adc4f3ca71526d9a77d5b00.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_INTIPACHA/playlist.m3u8?ads.wurl_channel=992&ads.wurl_name=INTIPACHA&ads.coppa=0&ads.app_bundle=&ads.app_name=&ads.app_store_url=&ads.did=&ads.ifa_type=&ads.dnt=0&ads.device_make=&ads.device_model=&ads.device_type=&ads.cust_devicename=desktop_web&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F108.0.0.0%20Safari%2F537.36%20Edg%2F108.0.1462.54&ads.content_id=62717545f472bc7015257d8b&ads.content_title=EPG-INTI_PACHA_TV&ads.cust_channeltype=Shows&ads.content_genre=En%20Espanol&ads.content_provider=inti-pacha-tv&ads.us_privacy=&lastUpdatedAt=1672253387&ads.adc_token=QkdCQkNKSEFCREdNbDAoZHNOVFQxLjtXNjt4NClBaTYoVCxsa2VHaylDMDBTLzZFMDQ
 
 #EXTINF:-1 channel-id="roku-8171c38c1c625b5890423572b3fc9fbe" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/8171c38c1c625b5890423572b3fc9fbe/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1659571592459_HUD_logo_260x147_centered.png" tvg-chno="994" group-title="Movies",MyTime (en Espanol)
@@ -459,9 +462,6 @@ https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="" tvg-logo="" group-title="",TeleProgreso HN
 https://livestreamhd.us:8077/teleprogreso/live/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="" tvg-logo="" group-title="",Panamericana TV PE
-https://cdnhd.iblups.com/hls/ptv5.m3u8
 
 #EXTINF:-1 tvg-chno="" tvg-logo="" group-title="",Oromar TV EC
 https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
