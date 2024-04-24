@@ -303,13 +303,13 @@ https://dsuub0ebctcrw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 channel-id="samsung-USBC24000145I" tvg-id="USBC24000145I" tvg-chno="1260" tvg-logo="https://i.imgur.com/aLYCLY5.png" group-title="Entertainment",Estrella Games
 https://pubads.g.doubleclick.net/ssai/event/QgzLP09xRdOZX2prvHHN4g/master.m3u8
 
-#EXTINF:-1 channel-id="samsung-USAJ3504719A" tvg-id="USAJ3504719A" tvg-chno="1261" tvg-logo="https://i.imgur.com/gQsHZmh.png" group-title="Entertainment",Sony Canal Competencias
+#EXTINF:-1 channel-id="samsung-USAJ3504719A" tvg-id="USAJ3504719A" tvg-chno="1261" tvg-logo="https://i.imgur.com/pfTIu3M.png" group-title="Entertainment",Sony One Competencias
 https://i.mjh.nz/SamsungTVPlus/USAJ3504719A.m3u8
 
-#EXTINF:-1 channel-id="samsung-USAJ22000057N" tvg-id="USAJ22000057N" tvg-chno="1262" tvg-logo="https://i.imgur.com/0GIKnM6.png" group-title="Comedy",Sony Canal Comedias
+#EXTINF:-1 channel-id="samsung-USAJ22000057N" tvg-id="USAJ22000057N" tvg-chno="1262" tvg-logo="blob:https://imgur.com/ba2aa58b-da13-4f9c-8fe8-10e4c3141db8" group-title="Comedy",Sony One Comedias
 https://d05f9c4e535042b78e6de94ef5548e4a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalComedias-2/playlist.m3u8?ads.wurl_channel=1448&ads.wurl_name=SonyCanalComedias-2&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-#EXTINF:-1 channel-id="samsung-USAJ3000002OC" tvg-id="USAJ3000002OC" tvg-chno="1263" tvg-logo="https://i.imgur.com/0Ike5uU.png" group-title="Entertainment",Sony Canal Novelas
+#EXTINF:-1 channel-id="samsung-USAJ3000002OC" tvg-id="USAJ3000002OC" tvg-chno="1263" tvg-logo="https://i.imgur.com/ZZr0lPk.png" group-title="Entertainment",Sony One Novelas
 https://i.mjh.nz/SamsungTVPlus/USAJ3000002OC.m3u8
 
 #EXTINF:-1 channel-id="samsung-USAJ1700009QJ" tvg-id="USAJ1700009QJ" tvg-chno="1270" tvg-logo="https://i.imgur.com/c0GdM2Q.png" group-title="Movies",FreeTV Estelar
@@ -426,19 +426,19 @@ https://cdn.elsalvadordigital.com:1936/wowtv/wowtv.smil/.m3u8
 #EXTINF:-1 tvg-chno="6153" tvg-logo="https://i.imgur.com/f7QNgDn.png" group-title="News",El Financiero
 https://d3mhf0ikztdylu.cloudfront.net/out/v1/817cf22a7bc24a778898407b3a2bfdb3/index.mpd
 
-#EXTINF:-1 tvg-chno="6154" tvg-logo="https://i.imgur.com/0uobN81.png" group-title="New",Telesistema CR
+#EXTINF:-1 tvg-chno="6154" tvg-logo="https://i.imgur.com/0uobN81.png" group-title="Entertainment",Telesistema CR
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-logo="" group-title="",Q'hubo TV HN
+#EXTINF:-1 tvg-chno="" tvg-logo="" group-title="Entertainment",Q'hubo TV HN
 https://5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-logo="" group-title="",HCH HN
+#EXTINF:-1 tvg-chno="" tvg-logo="" group-title="News",HCH HN
 https://rpn3.bozztv.com/ssh101/ssh101/hchtvenvivo/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-logo="" group-title="",Canal 11 HN
+#EXTINF:-1 tvg-chno="" tvg-logo="" group-title="Entertainment",Canal 11 HN
 https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-logo="" group-title="",CCI Channel HN
+#EXTINF:-1 tvg-chno="" tvg-logo="" group-title="Entertainment",CCI Channel HN
 https://cdn.playcloud.us/cci/srtin3.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="" tvg-logo="" group-title="",JBN TV HN
@@ -459,11 +459,13 @@ https://livestreamhd.us:8077/teleprogreso/live/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-logo="" group-title="",Oromar TV EC
 https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 
-#EXTINF:-1 channel-id="roku-34beeb8efcb656f08d91298bb94e1815" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/34beeb8efcb656f08d91298bb94e1815/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1709832111326_Logo_wapaplus_260x147px_dark_29feb_marketing_HMTV.png" tvg-chno="913" , WAPA+
+#EXTINF:-1 channel-id="roku-34beeb8efcb656f08d91298bb94e1815" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/34beeb8efcb656f08d91298bb94e1815/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1709832111326_Logo_wapaplus_260x147px_dark_29feb_marketing_HMTV.png" tvg-chno="913" group-title="Entertainment",WAPA+
 https://i.mjh.nz/Roku/34beeb8efcb656f08d91298bb94e1815.m3u8
 
-#EXTINF:-1 channel-id="roku-e3823bb513585861904499a21a736c4f" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/e3823bb513585861904499a21a736c4f/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1704751371133_CanalVix_RokuHub_260x147_White.png" tvg-chno="977" , Canal ViX
+#EXTINF:-1 channel-id="roku-e3823bb513585861904499a21a736c4f" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/e3823bb513585861904499a21a736c4f/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1704751371133_CanalVix_RokuHub_260x147_White.png" tvg-chno="977" group-title="Drama",Canal ViX
 https://i.mjh.nz/Roku/e3823bb513585861904499a21a736c4f.m3u8
+
+
 
 
 
