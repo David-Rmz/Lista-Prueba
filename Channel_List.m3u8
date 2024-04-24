@@ -12,10 +12,10 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:-1 tvg-id="Foro.mx" tvg-chno="2.2" tvg-logo="https://images.vix.com/prd/channel/6227cb54ed9b675b3a7689ef/802829316a4a153748139bfb1aad9254" group-title="News",Foro TV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 
-#EXTINF:-1 tvg-chno="2.3" tvg-logo="https://i.imgur.com/XYBB7xq.png" group-title="",Panamericana TV PE
+#EXTINF:-1 tvg-chno="2.3" tvg-logo="https://i.imgur.com/XYBB7xq.png" group-title="Entertainment",Panamericana TV PE
 https://cdnhd.iblups.com/hls/ptv5.m3u8
 
-#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-chno="3.1" tvg-logo="https://i.imgur.com/lKrRvtS.png" group-title="Entertainment",Imagen TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-chno="3.1" tvg-logo="https://i.imgur.com/XQs2vAc.png" group-title="Entertainment",Imagen TV
 https://ythls.armelin.one/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
 
 #EXTINF:-1 tvg-id="TVCuatro41.mx" tvg-chno="4.1" tvg-logo="https://www.tvcuatro.com/images/logo-menu.png" group-title="Education",Canal 4.1
@@ -75,7 +75,7 @@ https://5ca3e84a76d30.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m
 #EXTINF:-1 tvg-id="XEIPNTDT.mx" tvg-chno="11.1" tvg-logo="https://canaloncetv.s3.us-east-1.amazonaws.com/REST/data/images/logo-menu.webp" group-title="Education",Canal Once
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/.m3u8
 
-#EXTINF:-1 tvg-chno="12" tvg-logo="https://i.imgur.com/Gb995I6.png" group-title="New",Canal 24 Horas ES
+#EXTINF:-1 tvg-chno="12" tvg-logo="https://i.imgur.com/Gb995I6.png" group-title="News",Canal 24 Horas ES
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
 #EXTINF:-1 tvg-chno="14" tvg-logo="https://i.imgur.com/SosxUV4.png" group-title="Family/Kids",Clan ES
@@ -88,7 +88,7 @@ https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
 https://s5.mexside.net:1936/enlinea/enlinea/chunklist_w882957131.m3u8
 
 #EXTINF:-1 tvg-id="Capital21.mx" tvg-chno="21.1" tvg-logo="https://www.capital21.cdmx.gob.mx/clasificados/assets/img/logo%20coraz%C3%B3n%20de%20la%20capital.png" group-title="Entertainment",Capital 21
-https://video.cdmx.gob.mx/redes/stream.m3u8
+https://video.cdmx.gob.mx/debatechilango/stream.m3u8 
 
 #EXTINF:-1 tvg-chno="22.1" tvg-logo="https://i.imgur.com/LvNqgJO.png" group-title="Entertainment",Canal 22
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
@@ -165,17 +165,11 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-angermngmtesp
 #EXTINF:-1 tvg-id="CineSony.us" tvg-chno="373" tvg-logo="https://i.imgur.com/cQqOyjo.png" group-title="Movies",Cine Sony
 https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
 
-#EXTINF:-1 channel-id="roku-498b53f6f63455bbba27754ceb5fcefc" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/498b53f6f63455bbba27754ceb5fcefc/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673905008826_Sonic_the_Hedgehog_HUD_Logo_260x147_Monochromatic.png" tvg-chno="431" group-title="Family/Kids",Sonic The Hedgehog
-https://i.mjh.nz/Roku/498b53f6f63455bbba27754ceb5fcefc.m3u8
-
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-chno="456" tvg-logo="https://i.imgur.com/YHQ3x4I.png" group-title="News",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #EXTINF:-1 tvg-chno="514" tvg-logo="https://i.imgur.com/RxOK0Cg.png" group-title="Family/Kids",TG en Español
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
-
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-645d848363c2c64203aa48fc" tvg-id="5e20b730f2f8d5003d739db7-645d848363c2c64203aa48fc" tvg-chno="507" tvg-logo="https://i.imgur.com/X7NKSAf.png" group-title="Movies",Cine Premium Plus
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-645d848363c2c64203aa48fc.m3u8
 
 #EXTINF:-1 tvg-chno="635" tvg-logo="https://i.imgur.com/ZLa5fe7.png" group-title="Family/Kids",MoodBug Kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3365
@@ -193,7 +187,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 
 #EXTINF:-1 tvg-id="" tvg-chno="703" tvg-logo="https://i.imgur.com/q9GtmVd.png" group-title="Entertainment",BH TV (Perú)
-https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/.m3u8
+https://vdo.grupolimalive.com:3762/live/bhtvlive.m3u8
 
 #EXTINF:-1 tvg-id="nmas.com.mx" tvg-chno="710" tvg-logo="https://images.vix.com/prd/channel/62265c89ed9b67ef3762225b/78969543cb7e397d4c545cb9e6a70a84?tr=q-80&w=1440" group-title="News",N+Media
 https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
@@ -225,7 +219,7 @@ https://12b71fa80adc4f3ca71526d9a77d5b00.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 channel-id="roku-8171c38c1c625b5890423572b3fc9fbe" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/8171c38c1c625b5890423572b3fc9fbe/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1659571592459_HUD_logo_260x147_centered.png" tvg-chno="994" group-title="Movies",MyTime (en Espanol)
 https://i.mjh.nz/Roku/8171c38c1c625b5890423572b3fc9fbe.m3u8
 
-#EXTINF:-1 channel-id="roku-7dea4ba9ecfb572c9380690e6bfb384a" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/7dea4ba9ecfb572c9380690e6bfb384a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1707765052046_FREETV_Drama_260x147.png" tvg-chno="1008",FreeTV Drama
+#EXTINF:-1 channel-id="roku-7dea4ba9ecfb572c9380690e6bfb384a" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/7dea4ba9ecfb572c9380690e6bfb384a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1707765052046_FREETV_Drama_260x147.png" tvg-chno="1008" group-title="Drama",FreeTV Drama
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8?player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120
 
 #EXTINF:-1 channel-id="roku-59d2dbddc997559bb7b689a7c887cba4" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/59d2dbddc997559bb7b689a7c887cba4/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1707769538137_FreeTVSureno260x147.png" tvg-chno="1015",FreeTV Sureño
@@ -252,7 +246,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-ono/playlist
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60240f58676235002df19f4b" tvg-id="5e20b730f2f8d5003d739db7-60240f58676235002df19f4b" tvg-chno="1078" tvg-logo="https://i.imgur.com/efmzhrg.png" group-title="Movies",FreeTV Acción
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-topcine-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=yA8aFZC94-Az2RAPHMpT&channelId=60240f58676235002df19f4b&device_id_type=&ifa_type=ppid&url=app.plex.tv&app_name=plex&app_bundle=com.plexapp.android&app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&gdpr=0&gdpr_consent=0&coppa=0&ua=okhttp%2F4.9.0&ip=185.236.200.172&brand_name=&device_model=&device_type=handset&w=&h=&partner_id=SINFIL1S4E5_bc
 
-#EXTINF:-1 channel-id="roku-b1ad1b681f5d5b2eb071445b284336ff" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/b1ad1b681f5d5b2eb071445b284336ff/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1707756285924_FREETV_Banda_260x147.png" tvg-chno="1090",FreeTV Banda
+#EXTINF:-1 channel-id="roku-b1ad1b681f5d5b2eb071445b284336ff" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/b1ad1b681f5d5b2eb071445b284336ff/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1707756285924_FREETV_Banda_260x147.png" tvg-chno="1090" group-title="Music",FreeTV Banda
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmcfreetv-ono/playlist.m3u8?player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6018913ea15130002b284195" tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b284195" tvg-chno="1094" tvg-logo="https://i.imgur.com/2UjcKEO.png" group-title="Education",FreeTV Saber Más
@@ -420,9 +414,6 @@ https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-chno="4837" tvg-logo="https://i.imgur.com/xi7gOkS.png" group-title="Entertainment",Univision
 https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="6111" tvg-logo="https://i.imgur.com/nBWkCt0.png" group-title="Drama",TODO Drama
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=6111
-
 #EXTINF:-1 tvg-chno="6149" tvg-logo="https://i.imgur.com/jReFHDs.png" group-title="Entertainment",Imagen TV+
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 
@@ -468,6 +459,11 @@ https://livestreamhd.us:8077/teleprogreso/live/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-logo="" group-title="",Oromar TV EC
 https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 
+#EXTINF:-1 channel-id="roku-34beeb8efcb656f08d91298bb94e1815" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/34beeb8efcb656f08d91298bb94e1815/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1709832111326_Logo_wapaplus_260x147px_dark_29feb_marketing_HMTV.png" tvg-chno="913" , WAPA+
+https://i.mjh.nz/Roku/34beeb8efcb656f08d91298bb94e1815.m3u8
+
+#EXTINF:-1 channel-id="roku-e3823bb513585861904499a21a736c4f" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/e3823bb513585861904499a21a736c4f/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1704751371133_CanalVix_RokuHub_260x147_White.png" tvg-chno="977" , Canal ViX
+https://i.mjh.nz/Roku/e3823bb513585861904499a21a736c4f.m3u8
 
 
 
