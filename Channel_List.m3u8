@@ -120,10 +120,10 @@ https://edgeplay.canaldelcongreso.gob.mx/live_sd2/smil:canal-sd2.smil/playlist.m
 #EXTINF:-1 tvg-id="CanaldelCongreso453.mx" tvg-chno="45.3" tvg-logo="https://i.imgur.com/m1PXvs4.png" group-title="Education",Canal del Congreso México 45.3
 https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6018913ea15130002b28418f" tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b28418f" tvg-chno="53" tvg-logo="https://i.imgur.com/yLGw9tc.png" group-title="Entertainment",FreeTV Live [Fast]
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6018913ea15130002b28418f" tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b28418f" tvg-chno="53" tvg-logo="https://i.imgur.com/yLGw9tc.png" group-title="Entertainment",FreeTV Live [FAST]
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8?url=&genre=&ic=&us_privacy=1YNY&coppa=1&user_id=&ip=&ipv6=&c_duration=3600&c_producer=chiquilines&c_rating=TV-G&c_lang=es&ua=&hls_marker=1&content_channel=Chiquilines&content_title=&content_genre=&gdpr=0&player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120&terminate=true&sid=&deviceDNT=0&advertisingId=&deviceLat=0&deviceLon=0&deviceModel=&deviceVersion=&embedPartner=freetv&serverSideAds=true&appName=freetv&deviceId=&appVersion=&deviceType=&deviceMake=&includeDeviceUA=true
 
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-644c446d7472b186783f359e" tvg-id="5e20b730f2f8d5003d739db7-644c446d7472b186783f359e" tvg-chno="54" tvg-logo="https://provider-static.plex.tv/epg/cms/production/afe5cd54-0d6d-4b60-a4df-91a8d7ac7960/TodoCine_-_White_Fernando_Fraderdx.png" group-title="Movies",Todo Cine [Fast]
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-644c446d7472b186783f359e" tvg-id="5e20b730f2f8d5003d739db7-644c446d7472b186783f359e" tvg-chno="54" tvg-logo="https://provider-static.plex.tv/epg/cms/production/afe5cd54-0d6d-4b60-a4df-91a8d7ac7960/TodoCine_-_White_Fernando_Fraderdx.png" group-title="Movies",Todo Cine [FAST]
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-644c446d7472b186783f359e.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-chno="57" tvg-logo="https://i.imgur.com/fq2ytSV.png" group-title="Entertainment",Canal 57 US
@@ -132,34 +132,34 @@ https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca5029201
 #EXTINF:-1 tvg-chno="85" tvg-logo="https://i.imgur.com/kQgmAmS.png" group-title="Entertainment",Canal 13
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6323ac0f8f253768c26b5529" tvg-id="5e20b730f2f8d5003d739db7-6323ac0f8f253768c26b5529" tvg-chno="103" tvg-logo="https://i.imgur.com/nDk7kzC.png" group-title="Movies",FLOU Cine [Fast]
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6323ac0f8f253768c26b5529" tvg-id="5e20b730f2f8d5003d739db7-6323ac0f8f253768c26b5529" tvg-chno="103" tvg-logo="https://i.imgur.com/nDk7kzC.png" group-title="Movies",FLOU Cine [FAST]
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6323ac0f8f253768c26b5529.m3u8
 
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-63adf8eff3d69d1885731c06" tvg-id="5e20b730f2f8d5003d739db7-63adf8eff3d69d1885731c06" tvg-chno="104" tvg-logo="https://i.imgur.com/RQorT8t.png" group-title="Entertainment",FLOU Caribeño [Fast]
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-63adf8eff3d69d1885731c06" tvg-id="5e20b730f2f8d5003d739db7-63adf8eff3d69d1885731c06" tvg-chno="104" tvg-logo="https://i.imgur.com/RQorT8t.png" group-title="Entertainment",FLOU Caribeño [FAST]
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-63adf8eff3d69d1885731c06.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-chno="156" tvg-logo="https://i.imgur.com/AMbVuUx.png" group-title="Entertainment",MVS TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-626c288e54f3232400a45f35" tvg-id="5e20b730f2f8d5003d739db7-626c288e54f3232400a45f35" tvg-chno="201" tvg-logo="https://i.imgur.com/HblNBMa.png" group-title="News",MegaNoticias [Fast]
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-626c288e54f3232400a45f35" tvg-id="5e20b730f2f8d5003d739db7-626c288e54f3232400a45f35" tvg-chno="201" tvg-logo="https://i.imgur.com/HblNBMa.png" group-title="News",MegaNoticias [FAST]
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-626c288e54f3232400a45f35.m3u8
 
 #EXTINF:-1 tvg-chno="207" tvg-logo="https://i.imgur.com/Lqt4vRp.png" group-title="Entertainment",Ecuavisa EC
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo/.m3u8
 
-#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-639ba57d3f4612cc150a5723" tvg-id="608049aefa2b8ae93c2c3a63-639ba57d3f4612cc150a5723" tvg-chno="237" tvg-logo="https://i.imgur.com/aUuNBNH.png" group-title="Family/Kids",Pitufo TV [Fast]
+#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-639ba57d3f4612cc150a5723" tvg-id="608049aefa2b8ae93c2c3a63-639ba57d3f4612cc150a5723" tvg-chno="237" tvg-logo="https://i.imgur.com/aUuNBNH.png" group-title="Family/Kids",Pitufo TV [FAST]
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-639ba57d3f4612cc150a5723.m3u8
 
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6244f2d33ef43121e567cf13" tvg-id="5e20b730f2f8d5003d739db7-6244f2d33ef43121e567cf13" tvg-chno="251" tvg-logo="https://i.imgur.com/jgUvZqU.png" group-title="Entertainment",RCN Más [Fast]
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6244f2d33ef43121e567cf13" tvg-id="5e20b730f2f8d5003d739db7-6244f2d33ef43121e567cf13" tvg-chno="251" tvg-logo="https://i.imgur.com/jgUvZqU.png" group-title="Entertainment",RCN Más [FAST]
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-64878a0108027d895721403b" tvg-id="5e20b730f2f8d5003d739db7-64878a0108027d895721403b" tvg-chno="262" tvg-logo="https://i.imgur.com/qjvr6Di.png" group-title="Entertainment",Nuestra Visión
 https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 
-#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-62ba4aaff663580a7238f327" tvg-id="608049aefa2b8ae93c2c3a63-62ba4aaff663580a7238f327" tvg-chno="284" tvg-logo="https://i.imgur.com/T4elwSs.png" group-title="Family/Kids",Sonic TV [Fast]
+#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-62ba4aaff663580a7238f327" tvg-id="608049aefa2b8ae93c2c3a63-62ba4aaff663580a7238f327" tvg-chno="284" tvg-logo="https://i.imgur.com/T4elwSs.png" group-title="Family/Kids",Sonic TV [FAST]
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62ba4aaff663580a7238f327.m3u8
 
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-64149ba2d02609d8a7127ee8" tvg-id="5e20b730f2f8d5003d739db7-64149ba2d02609d8a7127ee8" tvg-chno="353" tvg-logo="https://i.imgur.com/qsnps4m.png" group-title="Entertainment",Anger Managment [Fast]
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-64149ba2d02609d8a7127ee8" tvg-id="5e20b730f2f8d5003d739db7-64149ba2d02609d8a7127ee8" tvg-chno="353" tvg-logo="https://i.imgur.com/qsnps4m.png" group-title="Entertainment",Anger Managment [FAST]
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-angermngmtespanol-runtimelatam/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CineSony.us" tvg-chno="373" tvg-logo="https://i.imgur.com/cQqOyjo.png" group-title="Movies",Cine Sony
@@ -168,22 +168,22 @@ https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-chno="456" tvg-logo="https://i.imgur.com/YHQ3x4I.png" group-title="News",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 tvg-chno="514" tvg-logo="https://i.imgur.com/RxOK0Cg.png" group-title="Family/Kids",TG en Español [Fast]
+#EXTINF:-1 tvg-chno="514" tvg-logo="https://i.imgur.com/RxOK0Cg.png" group-title="Family/Kids",TG en Español [FAST]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
 
-#EXTINF:-1 tvg-chno="635" tvg-logo="https://i.imgur.com/ZLa5fe7.png" group-title="Family/Kids",MoodBug Kids [Fast]
+#EXTINF:-1 tvg-chno="635" tvg-logo="https://i.imgur.com/ZLa5fe7.png" group-title="Family/Kids",MoodBug Kids [FAST]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3365
 
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-64fba469bb3e0baa5dcc0947" tvg-id="5e20b730f2f8d5003d739db7-64fba469bb3e0baa5dcc0947" tvg-chno="652" tvg-logo="https://i.imgur.com/YVZkxsB.png" group-title="Movies",Canela Clásicos [Fast]
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-64fba469bb3e0baa5dcc0947" tvg-id="5e20b730f2f8d5003d739db7-64fba469bb3e0baa5dcc0947" tvg-chno="652" tvg-logo="https://i.imgur.com/YVZkxsB.png" group-title="Movies",Canela Clásicos [FAST]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 
-#EXTINF:-1 tvg-chno="653" tvg-logo="https://i.imgur.com/uhKCuSg.png" group-title="Entertainment",Canela.TV (Canela TV) [Fast]
+#EXTINF:-1 tvg-chno="653" tvg-logo="https://i.imgur.com/uhKCuSg.png" group-title="Entertainment",Canela.TV (Canela TV) [FAST]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=653
 
-#EXTINF:-1 tvg-chno="654" tvg-logo="https://i.imgur.com/6Ip2LqF.png" group-title="Family/Kids",Canela Kids [Fast]
+#EXTINF:-1 tvg-chno="654" tvg-logo="https://i.imgur.com/6Ip2LqF.png" group-title="Family/Kids",Canela Kids [FAST]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 
-#EXTINF:-1 tvg-chno="656" tvg-logo="https://i.imgur.com/BdRJjTG.png" group-title="Movies",Cine Romántico (Canela TV) [Fast]
+#EXTINF:-1 tvg-chno="656" tvg-logo="https://i.imgur.com/BdRJjTG.png" group-title="Movies",Cine Romántico (Canela TV) [FAST]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 
 #EXTINF:-1 tvg-id="" tvg-chno="703" tvg-logo="https://i.imgur.com/q9GtmVd.png" group-title="Entertainment",BH TV PE
@@ -198,16 +198,16 @@ https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
 #EXTINF:-1 tvg-id="nmas.com.mx" tvg-chno="716" tvg-logo="https://images.vix.com/prd/channel/647e30045b33acdfbbefd676/8a385d44b3504ff807520cb465370821?tr=q-80&w=1440" group-title="News",N+ MTY
 https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index.m3u8
 
-#EXTINF:-1 channel-id="roku-307b3b9ea321539b9688148fc97a8bfd" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/307b3b9ea321539b9688148fc97a8bfd/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1694207383202_RokuImage-HUD-2_260x147px_Wil_Rosser.png" tvg-chno="778"  group-title="Entertainment",Crunchyroll [Fast]
+#EXTINF:-1 channel-id="roku-307b3b9ea321539b9688148fc97a8bfd" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/307b3b9ea321539b9688148fc97a8bfd/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1694207383202_RokuImage-HUD-2_260x147px_Wil_Rosser.png" tvg-chno="778"  group-title="Entertainment",Crunchyroll [FAST]
 https://i.mjh.nz/Roku/307b3b9ea321539b9688148fc97a8bfd.m3u8
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-627121c4210f4a174062e5c5" tvg-id="5e20b730f2f8d5003d739db7-627121c4210f4a174062e5c5" tvg-chno="902" tvg-logo="https://i.imgur.com/nU9OP2b.png" group-title="News",The Weather Channel en Español
 https://linear-431.frequency.stream/mt/plex/431/hls/master/playlist.m3u8
 
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c18" tvg-id="5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c18" tvg-chno="908" tvg-logo="https://i.imgur.com/uhKCuSg.png" group-title="Entertainment",Canela.TV (Plex) [Fast]
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c18" tvg-id="5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c18" tvg-chno="908" tvg-logo="https://i.imgur.com/uhKCuSg.png" group-title="Entertainment",Canela.TV (Plex) [FAST]
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=yA8aFZC94-Az2RAPHMpT&content_series=5f5132e362fe160040f26c18&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=yA8aFZC94-Az2RAPHMpT&custom_7=5f5132e362fe160040f26c18&is_lat=0
 
-#EXTINF:-1 tvg-chno="919" tvg-logo="https://i.imgur.com/KemxtbM.png" group-title="Family/Kids",ZAZ [Fast]
+#EXTINF:-1 tvg-chno="919" tvg-logo="https://i.imgur.com/KemxtbM.png" group-title="Family/Kids",ZAZ [FAST]
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2369
 
 #EXTINF:-1 tvg-chno="922" tvg-logo="https://i.imgur.com/m9LqHG1.png" group-title="Education",Inti TV EC
@@ -216,40 +216,40 @@ https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8
 #EXTINF:-1 tvg-chno="924" tvg-logo="https://i.imgur.com/DsnwPu6.png" group-title="Education",Inti Pacha TV
 https://12b71fa80adc4f3ca71526d9a77d5b00.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_INTIPACHA/playlist.m3u8?ads.wurl_channel=992&ads.wurl_name=INTIPACHA&ads.coppa=0&ads.app_bundle=&ads.app_name=&ads.app_store_url=&ads.did=&ads.ifa_type=&ads.dnt=0&ads.device_make=&ads.device_model=&ads.device_type=&ads.cust_devicename=desktop_web&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F108.0.0.0%20Safari%2F537.36%20Edg%2F108.0.1462.54&ads.content_id=62717545f472bc7015257d8b&ads.content_title=EPG-INTI_PACHA_TV&ads.cust_channeltype=Shows&ads.content_genre=En%20Espanol&ads.content_provider=inti-pacha-tv&ads.us_privacy=&lastUpdatedAt=1672253387&ads.adc_token=QkdCQkNKSEFCREdNbDAoZHNOVFQxLjtXNjt4NClBaTYoVCxsa2VHaylDMDBTLzZFMDQ
 
-#EXTINF:-1 channel-id="roku-8171c38c1c625b5890423572b3fc9fbe" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/8171c38c1c625b5890423572b3fc9fbe/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1659571592459_HUD_logo_260x147_centered.png" tvg-chno="994" group-title="Movies",MyTime [Fast]
+#EXTINF:-1 channel-id="roku-8171c38c1c625b5890423572b3fc9fbe" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/8171c38c1c625b5890423572b3fc9fbe/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1659571592459_HUD_logo_260x147_centered.png" tvg-chno="994" group-title="Movies",MyTime [FAST]
 https://i.mjh.nz/Roku/8171c38c1c625b5890423572b3fc9fbe.m3u8
 
-#EXTINF:-1 channel-id="roku-7dea4ba9ecfb572c9380690e6bfb384a" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/7dea4ba9ecfb572c9380690e6bfb384a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1707765052046_FREETV_Drama_260x147.png" tvg-chno="1008" group-title="Drama",FreeTV Drama [Fast]
+#EXTINF:-1 channel-id="roku-7dea4ba9ecfb572c9380690e6bfb384a" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/7dea4ba9ecfb572c9380690e6bfb384a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1707765052046_FREETV_Drama_260x147.png" tvg-chno="1008" group-title="Drama",FreeTV Drama [FAST]
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8?player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120
 
-#EXTINF:-1 channel-id="roku-59d2dbddc997559bb7b689a7c887cba4" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/59d2dbddc997559bb7b689a7c887cba4/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1707769538137_FreeTVSureno260x147.png" tvg-chno="1015",FreeTV Sureño [Fast]
+#EXTINF:-1 channel-id="roku-59d2dbddc997559bb7b689a7c887cba4" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/59d2dbddc997559bb7b689a7c887cba4/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1707769538137_FreeTVSureno260x147.png" tvg-chno="1015" group-title="Movies",FreeTV Sureño [FAST]
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-ono/playlist.m3u8?player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120
 
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6018913ea15130002b284191" tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b284191" tvg-chno="1016" tvg-logo="https://i.imgur.com/fbgFXIp.png" group-title="Music",FreeTV Hits [Fast]
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6018913ea15130002b284191" tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b284191" tvg-chno="1016" tvg-logo="https://i.imgur.com/fbgFXIp.png" group-title="Music",FreeTV Hits [FAST]
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/playlist.m3u8?player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120
 
-#EXTINF:-1 channel-id="roku-50cd4d6c632d5172834eb5b77fa395c6" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/50cd4d6c632d5172834eb5b77fa395c6/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1659744349180_FMXCHD_HUD_WHITE.png" tvg-chno="1033" group-title="Movies",FILMEX Clásico [Fast]
+#EXTINF:-1 channel-id="roku-50cd4d6c632d5172834eb5b77fa395c6" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/50cd4d6c632d5172834eb5b77fa395c6/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1659744349180_FMXCHD_HUD_WHITE.png" tvg-chno="1033" group-title="Movies",FILMEX Clásico [FAST]
 https://i.mjh.nz/Roku/50cd4d6c632d5172834eb5b77fa395c6.m3u8
 
-#EXTINF:-1 channel-id="roku-1e2a4ec82eb65f729ad7484337c0bcd4" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/1e2a4ec82eb65f729ad7484337c0bcd4/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1659744073738_FMXHD_HUD_WHITE.png" tvg-chno="1034" group-title="Movies",FILMEX [Fast]
+#EXTINF:-1 channel-id="roku-1e2a4ec82eb65f729ad7484337c0bcd4" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/1e2a4ec82eb65f729ad7484337c0bcd4/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1659744073738_FMXHD_HUD_WHITE.png" tvg-chno="1034" group-title="Movies",FILMEX [FAST]
 https://i.mjh.nz/Roku/1e2a4ec82eb65f729ad7484337c0bcd4.m3u8
 
-#EXTINF:-1 channel-id="roku-5dbf591219b15aa8bb3a7b73b59307f0" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/5dbf591219b15aa8bb3a7b73b59307f0/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1657834856300_center-HUD-260x147.png" tvg-chno="1035" group-title="Movies",Cine EstrellaTV [Fast]
+#EXTINF:-1 channel-id="roku-5dbf591219b15aa8bb3a7b73b59307f0" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/5dbf591219b15aa8bb3a7b73b59307f0/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1657834856300_center-HUD-260x147.png" tvg-chno="1035" group-title="Movies",Cine EstrellaTV [FAST]
 https://i.mjh.nz/Roku/5dbf591219b15aa8bb3a7b73b59307f0.m3u8
 
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-617afafd7ab406f93af02607" tvg-id="5e20b730f2f8d5003d739db7-617afafd7ab406f93af02607" tvg-chno="1052" tvg-logo="https://i.imgur.com/1M1bFug.png" group-title="Entertainment",FreeTV Horror [Fast]
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-617afafd7ab406f93af02607" tvg-id="5e20b730f2f8d5003d739db7-617afafd7ab406f93af02607" tvg-chno="1052" tvg-logo="https://i.imgur.com/1M1bFug.png" group-title="Entertainment",FreeTV Horror [FAST]
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playlist.m3u8?player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120
 
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60240f57676235002df19f49" tvg-id="5e20b730f2f8d5003d739db7-60240f57676235002df19f49" tvg-chno="1069" tvg-logo="https://i.imgur.com/KtiBxAZ.png" group-title="Entertainment",FreeTV Familia [Fast]
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60240f57676235002df19f49" tvg-id="5e20b730f2f8d5003d739db7-60240f57676235002df19f49" tvg-chno="1069" tvg-logo="https://i.imgur.com/KtiBxAZ.png" group-title="Entertainment",FreeTV Familia [FAST]
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-ono/playlist.m3u8?player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120
 
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60240f58676235002df19f4b" tvg-id="5e20b730f2f8d5003d739db7-60240f58676235002df19f4b" tvg-chno="1078" tvg-logo="https://i.imgur.com/efmzhrg.png" group-title="Movies",FreeTV Acción [Fast]
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60240f58676235002df19f4b" tvg-id="5e20b730f2f8d5003d739db7-60240f58676235002df19f4b" tvg-chno="1078" tvg-logo="https://i.imgur.com/efmzhrg.png" group-title="Movies",FreeTV Acción [FAST]
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-topcine-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=yA8aFZC94-Az2RAPHMpT&channelId=60240f58676235002df19f4b&device_id_type=&ifa_type=ppid&url=app.plex.tv&app_name=plex&app_bundle=com.plexapp.android&app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&gdpr=0&gdpr_consent=0&coppa=0&ua=okhttp%2F4.9.0&ip=185.236.200.172&brand_name=&device_model=&device_type=handset&w=&h=&partner_id=SINFIL1S4E5_bc
 
-#EXTINF:-1 channel-id="roku-b1ad1b681f5d5b2eb071445b284336ff" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/b1ad1b681f5d5b2eb071445b284336ff/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1707756285924_FREETV_Banda_260x147.png" tvg-chno="1090" group-title="Music",FreeTV Banda [Fast]
+#EXTINF:-1 channel-id="roku-b1ad1b681f5d5b2eb071445b284336ff" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/b1ad1b681f5d5b2eb071445b284336ff/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1707756285924_FREETV_Banda_260x147.png" tvg-chno="1090" group-title="Music",FreeTV Banda [FAST]
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmcfreetv-ono/playlist.m3u8?player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120
 
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6018913ea15130002b284195" tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b284195" tvg-chno="1094" tvg-logo="https://i.imgur.com/2UjcKEO.png" group-title="Education",FreeTV Saber Más [Fast]
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6018913ea15130002b284195" tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b284195" tvg-chno="1094" tvg-logo="https://i.imgur.com/2UjcKEO.png" group-title="Education",FreeTV Saber Más [FAST]
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playlist.m3u8?player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120
 
 #EXTINF:-1 tvg-chno="1103" tvg-logo="https://i.imgur.com/HoZ3XUn.png" group-title="Entertainment",Canal 5
@@ -282,127 +282,127 @@ https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
 #EXTINF:-1 tvg-chno="1126" tvg-logo="https://i.imgur.com/IfLJb6A.png" group-title="Entertainment",BitMe
 https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="1152" tvg-logo="https://i.imgur.com/v8GETlI.png" group-title="Entertainment",Canela Telenovelas [Fast]
+#EXTINF:-1 tvg-chno="1152" tvg-logo="https://i.imgur.com/v8GETlI.png" group-title="Entertainment",Canela Telenovelas [FAST]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
 
-#EXTINF:-1 tvg-chno="1170" tvg-logo="https://i.imgur.com/uR60foW.png" group-title="Entertainment",RCN Xtra [Fast]
+#EXTINF:-1 tvg-chno="1170" tvg-logo="https://i.imgur.com/uR60foW.png" group-title="Entertainment",RCN Xtra [FAST]
 https://df4ac36b116646748d613407d93f79aa.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_RCNXtra/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="1184" tvg-logo="https://i.imgur.com/VV8HnbO.png" group-title="Movies",PELIMEX
 https://5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_PeliMex/playlist.m3u8
 
-#EXTINF:-1 channel-id="samsung-USBB3200016HO" tvg-id="USBB3200016HO" tvg-chno="1253" tvg-logo="https://i.imgur.com/b7aqaV6.png" group-title="News",Telemundo Al Día [Fast]
+#EXTINF:-1 channel-id="samsung-USBB3200016HO" tvg-id="USBB3200016HO" tvg-chno="1253" tvg-logo="https://i.imgur.com/b7aqaV6.png" group-title="News",Telemundo Al Día [FAST]
 https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_telemundoaldia_001.m3u8?ads.caid=TelemundoAlDia&ads.csid=samsungtvplus_us_telemundoaldia_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2561&ads.xumo_contentName=TelemundoAlDia&ads.xumo_providerId=2561&ads.xumo_providerName=TelemundoAlDia&ads.xumo_channelId=9999544&ads.xumo_channelName=Telemundoaldia&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
 
-#EXTINF:-1 channel-id="samsung-USBD1700016X9" tvg-id="USBD1700016X9" tvg-chno="1254" tvg-logo="https://i.imgur.com/dx8Nmh3.png" group-title="Sports",Zona TUDN [Fast]
+#EXTINF:-1 channel-id="samsung-USBD1700016X9" tvg-id="USBD1700016X9" tvg-chno="1254" tvg-logo="https://i.imgur.com/dx8Nmh3.png" group-title="Sports",Zona TUDN [FAST]
 https://dc0yy1cy2mqs1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cmi4c1ko7cgug/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
-#EXTINF:-1 channel-id="samsung-USBC10000223W" tvg-id="USBC10000223W" tvg-chno="1257" tvg-logo="https://i.imgur.com/igrmoDD.png" group-title="News",CNN RESUMEN [Fast]
+#EXTINF:-1 channel-id="samsung-USBC10000223W" tvg-id="USBC10000223W" tvg-chno="1257" tvg-logo="https://i.imgur.com/igrmoDD.png" group-title="News",CNN RESUMEN [FAST]
 https://dsuub0ebctcrw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4x428uikrca62-prod/dist/samsungtv/358/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-#EXTINF:-1 channel-id="samsung-USBC24000145I" tvg-id="USBC24000145I" tvg-chno="1260" tvg-logo="https://i.imgur.com/aLYCLY5.png" group-title="Entertainment",Estrella Games [Fast]
+#EXTINF:-1 channel-id="samsung-USBC24000145I" tvg-id="USBC24000145I" tvg-chno="1260" tvg-logo="https://i.imgur.com/aLYCLY5.png" group-title="Entertainment",Estrella Games [FAST]
 https://pubads.g.doubleclick.net/ssai/event/QgzLP09xRdOZX2prvHHN4g/master.m3u8
 
-#EXTINF:-1 channel-id="samsung-USAJ3504719A" tvg-id="USAJ3504719A" tvg-chno="1261" tvg-logo="https://i.imgur.com/pfTIu3M.png" group-title="Entertainment",Sony One Competencias [Fast]
+#EXTINF:-1 channel-id="samsung-USAJ3504719A" tvg-id="USAJ3504719A" tvg-chno="1261" tvg-logo="https://i.imgur.com/pfTIu3M.png" group-title="Entertainment",Sony One Competencias [FAST]
 https://i.mjh.nz/SamsungTVPlus/USAJ3504719A.m3u8
 
-#EXTINF:-1 channel-id="samsung-USAJ22000057N" tvg-id="USAJ22000057N" tvg-chno="1262" tvg-logo="https://i.imgur.com/Rp9ywkx.png" group-title="Comedy",Sony One Comedias [Fast]
+#EXTINF:-1 channel-id="samsung-USAJ22000057N" tvg-id="USAJ22000057N" tvg-chno="1262" tvg-logo="https://i.imgur.com/Rp9ywkx.png" group-title="Comedy",Sony One Comedias [FAST]
 https://d05f9c4e535042b78e6de94ef5548e4a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalComedias-2/playlist.m3u8?ads.wurl_channel=1448&ads.wurl_name=SonyCanalComedias-2&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-#EXTINF:-1 channel-id="samsung-USAJ3000002OC" tvg-id="USAJ3000002OC" tvg-chno="1263" tvg-logo="https://i.imgur.com/ZZr0lPk.png" group-title="Entertainment",Sony One Novelas [Fast]
+#EXTINF:-1 channel-id="samsung-USAJ3000002OC" tvg-id="USAJ3000002OC" tvg-chno="1263" tvg-logo="https://i.imgur.com/ZZr0lPk.png" group-title="Entertainment",Sony One Novelas [FAST]
 https://i.mjh.nz/SamsungTVPlus/USAJ3000002OC.m3u8
 
-#EXTINF:-1 channel-id="samsung-USAJ1700009QJ" tvg-id="USAJ1700009QJ" tvg-chno="1270" tvg-logo="https://i.imgur.com/c0GdM2Q.png" group-title="Movies",FreeTV Estelar [Fast]
+#EXTINF:-1 channel-id="samsung-USAJ1700009QJ" tvg-id="USAJ1700009QJ" tvg-chno="1270" tvg-logo="https://i.imgur.com/c0GdM2Q.png" group-title="Movies",FreeTV Estelar [FAST]
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8
 
-#EXTINF:-1 channel-id="samsung-USBC39000080S" tvg-id="USBC39000080S" tvg-chno="1272" tvg-logo="https://i.imgur.com/uhKCuSg.png" group-title="Entertainment",Canela.TV (Samsung TV Plus) [Fast]
+#EXTINF:-1 channel-id="samsung-USBC39000080S" tvg-id="USBC39000080S" tvg-chno="1272" tvg-logo="https://i.imgur.com/uhKCuSg.png" group-title="Entertainment",Canela.TV (Samsung TV Plus) [FAST]
 https://i.mjh.nz/SamsungTVPlus/USBC39000080S.m3u8
 
-#EXTINF:-1 channel-id="samsung-USBA3800001E0" tvg-id="USBA3800001E0" tvg-chno="1283" tvg-logo="https://i.imgur.com/BdRJjTG.png" group-title="Movies",Cine Romantico (Samsung TV Plus) [Fast]
+#EXTINF:-1 channel-id="samsung-USBA3800001E0" tvg-id="USBA3800001E0" tvg-chno="1283" tvg-logo="https://i.imgur.com/BdRJjTG.png" group-title="Movies",Cine Romantico (Samsung TV Plus) [FAST]
 https://i.mjh.nz/SamsungTVPlus/USBA3800001E0.m3u8
 
-#EXTINF:-1 tvg-id="Novelisima.us" tvg-chno="2380" tvg-logo="https://i.imgur.com/Nhfp9LV.png" group-title="Entertainment",Novelisima [Fast]
+#EXTINF:-1 tvg-id="Novelisima.us" tvg-chno="2380" tvg-logo="https://i.imgur.com/Nhfp9LV.png" group-title="Entertainment",Novelisima [FAST]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 
-#EXTINF:-1 channel-id="pluto-5cf968040ab7d8f181e6a68b" tvg-id="5cf968040ab7d8f181e6a68b" tvg-chno="2650" tvg-logo="https://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/solidLogoPNG.png" group-title="Movies",Cine Premiere [Fast]
+#EXTINF:-1 channel-id="pluto-5cf968040ab7d8f181e6a68b" tvg-id="5cf968040ab7d8f181e6a68b" tvg-chno="2650" tvg-logo="https://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/solidLogoPNG.png" group-title="Movies",Cine Premiere [FAST]
 https://r.mjh.nz/PlutoTV/5cf968040ab7d8f181e6a68b-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-5cf96b1c4f1ca3f0629f4bf0" tvg-id="5cf96b1c4f1ca3f0629f4bf0" tvg-chno="2655" tvg-logo="https://images.pluto.tv/channels/5cf96b1c4f1ca3f0629f4bf0/solidLogoPNG.png" group-title="Movies",Séptimo arte [Fast]
+#EXTINF:-1 channel-id="pluto-5cf96b1c4f1ca3f0629f4bf0" tvg-id="5cf96b1c4f1ca3f0629f4bf0" tvg-chno="2655" tvg-logo="https://images.pluto.tv/channels/5cf96b1c4f1ca3f0629f4bf0/solidLogoPNG.png" group-title="Movies",Séptimo arte [FAST]
 https://r.mjh.nz/PlutoTV/5cf96b1c4f1ca3f0629f4bf0-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-60fb2f47c133270007327375" tvg-id="60fb2f47c133270007327375" tvg-chno="2660" tvg-logo="https://images.pluto.tv/channels/60fb2f47c133270007327375/solidLogoPNG.png" group-title="Movies",Pelis y Popcorn [Fast]
+#EXTINF:-1 channel-id="pluto-60fb2f47c133270007327375" tvg-id="60fb2f47c133270007327375" tvg-chno="2660" tvg-logo="https://images.pluto.tv/channels/60fb2f47c133270007327375/solidLogoPNG.png" group-title="Movies",Pelis y Popcorn [FAST]
 https://r.mjh.nz/PlutoTV/60fb2f47c133270007327375-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-5d8d164d92e97a5e107638d2" tvg-id="5d8d164d92e97a5e107638d2" tvg-chno="2665" tvg-logo="https://images.pluto.tv/channels/5d8d164d92e97a5e107638d2/solidLogoPNG.png" group-title="Movies",Cine adrenalina [Fast]
+#EXTINF:-1 channel-id="pluto-5d8d164d92e97a5e107638d2" tvg-id="5d8d164d92e97a5e107638d2" tvg-chno="2665" tvg-logo="https://images.pluto.tv/channels/5d8d164d92e97a5e107638d2/solidLogoPNG.png" group-title="Movies",Cine adrenalina [FAST]
 https://r.mjh.nz/PlutoTV/5d8d164d92e97a5e107638d2-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-5d8d180092e97a5e107638d3" tvg-id="5d8d180092e97a5e107638d3" tvg-chno="2670" tvg-logo="https://images.pluto.tv/channels/5d8d180092e97a5e107638d3/solidLogoPNG.png" group-title="Movies",Cine terror [Fast]
+#EXTINF:-1 channel-id="pluto-5d8d180092e97a5e107638d3" tvg-id="5d8d180092e97a5e107638d3" tvg-chno="2670" tvg-logo="https://images.pluto.tv/channels/5d8d180092e97a5e107638d3/solidLogoPNG.png" group-title="Movies",Cine terror [FAST]
 https://r.mjh.nz/PlutoTV/5d8d180092e97a5e107638d3-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-5f513564e4622a0007c578c0" tvg-id="5f513564e4622a0007c578c0" tvg-chno="2675" tvg-logo="https://images.pluto.tv/channels/5f513564e4622a0007c578c0/solidLogoPNG.png" group-title="Movies",Cine ¡¡jaja!! [Fast]
+#EXTINF:-1 channel-id="pluto-5f513564e4622a0007c578c0" tvg-id="5f513564e4622a0007c578c0" tvg-chno="2675" tvg-logo="https://images.pluto.tv/channels/5f513564e4622a0007c578c0/solidLogoPNG.png" group-title="Movies",Cine ¡¡jaja!! [FAST]
 https://r.mjh.nz/PlutoTV/5f513564e4622a0007c578c0-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-5f5136317aedfb0007016f93" tvg-id="5f5136317aedfb0007016f93" tvg-chno="2680" tvg-logo="https://images.pluto.tv/channels/5f5136317aedfb0007016f93/solidLogoPNG.png" group-title="Movies",Cine XOXO [Fast]
+#EXTINF:-1 channel-id="pluto-5f5136317aedfb0007016f93" tvg-id="5f5136317aedfb0007016f93" tvg-chno="2680" tvg-logo="https://images.pluto.tv/channels/5f5136317aedfb0007016f93/solidLogoPNG.png" group-title="Movies",Cine XOXO [FAST]
 https://r.mjh.nz/PlutoTV/5f5136317aedfb0007016f93-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-5cf96cc422df39f1a338d165" tvg-id="5cf96cc422df39f1a338d165" tvg-chno="2705" tvg-logo="https://images.pluto.tv/channels/5cf96cc422df39f1a338d165/solidLogoPNG.png" group-title="Entertainment",Telemundo telenovelas clásicas [Fast]
+#EXTINF:-1 channel-id="pluto-5cf96cc422df39f1a338d165" tvg-id="5cf96cc422df39f1a338d165" tvg-chno="2705" tvg-logo="https://images.pluto.tv/channels/5cf96cc422df39f1a338d165/solidLogoPNG.png" group-title="Entertainment",Telemundo telenovelas clásicas [FAST]
 https://r.mjh.nz/PlutoTV/5cf96cc422df39f1a338d165-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-5cf96d351652631e36d4331f" tvg-id="5cf96d351652631e36d4331f" tvg-chno="2845" tvg-logo="https://images.pluto.tv/channels/5ca672f515a62078d2ec0ad2/solidLogoPNG.png" group-title="Entertainment",MTV en español [Fast]
+#EXTINF:-1 channel-id="pluto-5cf96d351652631e36d4331f" tvg-id="5cf96d351652631e36d4331f" tvg-chno="2845" tvg-logo="https://images.pluto.tv/channels/5ca672f515a62078d2ec0ad2/solidLogoPNG.png" group-title="Entertainment",MTV en español [FAST]
 https://r.mjh.nz/PlutoTV/5cf96d351652631e36d4331f-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-5d8d11baeb31c5a43b77bf59" tvg-id="5d8d11baeb31c5a43b77bf59" tvg-chno="2855" tvg-logo="https://images.pluto.tv/channels/5d8d11baeb31c5a43b77bf59/colorLogoPNG-1620236333797.png" group-title="Entertainment",Spike ¡extremo! [Fast]
+#EXTINF:-1 channel-id="pluto-5d8d11baeb31c5a43b77bf59" tvg-id="5d8d11baeb31c5a43b77bf59" tvg-chno="2855" tvg-logo="https://images.pluto.tv/channels/5d8d11baeb31c5a43b77bf59/colorLogoPNG-1620236333797.png" group-title="Entertainment",Spike ¡extremo! [FAST]
 https://r.mjh.nz/PlutoTV/5d8d11baeb31c5a43b77bf59-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-5e82bb378601b80007b4bd78" tvg-id="5e82bb378601b80007b4bd78" tvg-chno="2880" tvg-logo="https://images.pluto.tv/channels/5e82bb378601b80007b4bd78/solidLogoPNG.png" group-title="Entertainment",The Walking Dead en español [Fast]
+#EXTINF:-1 channel-id="pluto-5e82bb378601b80007b4bd78" tvg-id="5e82bb378601b80007b4bd78" tvg-chno="2880" tvg-logo="https://images.pluto.tv/channels/5e82bb378601b80007b4bd78/solidLogoPNG.png" group-title="Entertainment",The Walking Dead en español [FAST]
 https://r.mjh.nz/PlutoTV/5e82bb378601b80007b4bd78-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-62fa81ccd1a7e90007c1ada0" tvg-id="62fa81ccd1a7e90007c1ada0" tvg-chno="2881" tvg-logo="https://images.pluto.tv/channels/62fa81ccd1a7e90007c1ada0/solidLogoPNG.png" group-title="Entertainment",AMC en Español [Fast]
+#EXTINF:-1 channel-id="pluto-62fa81ccd1a7e90007c1ada0" tvg-id="62fa81ccd1a7e90007c1ada0" tvg-chno="2881" tvg-logo="https://images.pluto.tv/channels/62fa81ccd1a7e90007c1ada0/solidLogoPNG.png" group-title="Entertainment",AMC en Español [FAST]
 https://r.mjh.nz/PlutoTV/62fa81ccd1a7e90007c1ada0-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-60fb3087fbbc120007fc46be" tvg-id="60fb3087fbbc120007fc46be" tvg-chno="2890" tvg-logo="https://images.pluto.tv/channels/60fb3087fbbc120007fc46be/solidLogoPNG.png" group-title="Entertainment",Series con Ñ [Fast]
+#EXTINF:-1 channel-id="pluto-60fb3087fbbc120007fc46be" tvg-id="60fb3087fbbc120007fc46be" tvg-chno="2890" tvg-logo="https://images.pluto.tv/channels/60fb3087fbbc120007fc46be/solidLogoPNG.png" group-title="Entertainment",Series con Ñ [FAST]
 https://r.mjh.nz/PlutoTV/60fb3087fbbc120007fc46be-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-5cf0622da00ca1e2f6fac712" tvg-id="5cf0622da00ca1e2f6fac712" tvg-chno="2905" tvg-logo="https://images.pluto.tv/channels/5cf0622da00ca1e2f6fac712/solidLogoPNG.png" group-title="Entertainment",Estrella TV [Fast]
+#EXTINF:-1 channel-id="pluto-5cf0622da00ca1e2f6fac712" tvg-id="5cf0622da00ca1e2f6fac712" tvg-chno="2905" tvg-logo="https://images.pluto.tv/channels/5cf0622da00ca1e2f6fac712/solidLogoPNG.png" group-title="Entertainment",Estrella TV [FAST]
 https://pubads.g.doubleclick.net/ssai/event/CvTZNYjrRC2HJU4io--aAA/master.m3u8
 
-#EXTINF:-1 channel-id="pluto-5cf96dad1652631e36d43320" tvg-id="5cf96dad1652631e36d43320" tvg-chno="2940" tvg-logo="https://images.pluto.tv/channels/5ca671f215a62078d2ec0abf/solidLogoPNG.png" group-title="Comedy",Comedy Central en español [Fast]
+#EXTINF:-1 channel-id="pluto-5cf96dad1652631e36d43320" tvg-id="5cf96dad1652631e36d43320" tvg-chno="2940" tvg-logo="https://images.pluto.tv/channels/5ca671f215a62078d2ec0abf/solidLogoPNG.png" group-title="Comedy",Comedy Central en español [FAST]
 https://r.mjh.nz/PlutoTV/5cf96dad1652631e36d43320-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-60492e6d7f3f560007ab0f62" tvg-id="60492e6d7f3f560007ab0f62" tvg-chno="3030" tvg-logo="https://images.pluto.tv/channels/60492e6d7f3f560007ab0f62/solidLogoPNG.png" group-title="News",Estrella News [Fast]
+#EXTINF:-1 channel-id="pluto-60492e6d7f3f560007ab0f62" tvg-id="60492e6d7f3f560007ab0f62" tvg-chno="3030" tvg-logo="https://images.pluto.tv/channels/60492e6d7f3f560007ab0f62/solidLogoPNG.png" group-title="News",Estrella News [FAST]
 https://pubads.g.doubleclick.net/ssai/event/y1Zjs_6rS3-ltPqmaNLQDQ/master.m3u8
 
-#EXTINF:-1 channel-id="pluto-60492fdd9989d30007ccd30a" tvg-id="60492fdd9989d30007ccd30a" tvg-chno="3060" tvg-logo="https://images.pluto.tv/channels/60492fdd9989d30007ccd30a/solidLogoPNG.png" group-title="Sports",beIN SPORTS XTRA en español [Fast]
+#EXTINF:-1 channel-id="pluto-60492fdd9989d30007ccd30a" tvg-id="60492fdd9989d30007ccd30a" tvg-chno="3060" tvg-logo="https://images.pluto.tv/channels/60492fdd9989d30007ccd30a/solidLogoPNG.png" group-title="Sports",beIN SPORTS XTRA en español [FAST]
 https://r.mjh.nz/PlutoTV/60492fdd9989d30007ccd30a-alt.m3u8
 
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-64fba5f3214cf8b3b54b5ecc" tvg-id="5e20b730f2f8d5003d739db7-64fba5f3214cf8b3b54b5ecc" tvg-chno="3134" tvg-logo="https://i.imgur.com/HiHfp9O.png" group-title="Movies",Canela Cinema [Fast]
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-64fba5f3214cf8b3b54b5ecc" tvg-id="5e20b730f2f8d5003d739db7-64fba5f3214cf8b3b54b5ecc" tvg-chno="3134" tvg-logo="https://i.imgur.com/HiHfp9O.png" group-title="Movies",Canela Cinema [FAST]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3134
 
-#EXTINF:-1 channel-id="pluto-5d8d08395f39465da6fb3ec4" tvg-id="5d8d08395f39465da6fb3ec4" tvg-chno="3180" tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/solidLogoPNG.png" group-title="Family/Kids",Nickelodeon en Español [Fast]
+#EXTINF:-1 channel-id="pluto-5d8d08395f39465da6fb3ec4" tvg-id="5d8d08395f39465da6fb3ec4" tvg-chno="3180" tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/solidLogoPNG.png" group-title="Family/Kids",Nickelodeon en Español [FAST]
 https://r.mjh.nz/PlutoTV/5d8d08395f39465da6fb3ec4-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-60fafef7c2440500071266e0" tvg-id="60fafef7c2440500071266e0" tvg-chno="3245" tvg-logo="https://images.pluto.tv/channels/60fafef7c2440500071266e0/solidLogoPNG.png" group-title="Family/Kids",Grande-ish [Fast]
+#EXTINF:-1 channel-id="pluto-60fafef7c2440500071266e0" tvg-id="60fafef7c2440500071266e0" tvg-chno="3245" tvg-logo="https://images.pluto.tv/channels/60fafef7c2440500071266e0/solidLogoPNG.png" group-title="Family/Kids",Grande-ish [FAST]
 https://r.mjh.nz/PlutoTV/60fafef7c2440500071266e0-alt.m3u8
 
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60995eb136c72d002da7bbcb" tvg-id="5e20b730f2f8d5003d739db7-60995eb136c72d002da7bbcb" tvg-chno="3363" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/LoveNature_Logo_Dark.png" group-title="Animal/Wildlife",Love Nature ESP [Fast]
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60995eb136c72d002da7bbcb" tvg-id="5e20b730f2f8d5003d739db7-60995eb136c72d002da7bbcb" tvg-chno="3363" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/LoveNature_Logo_Dark.png" group-title="Animal/Wildlife",Love Nature ESP [FAST]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3363
 
 #EXTINF:-1 tvg-chno="3506" tvg-logo="https://i.imgur.com/7pcBDq5.png" group-title="Movies",CineKids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3506
 
-#EXTINF:-1 channel-id="pluto-6532e7b290a74c00084a3bb6" tvg-id="6532e7b290a74c00084a3bb6" tvg-logo="https://images.pluto.tv/channels/628e685ba3811100070551a8/solidLogoPNG.png" tvg-chno="3595" group-title="Movies",Hallmark en español [Fast]
+#EXTINF:-1 channel-id="pluto-6532e7b290a74c00084a3bb6" tvg-id="6532e7b290a74c00084a3bb6" tvg-logo="https://images.pluto.tv/channels/628e685ba3811100070551a8/solidLogoPNG.png" tvg-chno="3595" group-title="Movies",Hallmark en español [FAST]
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-65d7b3d2278ed4498289c34b.m3u8
 
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-64694d52f73356567a64ce8c" tvg-id="5e20b730f2f8d5003d739db7-64694d52f73356567a64ce8c" tvg-chno="4826" tvg-logo="https://i.imgur.com/lLQ2Isw.png" group-title="Drama",Azteca Corazón [Fast]
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-64694d52f73356567a64ce8c" tvg-id="5e20b730f2f8d5003d739db7-64694d52f73356567a64ce8c" tvg-chno="4826" tvg-logo="https://i.imgur.com/lLQ2Isw.png" group-title="Drama",Azteca Corazón [FAST]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
 
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6469502df73356567a64ce8e" tvg-id="5e20b730f2f8d5003d739db7-6469502df73356567a64ce8e" tvg-chno="4827" tvg-logo="https://i.imgur.com/rrYLYFJ.png" group-title="Entertainment",Clic [Fast]
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6469502df73356567a64ce8e" tvg-id="5e20b730f2f8d5003d739db7-6469502df73356567a64ce8e" tvg-chno="4827" tvg-logo="https://i.imgur.com/rrYLYFJ.png" group-title="Entertainment",Clic [FAST]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-646d06c9b09f13b2d8af68d8" tvg-id="5e20b730f2f8d5003d739db7-646d06c9b09f13b2d8af68d8" tvg-chno="4828" tvg-logo="https://i.imgur.com/PwW8m4V.png" group-title="Entertainment",Azteca Internacional
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4828
 
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-64695233f73356567a64ce90" tvg-id="5e20b730f2f8d5003d739db7-64695233f73356567a64ce90" tvg-chno="4829" tvg-logo="https://i.imgur.com/FKHGTwA.png" group-title="Entertainment",Cinema [Fast]
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-64695233f73356567a64ce90" tvg-id="5e20b730f2f8d5003d739db7-64695233f73356567a64ce90" tvg-chno="4829" tvg-logo="https://i.imgur.com/FKHGTwA.png" group-title="Entertainment",Cinema [FAST]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db" tvg-id="608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db" tvg-chno="4833" tvg-logo="https://i.imgur.com/8oUTXLR.png" group-title="Entertainment",Azteca UNO -1hra
@@ -459,17 +459,8 @@ https://livestreamhd.us:8077/teleprogreso/live/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-logo="" group-title="",Oromar TV EC
 https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 
-#EXTINF:-1 channel-id="roku-34beeb8efcb656f08d91298bb94e1815" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/34beeb8efcb656f08d91298bb94e1815/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1709832111326_Logo_wapaplus_260x147px_dark_29feb_marketing_HMTV.png" tvg-chno="913" group-title="Entertainment",WAPA+ [Fast]
+#EXTINF:-1 channel-id="roku-34beeb8efcb656f08d91298bb94e1815" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/34beeb8efcb656f08d91298bb94e1815/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1709832111326_Logo_wapaplus_260x147px_dark_29feb_marketing_HMTV.png" tvg-chno="913" group-title="Entertainment",WAPA+ [FAST]
 https://i.mjh.nz/Roku/34beeb8efcb656f08d91298bb94e1815.m3u8
 
-#EXTINF:-1 channel-id="roku-e3823bb513585861904499a21a736c4f" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/e3823bb513585861904499a21a736c4f/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1704751371133_CanalVix_RokuHub_260x147_White.png" tvg-chno="977" group-title="Drama",Canal ViX [Fast]
+#EXTINF:-1 channel-id="roku-e3823bb513585861904499a21a736c4f" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/e3823bb513585861904499a21a736c4f/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1704751371133_CanalVix_RokuHub_260x147_White.png" tvg-chno="977" group-title="Drama",Canal ViX [FAST]
 https://i.mjh.nz/Roku/e3823bb513585861904499a21a736c4f.m3u8
-
-
-
-
-
-
-
-
-
