@@ -222,7 +222,7 @@ https://i.mjh.nz/Roku/8171c38c1c625b5890423572b3fc9fbe.m3u8
 #EXTINF:-1 channel-id="roku-7dea4ba9ecfb572c9380690e6bfb384a" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/7dea4ba9ecfb572c9380690e6bfb384a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1707765052046_FREETV_Drama_260x147.png" tvg-chno="1008" group-title="Drama",FreeTV Drama
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8?player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120
 
-#EXTINF:-1 channel-id="roku-59d2dbddc997559bb7b689a7c887cba4" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/59d2dbddc997559bb7b689a7c887cba4/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1707769538137_FreeTVSureno260x147.png" tvg-chno="1015",FreeTV Sureño
+#EXTINF:-1 channel-id="roku-59d2dbddc997559bb7b689a7c887cba4" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/59d2dbddc997559bb7b689a7c887cba4/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1707769538137_FreeTVSureno260x147.png" tvg-chno="1015" group-title="Movies",FreeTV Sureño
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-ono/playlist.m3u8?player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6018913ea15130002b284191" tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b284191" tvg-chno="1016" tvg-logo="https://i.imgur.com/fbgFXIp.png" group-title="Music",FreeTV Hits
@@ -455,6 +455,8 @@ https://i.mjh.nz/Roku/34beeb8efcb656f08d91298bb94e1815.m3u8
 
 #EXTINF:-1 channel-id="roku-e3823bb513585861904499a21a736c4f" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/e3823bb513585861904499a21a736c4f/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1704751371133_CanalVix_RokuHub_260x147_White.png" tvg-chno="977" group-title="Drama",Canal ViX
 https://i.mjh.nz/Roku/e3823bb513585861904499a21a736c4f.m3u8
+
+
 
 
 
