@@ -258,7 +258,7 @@ https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 #EXTINF:-1 tvg-chno="1106" tvg-logo="https://i.imgur.com/N8extxd.png" group-title="Entertainment",Distrito Comedia
 https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="1107" tvg-logo="https://i.imgur.com/qsTMyvt.png" group-title="Entertainment",Golden Edge
+#EXTINF:-1 tvg-chno="1107" tvg-logo="https://i.imgur.com/qsTMyvt.png" group-title="Movie",Golden Edge
 https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="1109" tvg-logo="https://i.imgur.com/GvJBlUN.png" group-title="Movies",Golden Plus 
@@ -390,8 +390,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3363
 #EXTINF:-1 tvg-chno="3506" tvg-logo="https://i.imgur.com/7pcBDq5.png" group-title="Movies",CineKids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3506
 
-#EXTINF:-1 channel-id="pluto-6532e7b290a74c00084a3bb6" tvg-id="6532e7b290a74c00084a3bb6" tvg-logo="https://images.pluto.tv/channels/628e685ba3811100070551a8/solidLogoPNG.png" tvg-chno="3595" group-title="Movies",Hallmark en español
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-65d7b3d2278ed4498289c34b.m3u8
+#EXTINF:-1 channel-id="pluto-6532e7b290a74c00084a3bb6" tvg-id="6532e7b290a74c00084a3bb6" tvg-logo="https://images.pluto.tv/channels/628e685ba3811100070551a8/solidLogoPNG.png" tvg-chno="3595" group-title="Movies",Hallmark
+Https://r.mjh.nz/PlutoTV/6532e7b290a74c00084a3bb6-alt.m3u8
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-64694d52f73356567a64ce8c" tvg-id="5e20b730f2f8d5003d739db7-64694d52f73356567a64ce8c" tvg-chno="4826" tvg-logo="https://i.imgur.com/lLQ2Isw.png" group-title="Drama",Azteca Corazón
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
@@ -434,18 +434,9 @@ https://rpn3.bozztv.com/ssh101/ssh101/hchtvenvivo/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="" tvg-logo="" group-title="Entertainment",Canal 11 HN
 https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
-
-#EXTINF:-1 tvg-chno="" tvg-logo="" group-title="",Une TV HN
-https://amixtv.live:3395/live/unetvlive.m3u8	
-
-#EXTINF:-1 tvg-chno="" tvg-logo="" group-title="",Nuevo Mundo TV GT
-https://tvlatina.live:1936/8008/8008/playlist.m3u8
-
+	
 #EXTINF:-1 tvg-chno="" tvg-logo="" group-title="",EDN TV HN
 https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="" tvg-logo="" group-title="",TeleProgreso HN
-https://livestreamhd.us:8077/teleprogreso/live/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="" tvg-logo="" group-title="",Oromar TV EC
 https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
@@ -455,6 +446,9 @@ https://i.mjh.nz/Roku/34beeb8efcb656f08d91298bb94e1815.m3u8
 
 #EXTINF:-1 channel-id="roku-e3823bb513585861904499a21a736c4f" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/e3823bb513585861904499a21a736c4f/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1704751371133_CanalVix_RokuHub_260x147_White.png" tvg-chno="977" group-title="Drama",Canal ViX
 https://i.mjh.nz/Roku/e3823bb513585861904499a21a736c4f.m3u8
+
+#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6348a34c1159f6a5ce819b81" tvg-id="608049aefa2b8ae93c2c3a63-6348a34c1159f6a5ce819b81" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ba0b7563-f805-4ee2-903f-f4fc5149ad0c/artflix_logo_light_-_Toni_Newesil.png" , ARTFLIX - Películas Clásicas
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6348a34c1159f6a5ce819b81.m3u8
 
 
 
