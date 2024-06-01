@@ -429,7 +429,7 @@ https://d3mhf0ikztdylu.cloudfront.net/out/v1/817cf22a7bc24a778898407b3a2bfdb3/in
 #EXTINF:-1 tvg-chno="6154" tvg-logo="https://i.imgur.com/0uobN81.png" group-title="Entertainment",Telesistema CR
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
 
-#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="" tvg-chno="https://i.imgur.com/M9vfIXG.png" group-title="Movies",Sony Movies Channel
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://i.imgur.com/M9vfIXG.png" tvg-chno="" group-title="Movies",Sony Movies Channel
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="" tvg-logo="https://i.imgur.com/X5SaQF6.png" group-title="Family/Kids",Pakapaka AR
