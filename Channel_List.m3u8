@@ -418,7 +418,7 @@ https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 
 #EXTINF:-1 tvg-chno="6150" tvg-logo="https://i.imgur.com/px6YT3X.png" group-title="Entertainment",ATV+ PE
-https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
+https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-chno="6151" tvg-logo="https://i.imgur.com/iGG9Fxk.png" group-title="Movies",WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/wowtv.smil/.m3u8
