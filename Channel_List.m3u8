@@ -219,7 +219,7 @@ https://12b71fa80adc4f3ca71526d9a77d5b00.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 channel-id="roku-e3823bb513585861904499a21a736c4f" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/e3823bb513585861904499a21a736c4f/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1704751371133_CanalVix_RokuHub_260x147_White.png" tvg-chno="977" group-title="Drama",Canal ViX
 https://i.mjh.nz/Roku/e3823bb513585861904499a21a736c4f.m3u8
 
-#EXTINF:-1 channel-id="roku-417de64d5d2255119088209d40ebfee6" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/417de64d5d2255119088209d40ebfee6/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1652302122079_260x147-center.png" tvg-chno="970" , Estrella Games
+#EXTINF:-1 channel-id="roku-417de64d5d2255119088209d40ebfee6" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/417de64d5d2255119088209d40ebfee6/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1652302122079_260x147-center.png" tvg-chno="970" group-title="Entertainment",Estrella Games
 https://i.mjh.nz/Roku/417de64d5d2255119088209d40ebfee6.m3u8
 
 #EXTINF:-1 channel-id="roku-8171c38c1c625b5890423572b3fc9fbe" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/8171c38c1c625b5890423572b3fc9fbe/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1659571592459_HUD_logo_260x147_centered.png" tvg-chno="994" group-title="Movies",MyTime (en Espanol)
