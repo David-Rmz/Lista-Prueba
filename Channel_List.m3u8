@@ -348,7 +348,7 @@ https://r.mjh.nz/PlutoTV/5f5136317aedfb0007016f93-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5cf96cc422df39f1a338d165" tvg-id="5cf96cc422df39f1a338d165" tvg-chno="2705" tvg-logo="https://images.pluto.tv/channels/5cf96cc422df39f1a338d165/solidLogoPNG.png" group-title="Entertainment",Telemundo telenovelas clásicas
 https://r.mjh.nz/PlutoTV/5cf96cc422df39f1a338d165-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-5cf96d351652631e36d4331f" tvg-id="5cf96d351652631e36d4331f" tvg-chno="2845" tvg-logo="https://images.pluto.tv/channels/5ca672f515a62078d2ec0ad2/solidLogoPNG.png" group-title="Entertainment",MTV en español
+#EXTINF:-1 channel-id="pluto-5cf96d351652631e36d4331f" tvg-id="5cf96d351652631e36d4331f" tvg-chno="2845" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/746b73a51c315e6f9ceef496d832b049/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1687189297730_MTV_pluto_260x147.png" group-title="Entertainment",MTV
 https://r.mjh.nz/PlutoTV/5cf96d351652631e36d4331f-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-5d8d11baeb31c5a43b77bf59" tvg-id="5d8d11baeb31c5a43b77bf59" tvg-chno="2855" tvg-logo="https://images.pluto.tv/channels/5d8d11baeb31c5a43b77bf59/colorLogoPNG-1620236333797.png" group-title="Entertainment",Spike ¡extremo!
