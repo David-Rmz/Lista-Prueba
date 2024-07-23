@@ -434,5 +434,8 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/.m3u8
 #EXTINF:-1 tvg-chno="" channel-id="plex-5e20b730f2f8d5003d739db7-5fb84bc1b7ad2d002dcb735f" tvg-id="5e20b730f2f8d5003d739db7-5fb84bc1b7ad2d002dcb735f" tvg-logo="https://i.imgur.com/b3K6WaZ.png" group-title="Movies",MovieSphere
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespheremexico-runtimelatam/playlist.m3u8
 
-#EXTINF:-1 channel-id="" tvg-chno="" tvg-logo="" group-title="Entertainment",Canal 6 NI
+#EXTINF:-1 channel-id="" tvg-chno="" tvg-logo="https://i.imgur.com/NTE0leT.png" group-title="Entertainment",Canal 6 NI
 https://live-b.cf.dmcdn.net/sec2(c-Tjj6IlxWfq4fA0zRMXuQL0v1CF7CtydAFSFwe7pzSySokFoxLODo7b2oXZGkjAmYCYlbwEsT60uWOk3SeQrUBFezI0n2nn6U5T94imZkc)/dm/3/x8o87cu/s/live-1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8TxIrSG.png" group-title="Entertainment",ION Television
+https://d1mumb5jst6zw0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqzc6u2smk8dg/ion.m3u8
