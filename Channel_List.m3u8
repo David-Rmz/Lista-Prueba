@@ -45,14 +45,14 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 tvg-id="Teleritmo.mx" tvg-chno="6.4" tvg-logo="https://i.imgur.com/qVBcr3a.png" group-title="Music",Teleritmo TV MX
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
+#EXTINF:-1 tvg-chno="6.4" tvg-logo="" group-title="Entertainment",Popcorn Central MX
+https://freetv.stream.olympusatmedia.com/index.m3u8
+
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-chno="7.1" tvg-logo="https://i.imgur.com/EzNieit.png" group-title="Entertainment",Azteca 7 MX
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
 #EXTINF:-1 tvg-chno="7.2" tvg-id="APlus.mx" tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/b3099d3/2147483647/strip/true/crop/354x186+15+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2Fc9%2Fe9%2F9c090b71468ab8d9d55a1642804f%2Flogo-amas-sitio.png" group-title="Entertainment",a más+ MX
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-
-#EXTINF:-1 tvg-chno="8.2" tvg-logo="https://i.imgur.com/3rL2XFt.png" group-title="Entertainment",FreeTV 8.2 MX
-https://freetv.stream.olympusatmedia.com/index.m3u8
 
 #EXTINF:-1 tvg-id="NueveTV.mx" tvg-chno="9.1" tvg-logo="https://i.imgur.com/AOx2jbb.png" group-title="Entertainment",Nueve TV SLP-MX
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/playlist.m3u8
