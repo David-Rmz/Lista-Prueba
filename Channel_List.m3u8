@@ -45,7 +45,7 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 tvg-id="Teleritmo.mx" tvg-chno="6.4" tvg-logo="https://i.imgur.com/qVBcr3a.png" group-title="Music",Teleritmo TV MX
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
-#EXTINF:-1 tvg-chno="6.4" tvg-logo="" group-title="Entertainment",Popcorn Central MX
+#EXTINF:-1 tvg-chno="6.4" tvg-logo="https://i.imgur.com/bH88GZB.png" group-title="Entertainment",Popcorn Central MX
 https://freetv.stream.olympusatmedia.com/index.m3u8
 
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-chno="7.1" tvg-logo="https://i.imgur.com/EzNieit.png" group-title="Entertainment",Azteca 7 MX
