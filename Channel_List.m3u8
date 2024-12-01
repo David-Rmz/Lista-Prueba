@@ -142,7 +142,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-626c288e54f3
 https://jireh-3-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-639ba57d3f4612cc150a5723" tvg-id="608049aefa2b8ae93c2c3a63-639ba57d3f4612cc150a5723" tvg-chno="237" tvg-logo="https://i.imgur.com/aUuNBNH.png" group-title="Family/Kids",Pitufo TV
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-639ba57d3f4612cc150a5723.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=G9fGFntRhYDkh-sP8wgs
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5444
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6244f2d33ef43121e567cf13" tvg-id="5e20b730f2f8d5003d739db7-6244f2d33ef43121e567cf13" tvg-chno="251" tvg-logo="https://i.imgur.com/jgUvZqU.png" group-title="Entertainment",RCN Más
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
@@ -154,7 +154,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ba4aaff663
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-angermngmtespanol-runtimelatam/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CineSony.us" tvg-chno="373" tvg-logo="https://i.imgur.com/cQqOyjo.png" group-title="Movies",Cine Sony US
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-chno="456" tvg-logo="https://i.imgur.com/YHQ3x4I.png" group-title="News",Deutsche Welle DE
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
@@ -346,3 +346,5 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviesphereme
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8TxIrSG.png" group-title="Entertainment",ION Television
 https://d1mumb5jst6zw0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqzc6u2smk8dg/ion.m3u8
+
+
