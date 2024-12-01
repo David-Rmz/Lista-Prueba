@@ -118,7 +118,7 @@ https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/playlist.m
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8?url=&genre=&ic=&us_privacy=1YNY&coppa=1&user_id=&ip=&ipv6=&c_duration=3600&c_producer=chiquilines&c_rating=TV-G&c_lang=es&ua=&hls_marker=1&content_channel=Chiquilines&content_title=&content_genre=&gdpr=0&player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120&terminate=true&sid=&deviceDNT=0&advertisingId=&deviceLat=0&deviceLon=0&deviceModel=&deviceVersion=&embedPartner=freetv&serverSideAds=true&appName=freetv&deviceId=&appVersion=&deviceType=&deviceMake=&includeDeviceUA=true
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-644c446d7472b186783f359e" tvg-id="5e20b730f2f8d5003d739db7-644c446d7472b186783f359e" tvg-chno="54" tvg-logo="https://provider-static.plex.tv/epg/cms/production/afe5cd54-0d6d-4b60-a4df-91a8d7ac7960/TodoCine_-_White_Fernando_Fraderdx.png" group-title="Movies",Todo Cine
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-644c446d7472b186783f359e.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=bg7NxzYxPVQy1sQcLvM-
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
 
 #EXTINF:-1 tvg-id="" tvg-chno="57" tvg-logo="https://i.imgur.com/fq2ytSV.png" group-title="Entertainment",Canal 57 US
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/index.m3u8
@@ -148,7 +148,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5444
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-62ba4aaff663580a7238f327" tvg-id="608049aefa2b8ae93c2c3a63-62ba4aaff663580a7238f327" tvg-chno="284" tvg-logo="https://i.imgur.com/T4elwSs.png" group-title="Family/Kids",Sonic TV
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ba4aaff663580a7238f327.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=bg7NxzYxPVQy1sQcLvM-
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1969
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-64149ba2d02609d8a7127ee8" tvg-id="5e20b730f2f8d5003d739db7-64149ba2d02609d8a7127ee8" tvg-chno="353" tvg-logo="https://i.imgur.com/qsnps4m.png" group-title="Entertainment",Anger Managment
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-angermngmtespanol-runtimelatam/playlist.m3u8
@@ -346,5 +346,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviesphereme
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8TxIrSG.png" group-title="Entertainment",ION Television
 https://d1mumb5jst6zw0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqzc6u2smk8dg/ion.m3u8
+
 
 
