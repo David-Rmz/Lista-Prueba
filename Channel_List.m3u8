@@ -332,5 +332,7 @@ https://d1mumb5jst6zw0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",TuCine
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4487
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Cindie TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6512
 
 
