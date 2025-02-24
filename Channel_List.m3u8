@@ -9,9 +9,6 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-chno="2.1" tvg-id="WKAQ-TV" tvg-logo="https://img.nbc.com/sites/nbcunbc/files/images/2019/4/16/Telemundo-Logo-White-360x300.png" group-title="Entertainment",Telemundo PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-#EXTINF:-1 tvg-chno="2.3" tvg-logo="https://i.imgur.com/XYBB7xq.png" group-title="Entertainment",Panamericana TV PE
-https://cdnhd.iblups.com/hls/ptv5.m3u8
-
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-chno="3.1" tvg-logo="https://i.imgur.com/XQs2vAc.png" group-title="Entertainment",Imagen TV MX
 https://ythls.armelin.one/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
 
@@ -126,17 +123,8 @@ https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca5029201
 #EXTINF:-1 tvg-chno="85" tvg-logo="https://i.imgur.com/kQgmAmS.png" group-title="Entertainment",Canal 13 AR
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6323ac0f8f253768c26b5529" tvg-id="5e20b730f2f8d5003d739db7-6323ac0f8f253768c26b5529" tvg-chno="103" tvg-logo="https://i.imgur.com/nDk7kzC.png" group-title="Movies",FLOU Cine
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6323ac0f8f253768c26b5529.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=G9fGFntRhYDkh-sP8wgs
-
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-63adf8eff3d69d1885731c06" tvg-id="5e20b730f2f8d5003d739db7-63adf8eff3d69d1885731c06" tvg-chno="104" tvg-logo="https://i.imgur.com/RQorT8t.png" group-title="Entertainment",FLOU Caribeño
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63adf8eff3d69d1885731c06.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=G9fGFntRhYDkh-sP8wgs
-
 #EXTINF:-1 tvg-id="" tvg-chno="156" tvg-logo="https://i.imgur.com/AMbVuUx.png" group-title="Entertainment",MVS TV MX
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
-
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-626c288e54f3232400a45f35" tvg-id="5e20b730f2f8d5003d739db7-626c288e54f3232400a45f35" tvg-chno="201" tvg-logo="https://i.imgur.com/HblNBMa.png" group-title="News",MegaNoticias MX
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-626c288e54f3232400a45f35.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=bg7NxzYxPVQy1sQcLvM-
 
 #EXTINF:-1 tvg-chno="207" tvg-logo="https://i.imgur.com/Lqt4vRp.png" group-title="Entertainment",Ecuavisa EC
 https://jireh-3-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
@@ -261,7 +249,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60fb2f47c133270007
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=true&marketingRegion=US&serverSideAds=true&sid=5d8d164d92e97a5e107638d2&terminate=true
 
 #EXTINF:-1 channel-id="pluto-5d8d180092e97a5e107638d3" tvg-id="5d8d180092e97a5e107638d3" tvg-chno="2670" tvg-logo="https://images.pluto.tv/channels/5d8d180092e97a5e107638d3/solidLogoPNG.png" group-title="Movies",Cine terror
-https://r.mjh.nz/PlutoTV/5d8d180092e97a5e107638d3-alt.m3u8
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?advertisingId=&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d180092e97a5e107638d3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=true&marketingRegion=US&serverSideAds=true&sid=5d8d180092e97a5e107638d3&terminate=true
 
 #EXTINF:-1 channel-id="pluto-5cf96d351652631e36d4331f" tvg-id="5cf96d351652631e36d4331f" tvg-chno="2845" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/746b73a51c315e6f9ceef496d832b049/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1687189297730_MTV_pluto_260x147.png" group-title="Entertainment",MTV US
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96d351652631e36d4331f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=true&marketingRegion=US&serverSideAds=true&sid=5cf96d351652631e36d4331f&terminate=true
