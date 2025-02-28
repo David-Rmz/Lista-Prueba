@@ -323,4 +323,22 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4487
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Cindie TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6512
 
+#EXTINF:-1 tvg-chno="2003" tvg-id="" tvg-logo="" group-title="Movies",Romance Channel
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/romance-channel/4f37597d-cfe0-4c74-870f-723578f5a0e8/0.m3u8
+
+#EXTINF:-1 tvg-chno="2673" tvg-id="" tvg-logo="" group-title="Movies",CineEspanto
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6126
+
+#EXTINF:-1 tvg-chno="2699" tvg-id="" tvg-logo="" group-title="Movies",Butaca TV
+https://linear-842.frequency.stream/mt/plex/842/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="2026" tvg-id="" tvg-logo="" group-title="Entertainment",Canal 6 Guadalajara
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+
+#EXTINF:-1 tvg-chno="2708" tvg-id="" tvg-logo="" group-title="Entertainment",SparkTV
+https://candlelightmedia-sparklightlove-2-mx.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="2436" tvg-id="" tvg-logo="" group-title="Music",Exa TV
+https://mvs.daioncdn.net/exatv/exatv.m3u8?app=web
+
 
