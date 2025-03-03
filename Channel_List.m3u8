@@ -341,4 +341,7 @@ https://candlelightmedia-sparklightlove-2-mx.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="2436" tvg-id="" tvg-logo="" group-title="Music",Exa TV
 https://mvs.daioncdn.net/exatv/exatv.m3u8?app=web
 
+#EXTINF:-1 tvg-chno="2227" tvg-id="" tvg-logo="" group-title="Animal/Wildlife",Stingray Naturescape
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3041
+
 
