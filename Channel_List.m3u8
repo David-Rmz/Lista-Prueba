@@ -9,9 +9,6 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-chno="2.1" tvg-id="WKAQ-TV" tvg-logo="https://img.nbc.com/sites/nbcunbc/files/images/2019/4/16/Telemundo-Logo-White-360x300.png" group-title="Entertainment",Telemundo PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-chno="3.1" tvg-logo="https://i.imgur.com/XQs2vAc.png" group-title="Entertainment",Imagen TV MX
-https://ythls.armelin.one/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
-
 #EXTINF:-1 tvg-id="TVCuatro41.mx" tvg-chno="4.1" tvg-logo="https://www.tvcuatro.com/images/logo-menu.png" group-title="Education",Canal 4.1 MX
 https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
 
@@ -53,12 +50,6 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
 #EXTINF:-1 tvg-id="NueveTV.mx" tvg-chno="9.1" tvg-logo="https://i.imgur.com/AOx2jbb.png" group-title="Entertainment",Nueve TV SLP-MX
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="10" tvg-logo="https://i.imgur.com/HpoRA8x.png" group-title="Education",Canal 10 RTQ-MX
-https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="10.11" tvg-logo="https://i.imgur.com/HpoRA8x.png" group-title="Education",Canal 10 RTQ-MX (2)
-https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8
 
 #EXTINF:-1 tvg-chno="10.1" tvg-logo="https://i.imgur.com/RZ38lLm.png" group-title="Entertainment",Canal 7 SLP-MX
 https://mvtvstream.com:444/live/6456eb2e56ab7/index.m3u8
@@ -160,13 +151,13 @@ https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
 https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index.m3u8
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-627121c4210f4a174062e5c5" tvg-id="5e20b730f2f8d5003d739db7-627121c4210f4a174062e5c5" tvg-chno="902" tvg-logo="https://i.imgur.com/nU9OP2b.png" group-title="News",The Weather Channel en Español
-https://linear-431.frequency.stream/mt/plex/431/hls/master/playlist.m3u8
+https://db691j6te7mt4.cloudfront.net/out/v1/f65bdb9d5ac1498ba700027b5ca8a383/index.m3u8
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c18" tvg-id="5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c18" tvg-chno="908" tvg-logo="https://i.imgur.com/uhKCuSg.png" group-title="Entertainment",Canela.TV (Plex)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=yA8aFZC94-Az2RAPHMpT&content_series=5f5132e362fe160040f26c18&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=yA8aFZC94-Az2RAPHMpT&custom_7=5f5132e362fe160040f26c18&is_lat=0
 
 #EXTINF:-1 tvg-chno="919" tvg-logo="https://i.imgur.com/KemxtbM.png" group-title="Family/Kids",ZAZ
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2369
+https://cloud.fastchannel.es/mic/manifiest/hls/zaztv_distro/zaztv.m3u8
 
 #EXTINF:-1 tvg-chno="922" tvg-logo="https://i.imgur.com/m9LqHG1.png" group-title="Education",Inti TV EC
 https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8
@@ -187,7 +178,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-ono/play
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/playlist.m3u8?player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120
 
 #EXTINF:-1 channel-id="roku-5dbf591219b15aa8bb3a7b73b59307f0" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/5dbf591219b15aa8bb3a7b73b59307f0/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1657834856300_center-HUD-260x147.png" tvg-chno="1035" group-title="Movies",Cine EstrellaTV
-https://d2spdq8rliqjem.cloudfront.net/v1/master/43fcaa28f618f06de1eb896cc4c2469172c85466/ca8ac61f-40c4-44aa-b1c1-05ecf6b92c11/live.m3u8
+https://d10zlyk7p8aa68.cloudfront.net/playlist/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-617afafd7ab406f93af02607" tvg-id="5e20b730f2f8d5003d739db7-617afafd7ab406f93af02607" tvg-chno="1052" tvg-logo="https://i.imgur.com/1M1bFug.png" group-title="Entertainment",FreeTV Horror
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playlist.m3u8?player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120
@@ -273,7 +264,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60fafef7c2440500071266e0/master.m3u8?advertisingId=&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=60fafef7c2440500071266e0&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=true&marketingRegion=US&serverSideAds=true&sid=60fafef7c2440500071266e0&terminate=true
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60995eb136c72d002da7bbcb" tvg-id="5e20b730f2f8d5003d739db7-60995eb136c72d002da7bbcb" tvg-chno="3363" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/LoveNature_Logo_Dark.png" group-title="Animal/Wildlife",Love Nature ESP
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3363
+https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/1080p-spa/index.m3u8
 
 #EXTINF:-1 tvg-chno="3506" tvg-logo="https://i.imgur.com/7pcBDq5.png" group-title="Movies",CineKids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3506
@@ -299,43 +290,38 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
 #EXTINF:-1 tvg-chno="6149" tvg-logo="https://i.imgur.com/jReFHDs.png" group-title="Entertainment",Imagen TV+
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 
-#EXTINF:-1 tvg-chno="6151" tvg-logo="https://i.imgur.com/iGG9Fxk.png" group-title="Movies",WOW TV
+#EXTINF:-1 tvg-chno="6151" tvg-logo="https://i.imgur.com/hj9hNB4.png" group-title="Movies",WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/wowtv.smil/.m3u8
 
 #EXTINF:-1 tvg-chno="" channel-id="plex-5e20b730f2f8d5003d739db7-5fb84bc1b7ad2d002dcb735f" tvg-id="5e20b730f2f8d5003d739db7-5fb84bc1b7ad2d002dcb735f" tvg-logo="https://i.imgur.com/b3K6WaZ.png" group-title="Movies",MovieSphere
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespheremexico-runtimelatam/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8TxIrSG.png" group-title="Entertainment",ION Television
-https://d1mumb5jst6zw0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqzc6u2smk8dg/ion.m3u8
+https://scripps-ion-1-us.plex.wurl.tv/playlist_webvtt.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",TuCine
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4487
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Cindie TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3NZju3Z.png" group-title="Movies",Cindie TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6512
 
-#EXTINF:-1 tvg-chno="2003" tvg-id="" tvg-logo="" group-title="Movies",Romance Channel
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/romance-channel/4f37597d-cfe0-4c74-870f-723578f5a0e8/0.m3u8
-
-#EXTINF:-1 tvg-chno="2673" tvg-id="" tvg-logo="" group-title="Movies",CineEspanto
+#EXTINF:-1 tvg-chno="2673" tvg-id="" tvg-logo="https://i.imgur.com/FFQU6IM.png" group-title="Movies",CineEspanto
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6126
 
-#EXTINF:-1 tvg-chno="2699" tvg-id="" tvg-logo="" group-title="Movies",Butaca TV
+#EXTINF:-1 tvg-chno="2699" tvg-id="" tvg-logo="https://i.imgur.com/zKlxOCN.png" group-title="Movies",Butaca TV
 https://linear-842.frequency.stream/mt/plex/842/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="2026" tvg-id="" tvg-logo="" group-title="Entertainment",Canal 6 Guadalajara
+#EXTINF:-1 tvg-chno="2026" tvg-id="" tvg-logo="https://i.imgur.com/K5WNZ61.png" group-title="Entertainment",Canal 6 Guadalajara
 https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
 
-#EXTINF:-1 tvg-chno="2708" tvg-id="" tvg-logo="" group-title="Entertainment",SparkTV
+#EXTINF:-1 tvg-chno="2708" tvg-id="" tvg-logo="https://i.imgur.com/uqDaIK6.png" group-title="Entertainment",SparkTV
 https://candlelightmedia-sparklightlove-2-mx.plex.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="2436" tvg-id="" tvg-logo="" group-title="Music",Exa TV
+#EXTINF:-1 tvg-chno="2436" tvg-id="" tvg-logo="https://i.imgur.com/FacATYy.png" group-title="Music",Exa TV
 https://mvs.daioncdn.net/exatv/exatv.m3u8?app=web
 
-#EXTINF:-1 tvg-chno="2227" tvg-id="" tvg-logo="" group-title="Animal/Wildlife",Stingray Naturescape
+#EXTINF:-1 tvg-chno="2227" tvg-id="" tvg-logo="https://i.imgur.com/1EGb06r.png" group-title="Animal/Wildlife",Stingray Naturescape
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3041
 
-#EXTINF:-1 channel-id="" tvg-id="" tvg-chno="2002" tvg-logo="" group-title="Sports",Azteca Deportes Network Premium
+#EXTINF:-1 channel-id="" tvg-id="" tvg-chno="2002" tvg-logo="https://i.imgur.com/tDecBmM.png" group-title="Sports",Azteca Deportes Network Premium
 https://azt-dep.otteravision.com/azt/dep/dep.m3u8
-
-
