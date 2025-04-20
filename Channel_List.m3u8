@@ -66,9 +66,6 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-chno="14" tvg-logo="https://i.imgur.com/SosxUV4.png" group-title="Family/Kids",Clan ES
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 
-#EXTINF:-1 tvg-chno="16.1" tvg-logo="https://i.imgur.com/tm9y9Pd.png" group-title="Entertainment",SMRTV MX
-https://s5.mexside.net:1936/enlinea/enlinea/chunklist_w882957131.m3u8
-
 #EXTINF:-1 tvg-id="Capital21.mx" tvg-chno="21.1" tvg-logo="https://www.capital21.cdmx.gob.mx/clasificados/assets/img/logo%20coraz%C3%B3n%20de%20la%20capital.png" group-title="Entertainment",Capital 21 MX
 https://video.cdmx.gob.mx/redes/stream.m3u8
 
@@ -129,7 +126,7 @@ https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-chno="456" tvg-logo="https://i.imgur.com/YHQ3x4I.png" group-title="News",Deutsche Welle DE
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 tvg-chno="514" tvg-logo="https://i.imgur.com/RxOK0Cg.png" group-title="Family/Kids",TG en Español
+#EXTINF:-1 channel-id="608049aefa2b8ae93c2c3a63-6041643175c115002dc51259" tvg-chno="514" tvg-logo="https://i.imgur.com/RxOK0Cg.png" group-title="Family/Kids",Toon Goggles
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-64fba469bb3e0baa5dcc0947" tvg-id="5e20b730f2f8d5003d739db7-64fba469bb3e0baa5dcc0947" tvg-chno="652" tvg-logo="https://i.imgur.com/YVZkxsB.png" group-title="Movies",Canela Clásicos
@@ -293,7 +290,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 #EXTINF:-1 tvg-chno="6151" tvg-logo="https://i.imgur.com/hj9hNB4.png" group-title="Movies",WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/wowtv.smil/.m3u8
 
-#EXTINF:-1 tvg-chno="" channel-id="plex-5e20b730f2f8d5003d739db7-5fb84bc1b7ad2d002dcb735f" tvg-id="5e20b730f2f8d5003d739db7-5fb84bc1b7ad2d002dcb735f" tvg-logo="https://i.imgur.com/b3K6WaZ.png" group-title="Movies",MovieSphere
+#EXTINF:-1 tvg-chno="" channel-id="608049aefa2b8ae93c2c3a63-6623c8ffed4918437ed56ec4" tvg-id="5e20b730f2f8d5003d739db7-5fb84bc1b7ad2d002dcb735f" tvg-logo="https://i.imgur.com/b3K6WaZ.png" group-title="Movies",MovieSphere
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespheremexico-runtimelatam/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8TxIrSG.png" group-title="Entertainment",ION Television
