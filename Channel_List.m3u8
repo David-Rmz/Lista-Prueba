@@ -322,3 +322,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3041
 
 #EXTINF:-1 channel-id="" tvg-id="" tvg-chno="2002" tvg-logo="https://i.imgur.com/tDecBmM.png" group-title="Sports",Azteca Deportes Network Premium
 https://azt-dep.otteravision.com/azt/dep/dep.m3u8
+
+#EXTINF:-1 channel-id="" tvg-id="" tvg-chno="" tvg-logo="" group-title="",Unife
+https://5dcabf026b188.streamlock.net/StreamUnife/livestream/playlist.m3u8
