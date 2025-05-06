@@ -63,6 +63,9 @@ https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/.m3u8
 #EXTINF:-1 tvg-chno="12" tvg-logo="https://i.imgur.com/Gb995I6.png" group-title="News",Canal 24 Horas ES
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
+#EXTINF:-1 channel-id="" tvg-id="" tvg-chno="13.2" tvg-logo="https://i.imgur.com/UPQCoXf.png" group-title="Entertainment",Unife
+https://5dcabf026b188.streamlock.net/StreamUnife/livestream/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="14" tvg-logo="https://i.imgur.com/SosxUV4.png" group-title="Family/Kids",Clan ES
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 
@@ -322,6 +325,3 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3041
 
 #EXTINF:-1 channel-id="" tvg-id="" tvg-chno="2002" tvg-logo="https://i.imgur.com/tDecBmM.png" group-title="Sports",Azteca Deportes Network Premium
 https://azt-dep.otteravision.com/azt/dep/dep.m3u8
-
-#EXTINF:-1 channel-id="" tvg-id="" tvg-chno="" tvg-logo="" group-title="",Unife
-https://5dcabf026b188.streamlock.net/StreamUnife/livestream/playlist.m3u8
