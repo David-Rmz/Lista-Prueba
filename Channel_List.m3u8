@@ -133,16 +133,16 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-64fba469bb3e0baa5dcc0947" tvg-id="5e20b730f2f8d5003d739db7-64fba469bb3e0baa5dcc0947" tvg-chno="652" tvg-logo="https://i.imgur.com/YVZkxsB.png" group-title="Movies",Canela Clásicos
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
+https://amg00658-amg00658c26-canelatv-international-5056.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-clasicos-canelatvinternational/playlist.m3u8
 
 #EXTINF:-1 channel-id="samsung-USBC39000080S" tvg-id="USBC39000080S" tvg-logo="https://i.imgur.com/uhKCuSg.png" tvg-chno="3900"  group-title="Entertainment",Canela.TV (Canela TV)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=653
+https://amg00658-amg00658c108-canelatv-international-7664.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelatvlatamapp-canelatvinternational/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="654" tvg-logo="https://i.imgur.com/6Ip2LqF.png" group-title="Family/Kids",Canela Kids
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
+https://amg00658-amg00658c38-canelatv-international-5220.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelakidsta-canelatvinternational/playlist.m3u8
 
 #EXTINF:-1 channel-id="samsung-USBA3800001E0" tvg-id="USBA3800001E0" tvg-chno="3990" tvg-logo="https://i.imgur.com/BdRJjTG.png" group-title="Movies",Cine Romántico
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
+https://amg00658-amg00658c66-canelatv-international-5554.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cineromanticoappta-canelatvinternational/playlist.m3u8
 
 #EXTINF:-1 tvg-id="nmas.com.mx" tvg-chno="712" tvg-logo="https://images.vix.com/prd/channel/63ea420d27b695a94b1d428b/3830196ffbfe732108455528f7103b6b?tr=q-80&w=1440" group-title="News",N+ MX
 https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
@@ -196,7 +196,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmcfreetv-ono/playl
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playlist.m3u8?player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120
 
 #EXTINF:-1 tvg-chno="1152" tvg-logo="https://i.imgur.com/v8GETlI.png" group-title="Entertainment",Canela Telenovelas
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
+https://amg00658-amg00658c30-canelatv-international-5107.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-telenovelasapp-canelatvinternational/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="1170" tvg-logo="https://i.imgur.com/uR60foW.png" group-title="Entertainment",RCN Xtra 
 https://df4ac36b116646748d613407d93f79aa.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_RCNXtra/playlist.m3u8
@@ -255,7 +255,7 @@ https://pubads.g.doubleclick.net/ssai/event/y1Zjs_6rS3-ltPqmaNLQDQ/master.m3u8
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=60492fdd9989d30007ccd30a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=true&marketingRegion=US&serverSideAds=true&sid=60492fdd9989d30007ccd30a&terminate=true
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-64fba5f3214cf8b3b54b5ecc" tvg-id="5e20b730f2f8d5003d739db7-64fba5f3214cf8b3b54b5ecc" tvg-chno="3134" tvg-logo="https://i.imgur.com/HiHfp9O.png" group-title="Movies",Canela Cinema
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3134
+https://amg00658-amg00658c8-canelatv-international-7227.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cinemalt-canelatvinternational/playlist.m3u8
 
 #EXTINF:-1 channel-id="pluto-5d8d08395f39465da6fb3ec4" tvg-id="5d8d08395f39465da6fb3ec4" tvg-chno="3180" tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/solidLogoPNG.png" group-title="Family/Kids",Nickelodeon en Español
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d08395f39465da6fb3ec4&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=true&marketingRegion=US&serverSideAds=true&sid=5d8d08395f39465da6fb3ec4&terminate=true
@@ -265,9 +265,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60fafef7c244050007
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60995eb136c72d002da7bbcb" tvg-id="5e20b730f2f8d5003d739db7-60995eb136c72d002da7bbcb" tvg-chno="3363" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/LoveNature_Logo_Dark.png" group-title="Animal/Wildlife",Love Nature ESP
 https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/1080p-spa/index.m3u8
-
-#EXTINF:-1 tvg-chno="3506" tvg-logo="https://i.imgur.com/7pcBDq5.png" group-title="Movies",CineKids
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3506
 
 #EXTINF:-1 channel-id="pluto-6532e7b290a74c00084a3bb6" tvg-id="6532e7b290a74c00084a3bb6" tvg-logo="https://images.pluto.tv/channels/628e685ba3811100070551a8/solidLogoPNG.png" tvg-chno="3595" group-title="Movies",Hallmark
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/65453ee6056b97000880302a/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=e183d472-dff9-afda-46e0-bfb628d4d855&deviceDNT=0&deviceModel=0
@@ -325,3 +322,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3041
 
 #EXTINF:-1 channel-id="" tvg-id="" tvg-chno="2002" tvg-logo="https://i.imgur.com/tDecBmM.png" group-title="Sports",Azteca Deportes Network Premium
 https://azt-dep.otteravision.com/azt/dep/dep.m3u8
+
+#EXTINF:-1 channel-id="" tvg-id="" tvg-chno="" tvg-logo="" group-title="Movies",Box Cinema
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/dce027e2-3be9-42eb-acad-c118df19e2af/4.m3u8
+
+
