@@ -290,7 +290,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 #EXTINF:-1 tvg-chno="6151" tvg-logo="https://i.imgur.com/hj9hNB4.png" group-title="Movies",WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/wowtv.smil/.m3u8
 
-#EXTINF:-1 tvg-chno="" channel-id="608049aefa2b8ae93c2c3a63-6623c8ffed4918437ed56ec4" tvg-id="5e20b730f2f8d5003d739db7-5fb84bc1b7ad2d002dcb735f" tvg-logo="https://i.imgur.com/b3K6WaZ.png" group-title="Movies",MovieSphere
+#EXTINF:-1 tvg-chno="" channel-id="608049aefa2b8ae93c2c3a63-6623c8ffed4918437ed56ec4" tvg-id="608049aefa2b8ae93c2c3a63-6623c8ffed4918437ed56ec4" tvg-logo="https://i.imgur.com/b3K6WaZ.png" group-title="Movies",MovieSphere
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespheremexico-runtimelatam/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8TxIrSG.png" group-title="Entertainment",ION Television
@@ -325,5 +325,6 @@ https://azt-dep.otteravision.com/azt/dep/dep.m3u8
 
 #EXTINF:-1 channel-id="" tvg-id="" tvg-chno="" tvg-logo="" group-title="Movies",Box Cinema
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/dce027e2-3be9-42eb-acad-c118df19e2af/4.m3u8
+
 
 
