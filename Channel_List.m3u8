@@ -33,7 +33,7 @@ https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
 #EXTINF:-1 tvg-chno="6.1" tvg-logo="https://i.imgur.com/kK7tVMP.png" group-title="Entertainment",Canal 6 MTY-MX
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
-#EXTINF:-1 tvg-id="MilenioTelevision.mx" tvg-chno="6.2" tvg-logo="https://i.imgur.com/KfoPeai.png" group-title="News",Milenio Televisión MX
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-65b16e7b115f5ad5450cfdac" tvg-chno="6.2" tvg-logo="https://i.imgur.com/KfoPeai.png" group-title="News",Milenio Televisión MX
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
 #EXTINF:-1 tvg-id="Teleritmo.mx" tvg-chno="6.4" tvg-logo="https://i.imgur.com/qVBcr3a.png" group-title="Music",Teleritmo TV MX
@@ -311,7 +311,7 @@ https://linear-842.frequency.stream/mt/plex/842/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-chno="2026" tvg-id="" tvg-logo="https://i.imgur.com/K5WNZ61.png" group-title="Entertainment",Canal 6 Guadalajara
 https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
 
-#EXTINF:-1 tvg-chno="2708" tvg-id="" tvg-logo="https://i.imgur.com/uqDaIK6.png" group-title="Entertainment",SparkTV
+#EXTINF:-1 tvg-chno="2708" tvg-id="608049aefa2b8ae93c2c3a63-6623c03b28a167c6e5b3079a" tvg-id="608049aefa2b8ae93c2c3a63-6623c03b28a167c6e5b3079a" tvg-logo="https://i.imgur.com/uqDaIK6.png" group-title="Entertainment",SparkTV
 https://candlelightmedia-sparklightlove-2-mx.plex.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="2436" tvg-id="" tvg-logo="https://i.imgur.com/FacATYy.png" group-title="Music",Exa TV
@@ -325,6 +325,9 @@ https://azt-dep.otteravision.com/azt/dep/dep.m3u8
 
 #EXTINF:-1 channel-id="" tvg-id="" tvg-chno="" tvg-logo="" group-title="Movies",Box Cinema
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/dce027e2-3be9-42eb-acad-c118df19e2af/4.m3u8
+
+
+
 
 
 
