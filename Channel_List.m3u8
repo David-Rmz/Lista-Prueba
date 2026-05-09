@@ -230,3 +230,15 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=16465
 
 #EXTINF:-1 channel-id="samsung-USAJ1700009QJ" tvg-id="USAJ1700009QJ" tvg-chno="1270" tvg-logo="https://i.imgur.com/c0GdM2Q.png" group-title="Movies",FreeTV Estelar
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16197
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6018913ea15130002b284191" tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b284191" tvg-chno="1016" tvg-logo="https://i.imgur.com/fbgFXIp.png" group-title="Music",FreeTV Hits
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16370
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-617afafd7ab406f93af02607" tvg-id="5e20b730f2f8d5003d739db7-617afafd7ab406f93af02607" tvg-chno="1052" tvg-logo="https://i.imgur.com/1M1bFug.png" group-title="Entertainment",FreeTV Horror
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16194
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60240f57676235002df19f49" tvg-id="5e20b730f2f8d5003d739db7-60240f57676235002df19f49" tvg-chno="1069" tvg-logo="https://i.imgur.com/KtiBxAZ.png" group-title="Entertainment",FreeTV Familia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16196
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6018913ea15130002b284195" tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b284195" tvg-chno="1094" tvg-logo="https://i.imgur.com/2UjcKEO.png" group-title="Education",FreeTV Saber Más
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16474
